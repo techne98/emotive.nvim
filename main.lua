@@ -27,7 +27,6 @@ local emojis = function(opts)
       actions.close(prompt_bufnr)
       local selection = action_state.get_selected_entry()
       local emoji = selection[1]:match("^%S*")
-      -- print(vim.inspect(selection))
       vim.api.nvim_put({ emoji }, "", false, true)
       end)
       return true
