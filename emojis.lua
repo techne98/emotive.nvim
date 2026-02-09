@@ -139,14 +139,7 @@ local emojis = {
     sub_group = "face-affection",
     codepoints = "263A FE0F",
   },
-  {
-    emoji = "☺",
-    name = "smiling face",
-    group = "Smileys & Emotion",
-    sub_group = "face-affection",
-    codepoints = "263A",
-  },
-  {
+    {
     emoji = "😚",
     name = "kissing face with closed eyes",
     group = "Smileys & Emotion",
@@ -307,14 +300,7 @@ local emojis = {
     sub_group = "face-neutral-skeptical",
     codepoints = "1F636 200D 1F32B FE0F",
   },
-  {
-    emoji = "😶‍🌫",
-    name = "face in clouds",
-    group = "Smileys & Emotion",
-    sub_group = "face-neutral-skeptical",
-    codepoints = "1F636 200D 1F32B",
-  },
-  {
+    {
     emoji = "😏",
     name = "smirking face",
     group = "Smileys & Emotion",
@@ -559,14 +545,7 @@ local emojis = {
     sub_group = "face-concerned",
     codepoints = "2639 FE0F",
   },
-  {
-    emoji = "☹",
-    name = "frowning face",
-    group = "Smileys & Emotion",
-    sub_group = "face-concerned",
-    codepoints = "2639",
-  },
-  {
+    {
     emoji = "😮",
     name = "face with open mouth",
     group = "Smileys & Emotion",
@@ -769,14 +748,7 @@ local emojis = {
     sub_group = "face-negative",
     codepoints = "2620 FE0F",
   },
-  {
-    emoji = "☠",
-    name = "skull and crossbones",
-    group = "Smileys & Emotion",
-    sub_group = "face-negative",
-    codepoints = "2620",
-  },
-  {
+    {
     emoji = "💩",
     name = "pile of poo",
     group = "Smileys & Emotion",
@@ -986,14 +958,7 @@ local emojis = {
     sub_group = "heart",
     codepoints = "2763 FE0F",
   },
-  {
-    emoji = "❣",
-    name = "heart exclamation",
-    group = "Smileys & Emotion",
-    sub_group = "heart",
-    codepoints = "2763",
-  },
-  {
+    {
     emoji = "💔",
     name = "broken heart",
     group = "Smileys & Emotion",
@@ -1007,42 +972,21 @@ local emojis = {
     sub_group = "heart",
     codepoints = "2764 FE0F 200D 1F525",
   },
-  {
-    emoji = "❤‍🔥",
-    name = "heart on fire",
-    group = "Smileys & Emotion",
-    sub_group = "heart",
-    codepoints = "2764 200D 1F525",
-  },
-  {
+    {
     emoji = "❤️‍🩹",
     name = "mending heart",
     group = "Smileys & Emotion",
     sub_group = "heart",
     codepoints = "2764 FE0F 200D 1FA79",
   },
-  {
-    emoji = "❤‍🩹",
-    name = "mending heart",
-    group = "Smileys & Emotion",
-    sub_group = "heart",
-    codepoints = "2764 200D 1FA79",
-  },
-  {
+    {
     emoji = "❤️",
     name = "red heart",
     group = "Smileys & Emotion",
     sub_group = "heart",
     codepoints = "2764 FE0F",
   },
-  {
-    emoji = "❤",
-    name = "red heart",
-    group = "Smileys & Emotion",
-    sub_group = "heart",
-    codepoints = "2764",
-  },
-  {
+    {
     emoji = "🩷",
     name = "pink heart",
     group = "Smileys & Emotion",
@@ -1175,14 +1119,7 @@ local emojis = {
     sub_group = "emotion",
     codepoints = "1F573 FE0F",
   },
-  {
-    emoji = "🕳",
-    name = "hole",
-    group = "Smileys & Emotion",
-    sub_group = "emotion",
-    codepoints = "1F573",
-  },
-  {
+    {
     emoji = "💬",
     name = "speech balloon",
     group = "Smileys & Emotion",
@@ -1196,56 +1133,21 @@ local emojis = {
     sub_group = "emotion",
     codepoints = "1F441 FE0F 200D 1F5E8 FE0F",
   },
-  {
-    emoji = "👁‍🗨️",
-    name = "eye in speech bubble",
-    group = "Smileys & Emotion",
-    sub_group = "emotion",
-    codepoints = "1F441 200D 1F5E8 FE0F",
-  },
-  {
-    emoji = "👁️‍🗨",
-    name = "eye in speech bubble",
-    group = "Smileys & Emotion",
-    sub_group = "emotion",
-    codepoints = "1F441 FE0F 200D 1F5E8",
-  },
-  {
-    emoji = "👁‍🗨",
-    name = "eye in speech bubble",
-    group = "Smileys & Emotion",
-    sub_group = "emotion",
-    codepoints = "1F441 200D 1F5E8",
-  },
-  {
+        {
     emoji = "🗨️",
     name = "left speech bubble",
     group = "Smileys & Emotion",
     sub_group = "emotion",
     codepoints = "1F5E8 FE0F",
   },
-  {
-    emoji = "🗨",
-    name = "left speech bubble",
-    group = "Smileys & Emotion",
-    sub_group = "emotion",
-    codepoints = "1F5E8",
-  },
-  {
+    {
     emoji = "🗯️",
     name = "right anger bubble",
     group = "Smileys & Emotion",
     sub_group = "emotion",
     codepoints = "1F5EF FE0F",
   },
-  {
-    emoji = "🗯",
-    name = "right anger bubble",
-    group = "Smileys & Emotion",
-    sub_group = "emotion",
-    codepoints = "1F5EF",
-  },
-  {
+    {
     emoji = "💭",
     name = "thought balloon",
     group = "Smileys & Emotion",
@@ -1350,14 +1252,7 @@ local emojis = {
     sub_group = "hand-fingers-open",
     codepoints = "1F590 FE0F",
   },
-  {
-    emoji = "🖐",
-    name = "hand with fingers splayed",
-    group = "People & Body",
-    sub_group = "hand-fingers-open",
-    codepoints = "1F590",
-  },
-  {
+    {
     emoji = "🖐🏻",
     name = "hand with fingers splayed: light skin tone",
     group = "People & Body",
@@ -1861,14 +1756,7 @@ local emojis = {
     sub_group = "hand-fingers-partial",
     codepoints = "270C FE0F",
   },
-  {
-    emoji = "✌",
-    name = "victory hand",
-    group = "People & Body",
-    sub_group = "hand-fingers-partial",
-    codepoints = "270C",
-  },
-  {
+    {
     emoji = "✌🏻",
     name = "victory hand: light skin tone",
     group = "People & Body",
@@ -2330,14 +2218,7 @@ local emojis = {
     sub_group = "hand-single-finger",
     codepoints = "261D FE0F",
   },
-  {
-    emoji = "☝",
-    name = "index pointing up",
-    group = "People & Body",
-    sub_group = "hand-single-finger",
-    codepoints = "261D",
-  },
-  {
+    {
     emoji = "☝🏻",
     name = "index pointing up: light skin tone",
     group = "People & Body",
@@ -3107,14 +2988,7 @@ local emojis = {
     sub_group = "hand-prop",
     codepoints = "270D FE0F",
   },
-  {
-    emoji = "✍",
-    name = "writing hand",
-    group = "People & Body",
-    sub_group = "hand-prop",
-    codepoints = "270D",
-  },
-  {
+    {
     emoji = "✍🏻",
     name = "writing hand: light skin tone",
     group = "People & Body",
@@ -3548,14 +3422,7 @@ local emojis = {
     sub_group = "body-parts",
     codepoints = "1F441 FE0F",
   },
-  {
-    emoji = "👁",
-    name = "eye",
-    group = "People & Body",
-    sub_group = "body-parts",
-    codepoints = "1F441",
-  },
-  {
+    {
     emoji = "👅",
     name = "tongue",
     group = "People & Body",
@@ -3919,168 +3786,84 @@ local emojis = {
     sub_group = "person",
     codepoints = "1F9D4 200D 2642 FE0F",
   },
-  {
-    emoji = "🧔‍♂",
-    name = "man: beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 200D 2642",
-  },
-  {
+    {
     emoji = "🧔🏻‍♂️",
     name = "man: light skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧔🏻‍♂",
-    name = "man: light skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧔🏼‍♂️",
     name = "man: medium-light skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧔🏼‍♂",
-    name = "man: medium-light skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧔🏽‍♂️",
     name = "man: medium skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧔🏽‍♂",
-    name = "man: medium skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧔🏾‍♂️",
     name = "man: medium-dark skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧔🏾‍♂",
-    name = "man: medium-dark skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧔🏿‍♂️",
     name = "man: dark skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧔🏿‍♂",
-    name = "man: dark skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧔‍♀️",
     name = "woman: beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 200D 2640 FE0F",
   },
-  {
-    emoji = "🧔‍♀",
-    name = "woman: beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 200D 2640",
-  },
-  {
+    {
     emoji = "🧔🏻‍♀️",
     name = "woman: light skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧔🏻‍♀",
-    name = "woman: light skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧔🏼‍♀️",
     name = "woman: medium-light skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧔🏼‍♀",
-    name = "woman: medium-light skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧔🏽‍♀️",
     name = "woman: medium skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧔🏽‍♀",
-    name = "woman: medium skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧔🏾‍♀️",
     name = "woman: medium-dark skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧔🏾‍♀",
-    name = "woman: medium-dark skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧔🏿‍♀️",
     name = "woman: dark skin tone, beard",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F9D4 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧔🏿‍♀",
-    name = "woman: dark skin tone, beard",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F9D4 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "👨‍🦰",
     name = "man: red hair",
     group = "People & Body",
@@ -4633,168 +4416,84 @@ local emojis = {
     sub_group = "person",
     codepoints = "1F471 200D 2640 FE0F",
   },
-  {
-    emoji = "👱‍♀",
-    name = "woman: blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 200D 2640",
-  },
-  {
+    {
     emoji = "👱🏻‍♀️",
     name = "woman: light skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "👱🏻‍♀",
-    name = "woman: light skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "👱🏼‍♀️",
     name = "woman: medium-light skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "👱🏼‍♀",
-    name = "woman: medium-light skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "👱🏽‍♀️",
     name = "woman: medium skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "👱🏽‍♀",
-    name = "woman: medium skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "👱🏾‍♀️",
     name = "woman: medium-dark skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "👱🏾‍♀",
-    name = "woman: medium-dark skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "👱🏿‍♀️",
     name = "woman: dark skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "👱🏿‍♀",
-    name = "woman: dark skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "👱‍♂️",
     name = "man: blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 200D 2642 FE0F",
   },
-  {
-    emoji = "👱‍♂",
-    name = "man: blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 200D 2642",
-  },
-  {
+    {
     emoji = "👱🏻‍♂️",
     name = "man: light skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "👱🏻‍♂",
-    name = "man: light skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "👱🏼‍♂️",
     name = "man: medium-light skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "👱🏼‍♂",
-    name = "man: medium-light skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "👱🏽‍♂️",
     name = "man: medium skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "👱🏽‍♂",
-    name = "man: medium skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "👱🏾‍♂️",
     name = "man: medium-dark skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "👱🏾‍♂",
-    name = "man: medium-dark skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "👱🏿‍♂️",
     name = "man: dark skin tone, blond hair",
     group = "People & Body",
     sub_group = "person",
     codepoints = "1F471 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "👱🏿‍♂",
-    name = "man: dark skin tone, blond hair",
-    group = "People & Body",
-    sub_group = "person",
-    codepoints = "1F471 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧓",
     name = "older person",
     group = "People & Body",
@@ -4969,168 +4668,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F64D 200D 2642 FE0F",
   },
-  {
-    emoji = "🙍‍♂",
-    name = "man frowning",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 200D 2642",
-  },
-  {
+    {
     emoji = "🙍🏻‍♂️",
     name = "man frowning: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🙍🏻‍♂",
-    name = "man frowning: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🙍🏼‍♂️",
     name = "man frowning: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🙍🏼‍♂",
-    name = "man frowning: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🙍🏽‍♂️",
     name = "man frowning: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🙍🏽‍♂",
-    name = "man frowning: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🙍🏾‍♂️",
     name = "man frowning: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🙍🏾‍♂",
-    name = "man frowning: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🙍🏿‍♂️",
     name = "man frowning: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🙍🏿‍♂",
-    name = "man frowning: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🙍‍♀️",
     name = "woman frowning",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 200D 2640 FE0F",
   },
-  {
-    emoji = "🙍‍♀",
-    name = "woman frowning",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 200D 2640",
-  },
-  {
+    {
     emoji = "🙍🏻‍♀️",
     name = "woman frowning: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🙍🏻‍♀",
-    name = "woman frowning: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🙍🏼‍♀️",
     name = "woman frowning: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🙍🏼‍♀",
-    name = "woman frowning: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🙍🏽‍♀️",
     name = "woman frowning: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🙍🏽‍♀",
-    name = "woman frowning: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🙍🏾‍♀️",
     name = "woman frowning: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🙍🏾‍♀",
-    name = "woman frowning: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🙍🏿‍♀️",
     name = "woman frowning: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64D 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🙍🏿‍♀",
-    name = "woman frowning: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64D 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🙎",
     name = "person pouting",
     group = "People & Body",
@@ -5179,168 +4794,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F64E 200D 2642 FE0F",
   },
-  {
-    emoji = "🙎‍♂",
-    name = "man pouting",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 200D 2642",
-  },
-  {
+    {
     emoji = "🙎🏻‍♂️",
     name = "man pouting: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🙎🏻‍♂",
-    name = "man pouting: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🙎🏼‍♂️",
     name = "man pouting: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🙎🏼‍♂",
-    name = "man pouting: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🙎🏽‍♂️",
     name = "man pouting: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🙎🏽‍♂",
-    name = "man pouting: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🙎🏾‍♂️",
     name = "man pouting: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🙎🏾‍♂",
-    name = "man pouting: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🙎🏿‍♂️",
     name = "man pouting: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🙎🏿‍♂",
-    name = "man pouting: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🙎‍♀️",
     name = "woman pouting",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 200D 2640 FE0F",
   },
-  {
-    emoji = "🙎‍♀",
-    name = "woman pouting",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 200D 2640",
-  },
-  {
+    {
     emoji = "🙎🏻‍♀️",
     name = "woman pouting: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🙎🏻‍♀",
-    name = "woman pouting: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🙎🏼‍♀️",
     name = "woman pouting: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🙎🏼‍♀",
-    name = "woman pouting: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🙎🏽‍♀️",
     name = "woman pouting: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🙎🏽‍♀",
-    name = "woman pouting: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🙎🏾‍♀️",
     name = "woman pouting: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🙎🏾‍♀",
-    name = "woman pouting: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🙎🏿‍♀️",
     name = "woman pouting: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64E 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🙎🏿‍♀",
-    name = "woman pouting: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64E 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🙅",
     name = "person gesturing NO",
     group = "People & Body",
@@ -5389,168 +4920,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F645 200D 2642 FE0F",
   },
-  {
-    emoji = "🙅‍♂",
-    name = "man gesturing NO",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 200D 2642",
-  },
-  {
+    {
     emoji = "🙅🏻‍♂️",
     name = "man gesturing NO: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🙅🏻‍♂",
-    name = "man gesturing NO: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🙅🏼‍♂️",
     name = "man gesturing NO: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🙅🏼‍♂",
-    name = "man gesturing NO: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🙅🏽‍♂️",
     name = "man gesturing NO: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🙅🏽‍♂",
-    name = "man gesturing NO: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🙅🏾‍♂️",
     name = "man gesturing NO: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🙅🏾‍♂",
-    name = "man gesturing NO: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🙅🏿‍♂️",
     name = "man gesturing NO: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🙅🏿‍♂",
-    name = "man gesturing NO: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🙅‍♀️",
     name = "woman gesturing NO",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 200D 2640 FE0F",
   },
-  {
-    emoji = "🙅‍♀",
-    name = "woman gesturing NO",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 200D 2640",
-  },
-  {
+    {
     emoji = "🙅🏻‍♀️",
     name = "woman gesturing NO: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🙅🏻‍♀",
-    name = "woman gesturing NO: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🙅🏼‍♀️",
     name = "woman gesturing NO: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🙅🏼‍♀",
-    name = "woman gesturing NO: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🙅🏽‍♀️",
     name = "woman gesturing NO: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🙅🏽‍♀",
-    name = "woman gesturing NO: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🙅🏾‍♀️",
     name = "woman gesturing NO: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🙅🏾‍♀",
-    name = "woman gesturing NO: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🙅🏿‍♀️",
     name = "woman gesturing NO: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F645 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🙅🏿‍♀",
-    name = "woman gesturing NO: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F645 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🙆",
     name = "person gesturing OK",
     group = "People & Body",
@@ -5599,168 +5046,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F646 200D 2642 FE0F",
   },
-  {
-    emoji = "🙆‍♂",
-    name = "man gesturing OK",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 200D 2642",
-  },
-  {
+    {
     emoji = "🙆🏻‍♂️",
     name = "man gesturing OK: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🙆🏻‍♂",
-    name = "man gesturing OK: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🙆🏼‍♂️",
     name = "man gesturing OK: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🙆🏼‍♂",
-    name = "man gesturing OK: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🙆🏽‍♂️",
     name = "man gesturing OK: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🙆🏽‍♂",
-    name = "man gesturing OK: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🙆🏾‍♂️",
     name = "man gesturing OK: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🙆🏾‍♂",
-    name = "man gesturing OK: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🙆🏿‍♂️",
     name = "man gesturing OK: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🙆🏿‍♂",
-    name = "man gesturing OK: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🙆‍♀️",
     name = "woman gesturing OK",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 200D 2640 FE0F",
   },
-  {
-    emoji = "🙆‍♀",
-    name = "woman gesturing OK",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 200D 2640",
-  },
-  {
+    {
     emoji = "🙆🏻‍♀️",
     name = "woman gesturing OK: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🙆🏻‍♀",
-    name = "woman gesturing OK: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🙆🏼‍♀️",
     name = "woman gesturing OK: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🙆🏼‍♀",
-    name = "woman gesturing OK: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🙆🏽‍♀️",
     name = "woman gesturing OK: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🙆🏽‍♀",
-    name = "woman gesturing OK: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🙆🏾‍♀️",
     name = "woman gesturing OK: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🙆🏾‍♀",
-    name = "woman gesturing OK: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🙆🏿‍♀️",
     name = "woman gesturing OK: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F646 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🙆🏿‍♀",
-    name = "woman gesturing OK: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F646 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "💁",
     name = "person tipping hand",
     group = "People & Body",
@@ -5809,168 +5172,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F481 200D 2642 FE0F",
   },
-  {
-    emoji = "💁‍♂",
-    name = "man tipping hand",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 200D 2642",
-  },
-  {
+    {
     emoji = "💁🏻‍♂️",
     name = "man tipping hand: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "💁🏻‍♂",
-    name = "man tipping hand: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "💁🏼‍♂️",
     name = "man tipping hand: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "💁🏼‍♂",
-    name = "man tipping hand: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "💁🏽‍♂️",
     name = "man tipping hand: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "💁🏽‍♂",
-    name = "man tipping hand: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "💁🏾‍♂️",
     name = "man tipping hand: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "💁🏾‍♂",
-    name = "man tipping hand: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "💁🏿‍♂️",
     name = "man tipping hand: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "💁🏿‍♂",
-    name = "man tipping hand: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "💁‍♀️",
     name = "woman tipping hand",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 200D 2640 FE0F",
   },
-  {
-    emoji = "💁‍♀",
-    name = "woman tipping hand",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 200D 2640",
-  },
-  {
+    {
     emoji = "💁🏻‍♀️",
     name = "woman tipping hand: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "💁🏻‍♀",
-    name = "woman tipping hand: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "💁🏼‍♀️",
     name = "woman tipping hand: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "💁🏼‍♀",
-    name = "woman tipping hand: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "💁🏽‍♀️",
     name = "woman tipping hand: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "💁🏽‍♀",
-    name = "woman tipping hand: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "💁🏾‍♀️",
     name = "woman tipping hand: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "💁🏾‍♀",
-    name = "woman tipping hand: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "💁🏿‍♀️",
     name = "woman tipping hand: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F481 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "💁🏿‍♀",
-    name = "woman tipping hand: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F481 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🙋",
     name = "person raising hand",
     group = "People & Body",
@@ -6019,168 +5298,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F64B 200D 2642 FE0F",
   },
-  {
-    emoji = "🙋‍♂",
-    name = "man raising hand",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 200D 2642",
-  },
-  {
+    {
     emoji = "🙋🏻‍♂️",
     name = "man raising hand: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🙋🏻‍♂",
-    name = "man raising hand: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🙋🏼‍♂️",
     name = "man raising hand: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🙋🏼‍♂",
-    name = "man raising hand: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🙋🏽‍♂️",
     name = "man raising hand: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🙋🏽‍♂",
-    name = "man raising hand: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🙋🏾‍♂️",
     name = "man raising hand: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🙋🏾‍♂",
-    name = "man raising hand: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🙋🏿‍♂️",
     name = "man raising hand: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🙋🏿‍♂",
-    name = "man raising hand: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🙋‍♀️",
     name = "woman raising hand",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 200D 2640 FE0F",
   },
-  {
-    emoji = "🙋‍♀",
-    name = "woman raising hand",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 200D 2640",
-  },
-  {
+    {
     emoji = "🙋🏻‍♀️",
     name = "woman raising hand: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🙋🏻‍♀",
-    name = "woman raising hand: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🙋🏼‍♀️",
     name = "woman raising hand: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🙋🏼‍♀",
-    name = "woman raising hand: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🙋🏽‍♀️",
     name = "woman raising hand: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🙋🏽‍♀",
-    name = "woman raising hand: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🙋🏾‍♀️",
     name = "woman raising hand: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🙋🏾‍♀",
-    name = "woman raising hand: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🙋🏿‍♀️",
     name = "woman raising hand: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F64B 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🙋🏿‍♀",
-    name = "woman raising hand: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F64B 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧏",
     name = "deaf person",
     group = "People & Body",
@@ -6229,168 +5424,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F9CF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧏‍♂",
-    name = "deaf man",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 200D 2642",
-  },
-  {
+    {
     emoji = "🧏🏻‍♂️",
     name = "deaf man: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧏🏻‍♂",
-    name = "deaf man: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧏🏼‍♂️",
     name = "deaf man: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧏🏼‍♂",
-    name = "deaf man: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧏🏽‍♂️",
     name = "deaf man: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧏🏽‍♂",
-    name = "deaf man: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧏🏾‍♂️",
     name = "deaf man: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧏🏾‍♂",
-    name = "deaf man: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧏🏿‍♂️",
     name = "deaf man: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧏🏿‍♂",
-    name = "deaf man: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧏‍♀️",
     name = "deaf woman",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧏‍♀",
-    name = "deaf woman",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 200D 2640",
-  },
-  {
+    {
     emoji = "🧏🏻‍♀️",
     name = "deaf woman: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧏🏻‍♀",
-    name = "deaf woman: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧏🏼‍♀️",
     name = "deaf woman: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧏🏼‍♀",
-    name = "deaf woman: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧏🏽‍♀️",
     name = "deaf woman: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧏🏽‍♀",
-    name = "deaf woman: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧏🏾‍♀️",
     name = "deaf woman: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧏🏾‍♀",
-    name = "deaf woman: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧏🏿‍♀️",
     name = "deaf woman: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F9CF 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧏🏿‍♀",
-    name = "deaf woman: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F9CF 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🙇",
     name = "person bowing",
     group = "People & Body",
@@ -6439,168 +5550,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F647 200D 2642 FE0F",
   },
-  {
-    emoji = "🙇‍♂",
-    name = "man bowing",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 200D 2642",
-  },
-  {
+    {
     emoji = "🙇🏻‍♂️",
     name = "man bowing: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🙇🏻‍♂",
-    name = "man bowing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🙇🏼‍♂️",
     name = "man bowing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🙇🏼‍♂",
-    name = "man bowing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🙇🏽‍♂️",
     name = "man bowing: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🙇🏽‍♂",
-    name = "man bowing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🙇🏾‍♂️",
     name = "man bowing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🙇🏾‍♂",
-    name = "man bowing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🙇🏿‍♂️",
     name = "man bowing: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🙇🏿‍♂",
-    name = "man bowing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🙇‍♀️",
     name = "woman bowing",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 200D 2640 FE0F",
   },
-  {
-    emoji = "🙇‍♀",
-    name = "woman bowing",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 200D 2640",
-  },
-  {
+    {
     emoji = "🙇🏻‍♀️",
     name = "woman bowing: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🙇🏻‍♀",
-    name = "woman bowing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🙇🏼‍♀️",
     name = "woman bowing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🙇🏼‍♀",
-    name = "woman bowing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🙇🏽‍♀️",
     name = "woman bowing: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🙇🏽‍♀",
-    name = "woman bowing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🙇🏾‍♀️",
     name = "woman bowing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🙇🏾‍♀",
-    name = "woman bowing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🙇🏿‍♀️",
     name = "woman bowing: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F647 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🙇🏿‍♀",
-    name = "woman bowing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F647 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤦",
     name = "person facepalming",
     group = "People & Body",
@@ -6649,168 +5676,84 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F926 200D 2642 FE0F",
   },
-  {
-    emoji = "🤦‍♂",
-    name = "man facepalming",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 200D 2642",
-  },
-  {
+    {
     emoji = "🤦🏻‍♂️",
     name = "man facepalming: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤦🏻‍♂",
-    name = "man facepalming: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤦🏼‍♂️",
     name = "man facepalming: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤦🏼‍♂",
-    name = "man facepalming: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤦🏽‍♂️",
     name = "man facepalming: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤦🏽‍♂",
-    name = "man facepalming: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤦🏾‍♂️",
     name = "man facepalming: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤦🏾‍♂",
-    name = "man facepalming: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤦🏿‍♂️",
     name = "man facepalming: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤦🏿‍♂",
-    name = "man facepalming: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤦‍♀️",
     name = "woman facepalming",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 200D 2640 FE0F",
   },
-  {
-    emoji = "🤦‍♀",
-    name = "woman facepalming",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 200D 2640",
-  },
-  {
+    {
     emoji = "🤦🏻‍♀️",
     name = "woman facepalming: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤦🏻‍♀",
-    name = "woman facepalming: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤦🏼‍♀️",
     name = "woman facepalming: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤦🏼‍♀",
-    name = "woman facepalming: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤦🏽‍♀️",
     name = "woman facepalming: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤦🏽‍♀",
-    name = "woman facepalming: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤦🏾‍♀️",
     name = "woman facepalming: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤦🏾‍♀",
-    name = "woman facepalming: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤦🏿‍♀️",
     name = "woman facepalming: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F926 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤦🏿‍♀",
-    name = "woman facepalming: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F926 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤷",
     name = "person shrugging",
     group = "People & Body",
@@ -6859,420 +5802,210 @@ local emojis = {
     sub_group = "person-gesture",
     codepoints = "1F937 200D 2642 FE0F",
   },
-  {
-    emoji = "🤷‍♂",
-    name = "man shrugging",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 200D 2642",
-  },
-  {
+    {
     emoji = "🤷🏻‍♂️",
     name = "man shrugging: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤷🏻‍♂",
-    name = "man shrugging: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤷🏼‍♂️",
     name = "man shrugging: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤷🏼‍♂",
-    name = "man shrugging: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤷🏽‍♂️",
     name = "man shrugging: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤷🏽‍♂",
-    name = "man shrugging: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤷🏾‍♂️",
     name = "man shrugging: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤷🏾‍♂",
-    name = "man shrugging: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤷🏿‍♂️",
     name = "man shrugging: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤷🏿‍♂",
-    name = "man shrugging: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤷‍♀️",
     name = "woman shrugging",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 200D 2640 FE0F",
   },
-  {
-    emoji = "🤷‍♀",
-    name = "woman shrugging",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 200D 2640",
-  },
-  {
+    {
     emoji = "🤷🏻‍♀️",
     name = "woman shrugging: light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤷🏻‍♀",
-    name = "woman shrugging: light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤷🏼‍♀️",
     name = "woman shrugging: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤷🏼‍♀",
-    name = "woman shrugging: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤷🏽‍♀️",
     name = "woman shrugging: medium skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤷🏽‍♀",
-    name = "woman shrugging: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤷🏾‍♀️",
     name = "woman shrugging: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤷🏾‍♀",
-    name = "woman shrugging: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤷🏿‍♀️",
     name = "woman shrugging: dark skin tone",
     group = "People & Body",
     sub_group = "person-gesture",
     codepoints = "1F937 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤷🏿‍♀",
-    name = "woman shrugging: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-gesture",
-    codepoints = "1F937 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧑‍⚕️",
     name = "health worker",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 200D 2695 FE0F",
   },
-  {
-    emoji = "🧑‍⚕",
-    name = "health worker",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 200D 2695",
-  },
-  {
+    {
     emoji = "🧑🏻‍⚕️",
     name = "health worker: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FB 200D 2695 FE0F",
   },
-  {
-    emoji = "🧑🏻‍⚕",
-    name = "health worker: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FB 200D 2695",
-  },
-  {
+    {
     emoji = "🧑🏼‍⚕️",
     name = "health worker: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FC 200D 2695 FE0F",
   },
-  {
-    emoji = "🧑🏼‍⚕",
-    name = "health worker: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FC 200D 2695",
-  },
-  {
+    {
     emoji = "🧑🏽‍⚕️",
     name = "health worker: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FD 200D 2695 FE0F",
   },
-  {
-    emoji = "🧑🏽‍⚕",
-    name = "health worker: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FD 200D 2695",
-  },
-  {
+    {
     emoji = "🧑🏾‍⚕️",
     name = "health worker: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FE 200D 2695 FE0F",
   },
-  {
-    emoji = "🧑🏾‍⚕",
-    name = "health worker: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FE 200D 2695",
-  },
-  {
+    {
     emoji = "🧑🏿‍⚕️",
     name = "health worker: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FF 200D 2695 FE0F",
   },
-  {
-    emoji = "🧑🏿‍⚕",
-    name = "health worker: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FF 200D 2695",
-  },
-  {
+    {
     emoji = "👨‍⚕️",
     name = "man health worker",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 200D 2695 FE0F",
   },
-  {
-    emoji = "👨‍⚕",
-    name = "man health worker",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 200D 2695",
-  },
-  {
+    {
     emoji = "👨🏻‍⚕️",
     name = "man health worker: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FB 200D 2695 FE0F",
   },
-  {
-    emoji = "👨🏻‍⚕",
-    name = "man health worker: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FB 200D 2695",
-  },
-  {
+    {
     emoji = "👨🏼‍⚕️",
     name = "man health worker: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FC 200D 2695 FE0F",
   },
-  {
-    emoji = "👨🏼‍⚕",
-    name = "man health worker: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FC 200D 2695",
-  },
-  {
+    {
     emoji = "👨🏽‍⚕️",
     name = "man health worker: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FD 200D 2695 FE0F",
   },
-  {
-    emoji = "👨🏽‍⚕",
-    name = "man health worker: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FD 200D 2695",
-  },
-  {
+    {
     emoji = "👨🏾‍⚕️",
     name = "man health worker: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FE 200D 2695 FE0F",
   },
-  {
-    emoji = "👨🏾‍⚕",
-    name = "man health worker: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FE 200D 2695",
-  },
-  {
+    {
     emoji = "👨🏿‍⚕️",
     name = "man health worker: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FF 200D 2695 FE0F",
   },
-  {
-    emoji = "👨🏿‍⚕",
-    name = "man health worker: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FF 200D 2695",
-  },
-  {
+    {
     emoji = "👩‍⚕️",
     name = "woman health worker",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 200D 2695 FE0F",
   },
-  {
-    emoji = "👩‍⚕",
-    name = "woman health worker",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 200D 2695",
-  },
-  {
+    {
     emoji = "👩🏻‍⚕️",
     name = "woman health worker: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FB 200D 2695 FE0F",
   },
-  {
-    emoji = "👩🏻‍⚕",
-    name = "woman health worker: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FB 200D 2695",
-  },
-  {
+    {
     emoji = "👩🏼‍⚕️",
     name = "woman health worker: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FC 200D 2695 FE0F",
   },
-  {
-    emoji = "👩🏼‍⚕",
-    name = "woman health worker: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FC 200D 2695",
-  },
-  {
+    {
     emoji = "👩🏽‍⚕️",
     name = "woman health worker: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FD 200D 2695 FE0F",
   },
-  {
-    emoji = "👩🏽‍⚕",
-    name = "woman health worker: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FD 200D 2695",
-  },
-  {
+    {
     emoji = "👩🏾‍⚕️",
     name = "woman health worker: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FE 200D 2695 FE0F",
   },
-  {
-    emoji = "👩🏾‍⚕",
-    name = "woman health worker: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FE 200D 2695",
-  },
-  {
+    {
     emoji = "👩🏿‍⚕️",
     name = "woman health worker: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FF 200D 2695 FE0F",
   },
-  {
-    emoji = "👩🏿‍⚕",
-    name = "woman health worker: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FF 200D 2695",
-  },
-  {
+    {
     emoji = "🧑‍🎓",
     name = "student",
     group = "People & Body",
@@ -7531,252 +6264,126 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F9D1 200D 2696 FE0F",
   },
-  {
-    emoji = "🧑‍⚖",
-    name = "judge",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 200D 2696",
-  },
-  {
+    {
     emoji = "🧑🏻‍⚖️",
     name = "judge: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FB 200D 2696 FE0F",
   },
-  {
-    emoji = "🧑🏻‍⚖",
-    name = "judge: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FB 200D 2696",
-  },
-  {
+    {
     emoji = "🧑🏼‍⚖️",
     name = "judge: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FC 200D 2696 FE0F",
   },
-  {
-    emoji = "🧑🏼‍⚖",
-    name = "judge: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FC 200D 2696",
-  },
-  {
+    {
     emoji = "🧑🏽‍⚖️",
     name = "judge: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FD 200D 2696 FE0F",
   },
-  {
-    emoji = "🧑🏽‍⚖",
-    name = "judge: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FD 200D 2696",
-  },
-  {
+    {
     emoji = "🧑🏾‍⚖️",
     name = "judge: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FE 200D 2696 FE0F",
   },
-  {
-    emoji = "🧑🏾‍⚖",
-    name = "judge: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FE 200D 2696",
-  },
-  {
+    {
     emoji = "🧑🏿‍⚖️",
     name = "judge: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FF 200D 2696 FE0F",
   },
-  {
-    emoji = "🧑🏿‍⚖",
-    name = "judge: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FF 200D 2696",
-  },
-  {
+    {
     emoji = "👨‍⚖️",
     name = "man judge",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 200D 2696 FE0F",
   },
-  {
-    emoji = "👨‍⚖",
-    name = "man judge",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 200D 2696",
-  },
-  {
+    {
     emoji = "👨🏻‍⚖️",
     name = "man judge: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FB 200D 2696 FE0F",
   },
-  {
-    emoji = "👨🏻‍⚖",
-    name = "man judge: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FB 200D 2696",
-  },
-  {
+    {
     emoji = "👨🏼‍⚖️",
     name = "man judge: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FC 200D 2696 FE0F",
   },
-  {
-    emoji = "👨🏼‍⚖",
-    name = "man judge: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FC 200D 2696",
-  },
-  {
+    {
     emoji = "👨🏽‍⚖️",
     name = "man judge: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FD 200D 2696 FE0F",
   },
-  {
-    emoji = "👨🏽‍⚖",
-    name = "man judge: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FD 200D 2696",
-  },
-  {
+    {
     emoji = "👨🏾‍⚖️",
     name = "man judge: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FE 200D 2696 FE0F",
   },
-  {
-    emoji = "👨🏾‍⚖",
-    name = "man judge: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FE 200D 2696",
-  },
-  {
+    {
     emoji = "👨🏿‍⚖️",
     name = "man judge: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FF 200D 2696 FE0F",
   },
-  {
-    emoji = "👨🏿‍⚖",
-    name = "man judge: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FF 200D 2696",
-  },
-  {
+    {
     emoji = "👩‍⚖️",
     name = "woman judge",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 200D 2696 FE0F",
   },
-  {
-    emoji = "👩‍⚖",
-    name = "woman judge",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 200D 2696",
-  },
-  {
+    {
     emoji = "👩🏻‍⚖️",
     name = "woman judge: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FB 200D 2696 FE0F",
   },
-  {
-    emoji = "👩🏻‍⚖",
-    name = "woman judge: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FB 200D 2696",
-  },
-  {
+    {
     emoji = "👩🏼‍⚖️",
     name = "woman judge: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FC 200D 2696 FE0F",
   },
-  {
-    emoji = "👩🏼‍⚖",
-    name = "woman judge: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FC 200D 2696",
-  },
-  {
+    {
     emoji = "👩🏽‍⚖️",
     name = "woman judge: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FD 200D 2696 FE0F",
   },
-  {
-    emoji = "👩🏽‍⚖",
-    name = "woman judge: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FD 200D 2696",
-  },
-  {
+    {
     emoji = "👩🏾‍⚖️",
     name = "woman judge: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FE 200D 2696 FE0F",
   },
-  {
-    emoji = "👩🏾‍⚖",
-    name = "woman judge: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FE 200D 2696",
-  },
-  {
+    {
     emoji = "👩🏿‍⚖️",
     name = "woman judge: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FF 200D 2696 FE0F",
   },
-  {
-    emoji = "👩🏿‍⚖",
-    name = "woman judge: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FF 200D 2696",
-  },
-  {
+    {
     emoji = "🧑‍🌾",
     name = "farmer",
     group = "People & Body",
@@ -8917,252 +7524,126 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F9D1 200D 2708 FE0F",
   },
-  {
-    emoji = "🧑‍✈",
-    name = "pilot",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 200D 2708",
-  },
-  {
+    {
     emoji = "🧑🏻‍✈️",
     name = "pilot: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FB 200D 2708 FE0F",
   },
-  {
-    emoji = "🧑🏻‍✈",
-    name = "pilot: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FB 200D 2708",
-  },
-  {
+    {
     emoji = "🧑🏼‍✈️",
     name = "pilot: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FC 200D 2708 FE0F",
   },
-  {
-    emoji = "🧑🏼‍✈",
-    name = "pilot: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FC 200D 2708",
-  },
-  {
+    {
     emoji = "🧑🏽‍✈️",
     name = "pilot: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FD 200D 2708 FE0F",
   },
-  {
-    emoji = "🧑🏽‍✈",
-    name = "pilot: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FD 200D 2708",
-  },
-  {
+    {
     emoji = "🧑🏾‍✈️",
     name = "pilot: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FE 200D 2708 FE0F",
   },
-  {
-    emoji = "🧑🏾‍✈",
-    name = "pilot: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FE 200D 2708",
-  },
-  {
+    {
     emoji = "🧑🏿‍✈️",
     name = "pilot: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F9D1 1F3FF 200D 2708 FE0F",
   },
-  {
-    emoji = "🧑🏿‍✈",
-    name = "pilot: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F9D1 1F3FF 200D 2708",
-  },
-  {
+    {
     emoji = "👨‍✈️",
     name = "man pilot",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 200D 2708 FE0F",
   },
-  {
-    emoji = "👨‍✈",
-    name = "man pilot",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 200D 2708",
-  },
-  {
+    {
     emoji = "👨🏻‍✈️",
     name = "man pilot: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FB 200D 2708 FE0F",
   },
-  {
-    emoji = "👨🏻‍✈",
-    name = "man pilot: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FB 200D 2708",
-  },
-  {
+    {
     emoji = "👨🏼‍✈️",
     name = "man pilot: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FC 200D 2708 FE0F",
   },
-  {
-    emoji = "👨🏼‍✈",
-    name = "man pilot: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FC 200D 2708",
-  },
-  {
+    {
     emoji = "👨🏽‍✈️",
     name = "man pilot: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FD 200D 2708 FE0F",
   },
-  {
-    emoji = "👨🏽‍✈",
-    name = "man pilot: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FD 200D 2708",
-  },
-  {
+    {
     emoji = "👨🏾‍✈️",
     name = "man pilot: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FE 200D 2708 FE0F",
   },
-  {
-    emoji = "👨🏾‍✈",
-    name = "man pilot: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FE 200D 2708",
-  },
-  {
+    {
     emoji = "👨🏿‍✈️",
     name = "man pilot: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F468 1F3FF 200D 2708 FE0F",
   },
-  {
-    emoji = "👨🏿‍✈",
-    name = "man pilot: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F468 1F3FF 200D 2708",
-  },
-  {
+    {
     emoji = "👩‍✈️",
     name = "woman pilot",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 200D 2708 FE0F",
   },
-  {
-    emoji = "👩‍✈",
-    name = "woman pilot",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 200D 2708",
-  },
-  {
+    {
     emoji = "👩🏻‍✈️",
     name = "woman pilot: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FB 200D 2708 FE0F",
   },
-  {
-    emoji = "👩🏻‍✈",
-    name = "woman pilot: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FB 200D 2708",
-  },
-  {
+    {
     emoji = "👩🏼‍✈️",
     name = "woman pilot: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FC 200D 2708 FE0F",
   },
-  {
-    emoji = "👩🏼‍✈",
-    name = "woman pilot: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FC 200D 2708",
-  },
-  {
+    {
     emoji = "👩🏽‍✈️",
     name = "woman pilot: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FD 200D 2708 FE0F",
   },
-  {
-    emoji = "👩🏽‍✈",
-    name = "woman pilot: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FD 200D 2708",
-  },
-  {
+    {
     emoji = "👩🏾‍✈️",
     name = "woman pilot: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FE 200D 2708 FE0F",
   },
-  {
-    emoji = "👩🏾‍✈",
-    name = "woman pilot: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FE 200D 2708",
-  },
-  {
+    {
     emoji = "👩🏿‍✈️",
     name = "woman pilot: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F469 1F3FF 200D 2708 FE0F",
   },
-  {
-    emoji = "👩🏿‍✈",
-    name = "woman pilot: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F469 1F3FF 200D 2708",
-  },
-  {
+    {
     emoji = "🧑‍🚀",
     name = "astronaut",
     group = "People & Body",
@@ -9463,182 +7944,91 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F46E 200D 2642 FE0F",
   },
-  {
-    emoji = "👮‍♂",
-    name = "man police officer",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 200D 2642",
-  },
-  {
+    {
     emoji = "👮🏻‍♂️",
     name = "man police officer: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "👮🏻‍♂",
-    name = "man police officer: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "👮🏼‍♂️",
     name = "man police officer: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "👮🏼‍♂",
-    name = "man police officer: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "👮🏽‍♂️",
     name = "man police officer: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "👮🏽‍♂",
-    name = "man police officer: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "👮🏾‍♂️",
     name = "man police officer: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "👮🏾‍♂",
-    name = "man police officer: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "👮🏿‍♂️",
     name = "man police officer: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "👮🏿‍♂",
-    name = "man police officer: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "👮‍♀️",
     name = "woman police officer",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 200D 2640 FE0F",
   },
-  {
-    emoji = "👮‍♀",
-    name = "woman police officer",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 200D 2640",
-  },
-  {
+    {
     emoji = "👮🏻‍♀️",
     name = "woman police officer: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "👮🏻‍♀",
-    name = "woman police officer: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "👮🏼‍♀️",
     name = "woman police officer: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "👮🏼‍♀",
-    name = "woman police officer: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "👮🏽‍♀️",
     name = "woman police officer: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "👮🏽‍♀",
-    name = "woman police officer: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "👮🏾‍♀️",
     name = "woman police officer: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "👮🏾‍♀",
-    name = "woman police officer: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "👮🏿‍♀️",
     name = "woman police officer: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F46E 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "👮🏿‍♀",
-    name = "woman police officer: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F46E 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🕵️",
     name = "detective",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 FE0F",
   },
-  {
-    emoji = "🕵",
-    name = "detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575",
-  },
-  {
+    {
     emoji = "🕵🏻",
     name = "detective: light skin tone",
     group = "People & Body",
@@ -9680,196 +8070,84 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F575 FE0F 200D 2642 FE0F",
   },
-  {
-    emoji = "🕵‍♂️",
-    name = "man detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 200D 2642 FE0F",
-  },
-  {
-    emoji = "🕵️‍♂",
-    name = "man detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 FE0F 200D 2642",
-  },
-  {
-    emoji = "🕵‍♂",
-    name = "man detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 200D 2642",
-  },
-  {
+        {
     emoji = "🕵🏻‍♂️",
     name = "man detective: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🕵🏻‍♂",
-    name = "man detective: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🕵🏼‍♂️",
     name = "man detective: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🕵🏼‍♂",
-    name = "man detective: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🕵🏽‍♂️",
     name = "man detective: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🕵🏽‍♂",
-    name = "man detective: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🕵🏾‍♂️",
     name = "man detective: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🕵🏾‍♂",
-    name = "man detective: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🕵🏿‍♂️",
     name = "man detective: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🕵🏿‍♂",
-    name = "man detective: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🕵️‍♀️",
     name = "woman detective",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 FE0F 200D 2640 FE0F",
   },
-  {
-    emoji = "🕵‍♀️",
-    name = "woman detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 200D 2640 FE0F",
-  },
-  {
-    emoji = "🕵️‍♀",
-    name = "woman detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 FE0F 200D 2640",
-  },
-  {
-    emoji = "🕵‍♀",
-    name = "woman detective",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 200D 2640",
-  },
-  {
+        {
     emoji = "🕵🏻‍♀️",
     name = "woman detective: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🕵🏻‍♀",
-    name = "woman detective: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🕵🏼‍♀️",
     name = "woman detective: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🕵🏼‍♀",
-    name = "woman detective: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🕵🏽‍♀️",
     name = "woman detective: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🕵🏽‍♀",
-    name = "woman detective: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🕵🏾‍♀️",
     name = "woman detective: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🕵🏾‍♀",
-    name = "woman detective: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🕵🏿‍♀️",
     name = "woman detective: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F575 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🕵🏿‍♀",
-    name = "woman detective: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F575 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "💂",
     name = "guard",
     group = "People & Body",
@@ -9918,168 +8196,84 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F482 200D 2642 FE0F",
   },
-  {
-    emoji = "💂‍♂",
-    name = "man guard",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 200D 2642",
-  },
-  {
+    {
     emoji = "💂🏻‍♂️",
     name = "man guard: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "💂🏻‍♂",
-    name = "man guard: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "💂🏼‍♂️",
     name = "man guard: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "💂🏼‍♂",
-    name = "man guard: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "💂🏽‍♂️",
     name = "man guard: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "💂🏽‍♂",
-    name = "man guard: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "💂🏾‍♂️",
     name = "man guard: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "💂🏾‍♂",
-    name = "man guard: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "💂🏿‍♂️",
     name = "man guard: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "💂🏿‍♂",
-    name = "man guard: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "💂‍♀️",
     name = "woman guard",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 200D 2640 FE0F",
   },
-  {
-    emoji = "💂‍♀",
-    name = "woman guard",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 200D 2640",
-  },
-  {
+    {
     emoji = "💂🏻‍♀️",
     name = "woman guard: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "💂🏻‍♀",
-    name = "woman guard: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "💂🏼‍♀️",
     name = "woman guard: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "💂🏼‍♀",
-    name = "woman guard: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "💂🏽‍♀️",
     name = "woman guard: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "💂🏽‍♀",
-    name = "woman guard: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "💂🏾‍♀️",
     name = "woman guard: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "💂🏾‍♀",
-    name = "woman guard: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "💂🏿‍♀️",
     name = "woman guard: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F482 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "💂🏿‍♀",
-    name = "woman guard: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F482 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🥷",
     name = "ninja",
     group = "People & Body",
@@ -10170,168 +8364,84 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F477 200D 2642 FE0F",
   },
-  {
-    emoji = "👷‍♂",
-    name = "man construction worker",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 200D 2642",
-  },
-  {
+    {
     emoji = "👷🏻‍♂️",
     name = "man construction worker: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "👷🏻‍♂",
-    name = "man construction worker: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "👷🏼‍♂️",
     name = "man construction worker: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "👷🏼‍♂",
-    name = "man construction worker: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "👷🏽‍♂️",
     name = "man construction worker: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "👷🏽‍♂",
-    name = "man construction worker: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "👷🏾‍♂️",
     name = "man construction worker: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "👷🏾‍♂",
-    name = "man construction worker: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "👷🏿‍♂️",
     name = "man construction worker: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "👷🏿‍♂",
-    name = "man construction worker: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "👷‍♀️",
     name = "woman construction worker",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 200D 2640 FE0F",
   },
-  {
-    emoji = "👷‍♀",
-    name = "woman construction worker",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 200D 2640",
-  },
-  {
+    {
     emoji = "👷🏻‍♀️",
     name = "woman construction worker: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "👷🏻‍♀",
-    name = "woman construction worker: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "👷🏼‍♀️",
     name = "woman construction worker: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "👷🏼‍♀",
-    name = "woman construction worker: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "👷🏽‍♀️",
     name = "woman construction worker: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "👷🏽‍♀",
-    name = "woman construction worker: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "👷🏾‍♀️",
     name = "woman construction worker: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "👷🏾‍♀",
-    name = "woman construction worker: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "👷🏿‍♀️",
     name = "woman construction worker: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F477 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "👷🏿‍♀",
-    name = "woman construction worker: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F477 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🫅",
     name = "person with crown",
     group = "People & Body",
@@ -10506,168 +8616,84 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F473 200D 2642 FE0F",
   },
-  {
-    emoji = "👳‍♂",
-    name = "man wearing turban",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 200D 2642",
-  },
-  {
+    {
     emoji = "👳🏻‍♂️",
     name = "man wearing turban: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "👳🏻‍♂",
-    name = "man wearing turban: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "👳🏼‍♂️",
     name = "man wearing turban: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "👳🏼‍♂",
-    name = "man wearing turban: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "👳🏽‍♂️",
     name = "man wearing turban: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "👳🏽‍♂",
-    name = "man wearing turban: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "👳🏾‍♂️",
     name = "man wearing turban: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "👳🏾‍♂",
-    name = "man wearing turban: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "👳🏿‍♂️",
     name = "man wearing turban: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "👳🏿‍♂",
-    name = "man wearing turban: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "👳‍♀️",
     name = "woman wearing turban",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 200D 2640 FE0F",
   },
-  {
-    emoji = "👳‍♀",
-    name = "woman wearing turban",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 200D 2640",
-  },
-  {
+    {
     emoji = "👳🏻‍♀️",
     name = "woman wearing turban: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "👳🏻‍♀",
-    name = "woman wearing turban: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "👳🏼‍♀️",
     name = "woman wearing turban: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "👳🏼‍♀",
-    name = "woman wearing turban: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "👳🏽‍♀️",
     name = "woman wearing turban: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "👳🏽‍♀",
-    name = "woman wearing turban: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "👳🏾‍♀️",
     name = "woman wearing turban: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "👳🏾‍♀",
-    name = "woman wearing turban: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "👳🏿‍♀️",
     name = "woman wearing turban: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F473 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "👳🏿‍♀",
-    name = "woman wearing turban: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F473 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "👲",
     name = "person with skullcap",
     group = "People & Body",
@@ -10800,168 +8826,84 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F935 200D 2642 FE0F",
   },
-  {
-    emoji = "🤵‍♂",
-    name = "man in tuxedo",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 200D 2642",
-  },
-  {
+    {
     emoji = "🤵🏻‍♂️",
     name = "man in tuxedo: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤵🏻‍♂",
-    name = "man in tuxedo: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤵🏼‍♂️",
     name = "man in tuxedo: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤵🏼‍♂",
-    name = "man in tuxedo: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤵🏽‍♂️",
     name = "man in tuxedo: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤵🏽‍♂",
-    name = "man in tuxedo: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤵🏾‍♂️",
     name = "man in tuxedo: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤵🏾‍♂",
-    name = "man in tuxedo: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤵🏿‍♂️",
     name = "man in tuxedo: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤵🏿‍♂",
-    name = "man in tuxedo: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤵‍♀️",
     name = "woman in tuxedo",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 200D 2640 FE0F",
   },
-  {
-    emoji = "🤵‍♀",
-    name = "woman in tuxedo",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 200D 2640",
-  },
-  {
+    {
     emoji = "🤵🏻‍♀️",
     name = "woman in tuxedo: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤵🏻‍♀",
-    name = "woman in tuxedo: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤵🏼‍♀️",
     name = "woman in tuxedo: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤵🏼‍♀",
-    name = "woman in tuxedo: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤵🏽‍♀️",
     name = "woman in tuxedo: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤵🏽‍♀",
-    name = "woman in tuxedo: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤵🏾‍♀️",
     name = "woman in tuxedo: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤵🏾‍♀",
-    name = "woman in tuxedo: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤵🏿‍♀️",
     name = "woman in tuxedo: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F935 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤵🏿‍♀",
-    name = "woman in tuxedo: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F935 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "👰",
     name = "person with veil",
     group = "People & Body",
@@ -11010,168 +8952,84 @@ local emojis = {
     sub_group = "person-role",
     codepoints = "1F470 200D 2642 FE0F",
   },
-  {
-    emoji = "👰‍♂",
-    name = "man with veil",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 200D 2642",
-  },
-  {
+    {
     emoji = "👰🏻‍♂️",
     name = "man with veil: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "👰🏻‍♂",
-    name = "man with veil: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "👰🏼‍♂️",
     name = "man with veil: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "👰🏼‍♂",
-    name = "man with veil: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "👰🏽‍♂️",
     name = "man with veil: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "👰🏽‍♂",
-    name = "man with veil: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "👰🏾‍♂️",
     name = "man with veil: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "👰🏾‍♂",
-    name = "man with veil: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "👰🏿‍♂️",
     name = "man with veil: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "👰🏿‍♂",
-    name = "man with veil: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "👰‍♀️",
     name = "woman with veil",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 200D 2640 FE0F",
   },
-  {
-    emoji = "👰‍♀",
-    name = "woman with veil",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 200D 2640",
-  },
-  {
+    {
     emoji = "👰🏻‍♀️",
     name = "woman with veil: light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "👰🏻‍♀",
-    name = "woman with veil: light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "👰🏼‍♀️",
     name = "woman with veil: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "👰🏼‍♀",
-    name = "woman with veil: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "👰🏽‍♀️",
     name = "woman with veil: medium skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "👰🏽‍♀",
-    name = "woman with veil: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "👰🏾‍♀️",
     name = "woman with veil: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "👰🏾‍♀",
-    name = "woman with veil: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "👰🏿‍♀️",
     name = "woman with veil: dark skin tone",
     group = "People & Body",
     sub_group = "person-role",
     codepoints = "1F470 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "👰🏿‍♀",
-    name = "woman with veil: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-role",
-    codepoints = "1F470 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤰",
     name = "pregnant woman",
     group = "People & Body",
@@ -11682,168 +9540,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9B8 200D 2642 FE0F",
   },
-  {
-    emoji = "🦸‍♂",
-    name = "man superhero",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 200D 2642",
-  },
-  {
+    {
     emoji = "🦸🏻‍♂️",
     name = "man superhero: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🦸🏻‍♂",
-    name = "man superhero: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🦸🏼‍♂️",
     name = "man superhero: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🦸🏼‍♂",
-    name = "man superhero: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🦸🏽‍♂️",
     name = "man superhero: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🦸🏽‍♂",
-    name = "man superhero: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🦸🏾‍♂️",
     name = "man superhero: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🦸🏾‍♂",
-    name = "man superhero: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🦸🏿‍♂️",
     name = "man superhero: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🦸🏿‍♂",
-    name = "man superhero: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🦸‍♀️",
     name = "woman superhero",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 200D 2640 FE0F",
   },
-  {
-    emoji = "🦸‍♀",
-    name = "woman superhero",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 200D 2640",
-  },
-  {
+    {
     emoji = "🦸🏻‍♀️",
     name = "woman superhero: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🦸🏻‍♀",
-    name = "woman superhero: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🦸🏼‍♀️",
     name = "woman superhero: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🦸🏼‍♀",
-    name = "woman superhero: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🦸🏽‍♀️",
     name = "woman superhero: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🦸🏽‍♀",
-    name = "woman superhero: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🦸🏾‍♀️",
     name = "woman superhero: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🦸🏾‍♀",
-    name = "woman superhero: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🦸🏿‍♀️",
     name = "woman superhero: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B8 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🦸🏿‍♀",
-    name = "woman superhero: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B8 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🦹",
     name = "supervillain",
     group = "People & Body",
@@ -11892,168 +9666,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9B9 200D 2642 FE0F",
   },
-  {
-    emoji = "🦹‍♂",
-    name = "man supervillain",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 200D 2642",
-  },
-  {
+    {
     emoji = "🦹🏻‍♂️",
     name = "man supervillain: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🦹🏻‍♂",
-    name = "man supervillain: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🦹🏼‍♂️",
     name = "man supervillain: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🦹🏼‍♂",
-    name = "man supervillain: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🦹🏽‍♂️",
     name = "man supervillain: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🦹🏽‍♂",
-    name = "man supervillain: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🦹🏾‍♂️",
     name = "man supervillain: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🦹🏾‍♂",
-    name = "man supervillain: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🦹🏿‍♂️",
     name = "man supervillain: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🦹🏿‍♂",
-    name = "man supervillain: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🦹‍♀️",
     name = "woman supervillain",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 200D 2640 FE0F",
   },
-  {
-    emoji = "🦹‍♀",
-    name = "woman supervillain",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 200D 2640",
-  },
-  {
+    {
     emoji = "🦹🏻‍♀️",
     name = "woman supervillain: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🦹🏻‍♀",
-    name = "woman supervillain: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🦹🏼‍♀️",
     name = "woman supervillain: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🦹🏼‍♀",
-    name = "woman supervillain: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🦹🏽‍♀️",
     name = "woman supervillain: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🦹🏽‍♀",
-    name = "woman supervillain: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🦹🏾‍♀️",
     name = "woman supervillain: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🦹🏾‍♀",
-    name = "woman supervillain: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🦹🏿‍♀️",
     name = "woman supervillain: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9B9 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🦹🏿‍♀",
-    name = "woman supervillain: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9B9 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧙",
     name = "mage",
     group = "People & Body",
@@ -12102,168 +9792,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9D9 200D 2642 FE0F",
   },
-  {
-    emoji = "🧙‍♂",
-    name = "man mage",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 200D 2642",
-  },
-  {
+    {
     emoji = "🧙🏻‍♂️",
     name = "man mage: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧙🏻‍♂",
-    name = "man mage: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧙🏼‍♂️",
     name = "man mage: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧙🏼‍♂",
-    name = "man mage: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧙🏽‍♂️",
     name = "man mage: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧙🏽‍♂",
-    name = "man mage: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧙🏾‍♂️",
     name = "man mage: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧙🏾‍♂",
-    name = "man mage: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧙🏿‍♂️",
     name = "man mage: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧙🏿‍♂",
-    name = "man mage: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧙‍♀️",
     name = "woman mage",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 200D 2640 FE0F",
   },
-  {
-    emoji = "🧙‍♀",
-    name = "woman mage",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 200D 2640",
-  },
-  {
+    {
     emoji = "🧙🏻‍♀️",
     name = "woman mage: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧙🏻‍♀",
-    name = "woman mage: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧙🏼‍♀️",
     name = "woman mage: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧙🏼‍♀",
-    name = "woman mage: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧙🏽‍♀️",
     name = "woman mage: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧙🏽‍♀",
-    name = "woman mage: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧙🏾‍♀️",
     name = "woman mage: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧙🏾‍♀",
-    name = "woman mage: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧙🏿‍♀️",
     name = "woman mage: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9D9 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧙🏿‍♀",
-    name = "woman mage: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9D9 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧚",
     name = "fairy",
     group = "People & Body",
@@ -12312,168 +9918,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9DA 200D 2642 FE0F",
   },
-  {
-    emoji = "🧚‍♂",
-    name = "man fairy",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 200D 2642",
-  },
-  {
+    {
     emoji = "🧚🏻‍♂️",
     name = "man fairy: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧚🏻‍♂",
-    name = "man fairy: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧚🏼‍♂️",
     name = "man fairy: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧚🏼‍♂",
-    name = "man fairy: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧚🏽‍♂️",
     name = "man fairy: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧚🏽‍♂",
-    name = "man fairy: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧚🏾‍♂️",
     name = "man fairy: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧚🏾‍♂",
-    name = "man fairy: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧚🏿‍♂️",
     name = "man fairy: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧚🏿‍♂",
-    name = "man fairy: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧚‍♀️",
     name = "woman fairy",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 200D 2640 FE0F",
   },
-  {
-    emoji = "🧚‍♀",
-    name = "woman fairy",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 200D 2640",
-  },
-  {
+    {
     emoji = "🧚🏻‍♀️",
     name = "woman fairy: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧚🏻‍♀",
-    name = "woman fairy: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧚🏼‍♀️",
     name = "woman fairy: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧚🏼‍♀",
-    name = "woman fairy: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧚🏽‍♀️",
     name = "woman fairy: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧚🏽‍♀",
-    name = "woman fairy: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧚🏾‍♀️",
     name = "woman fairy: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧚🏾‍♀",
-    name = "woman fairy: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧚🏿‍♀️",
     name = "woman fairy: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DA 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧚🏿‍♀",
-    name = "woman fairy: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DA 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧛",
     name = "vampire",
     group = "People & Body",
@@ -12522,168 +10044,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9DB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧛‍♂",
-    name = "man vampire",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 200D 2642",
-  },
-  {
+    {
     emoji = "🧛🏻‍♂️",
     name = "man vampire: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧛🏻‍♂",
-    name = "man vampire: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧛🏼‍♂️",
     name = "man vampire: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧛🏼‍♂",
-    name = "man vampire: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧛🏽‍♂️",
     name = "man vampire: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧛🏽‍♂",
-    name = "man vampire: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧛🏾‍♂️",
     name = "man vampire: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧛🏾‍♂",
-    name = "man vampire: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧛🏿‍♂️",
     name = "man vampire: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧛🏿‍♂",
-    name = "man vampire: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧛‍♀️",
     name = "woman vampire",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧛‍♀",
-    name = "woman vampire",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 200D 2640",
-  },
-  {
+    {
     emoji = "🧛🏻‍♀️",
     name = "woman vampire: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧛🏻‍♀",
-    name = "woman vampire: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧛🏼‍♀️",
     name = "woman vampire: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧛🏼‍♀",
-    name = "woman vampire: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧛🏽‍♀️",
     name = "woman vampire: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧛🏽‍♀",
-    name = "woman vampire: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧛🏾‍♀️",
     name = "woman vampire: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧛🏾‍♀",
-    name = "woman vampire: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧛🏿‍♀️",
     name = "woman vampire: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DB 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧛🏿‍♀",
-    name = "woman vampire: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DB 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧜",
     name = "merperson",
     group = "People & Body",
@@ -12732,168 +10170,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9DC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧜‍♂",
-    name = "merman",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 200D 2642",
-  },
-  {
+    {
     emoji = "🧜🏻‍♂️",
     name = "merman: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧜🏻‍♂",
-    name = "merman: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧜🏼‍♂️",
     name = "merman: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧜🏼‍♂",
-    name = "merman: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧜🏽‍♂️",
     name = "merman: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧜🏽‍♂",
-    name = "merman: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧜🏾‍♂️",
     name = "merman: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧜🏾‍♂",
-    name = "merman: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧜🏿‍♂️",
     name = "merman: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧜🏿‍♂",
-    name = "merman: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧜‍♀️",
     name = "mermaid",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧜‍♀",
-    name = "mermaid",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 200D 2640",
-  },
-  {
+    {
     emoji = "🧜🏻‍♀️",
     name = "mermaid: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧜🏻‍♀",
-    name = "mermaid: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧜🏼‍♀️",
     name = "mermaid: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧜🏼‍♀",
-    name = "mermaid: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧜🏽‍♀️",
     name = "mermaid: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧜🏽‍♀",
-    name = "mermaid: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧜🏾‍♀️",
     name = "mermaid: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧜🏾‍♀",
-    name = "mermaid: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧜🏿‍♀️",
     name = "mermaid: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DC 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧜🏿‍♀",
-    name = "mermaid: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DC 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧝",
     name = "elf",
     group = "People & Body",
@@ -12942,168 +10296,84 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9DD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧝‍♂",
-    name = "man elf",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 200D 2642",
-  },
-  {
+    {
     emoji = "🧝🏻‍♂️",
     name = "man elf: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧝🏻‍♂",
-    name = "man elf: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧝🏼‍♂️",
     name = "man elf: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧝🏼‍♂",
-    name = "man elf: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧝🏽‍♂️",
     name = "man elf: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧝🏽‍♂",
-    name = "man elf: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧝🏾‍♂️",
     name = "man elf: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧝🏾‍♂",
-    name = "man elf: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧝🏿‍♂️",
     name = "man elf: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧝🏿‍♂",
-    name = "man elf: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧝‍♀️",
     name = "woman elf",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧝‍♀",
-    name = "woman elf",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 200D 2640",
-  },
-  {
+    {
     emoji = "🧝🏻‍♀️",
     name = "woman elf: light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧝🏻‍♀",
-    name = "woman elf: light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧝🏼‍♀️",
     name = "woman elf: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧝🏼‍♀",
-    name = "woman elf: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧝🏽‍♀️",
     name = "woman elf: medium skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧝🏽‍♀",
-    name = "woman elf: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧝🏾‍♀️",
     name = "woman elf: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧝🏾‍♀",
-    name = "woman elf: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧝🏿‍♀️",
     name = "woman elf: dark skin tone",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DD 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧝🏿‍♀",
-    name = "woman elf: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DD 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧞",
     name = "genie",
     group = "People & Body",
@@ -13117,28 +10387,14 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9DE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧞‍♂",
-    name = "man genie",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DE 200D 2642",
-  },
-  {
+    {
     emoji = "🧞‍♀️",
     name = "woman genie",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧞‍♀",
-    name = "woman genie",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DE 200D 2640",
-  },
-  {
+    {
     emoji = "🧟",
     name = "zombie",
     group = "People & Body",
@@ -13152,28 +10408,14 @@ local emojis = {
     sub_group = "person-fantasy",
     codepoints = "1F9DF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧟‍♂",
-    name = "man zombie",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DF 200D 2642",
-  },
-  {
+    {
     emoji = "🧟‍♀️",
     name = "woman zombie",
     group = "People & Body",
     sub_group = "person-fantasy",
     codepoints = "1F9DF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧟‍♀",
-    name = "woman zombie",
-    group = "People & Body",
-    sub_group = "person-fantasy",
-    codepoints = "1F9DF 200D 2640",
-  },
-  {
+    {
     emoji = "🧌",
     name = "troll",
     group = "People & Body",
@@ -13229,168 +10471,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F486 200D 2642 FE0F",
   },
-  {
-    emoji = "💆‍♂",
-    name = "man getting massage",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 200D 2642",
-  },
-  {
+    {
     emoji = "💆🏻‍♂️",
     name = "man getting massage: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "💆🏻‍♂",
-    name = "man getting massage: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "💆🏼‍♂️",
     name = "man getting massage: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "💆🏼‍♂",
-    name = "man getting massage: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "💆🏽‍♂️",
     name = "man getting massage: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "💆🏽‍♂",
-    name = "man getting massage: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "💆🏾‍♂️",
     name = "man getting massage: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "💆🏾‍♂",
-    name = "man getting massage: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "💆🏿‍♂️",
     name = "man getting massage: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "💆🏿‍♂",
-    name = "man getting massage: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "💆‍♀️",
     name = "woman getting massage",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 200D 2640 FE0F",
   },
-  {
-    emoji = "💆‍♀",
-    name = "woman getting massage",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 200D 2640",
-  },
-  {
+    {
     emoji = "💆🏻‍♀️",
     name = "woman getting massage: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "💆🏻‍♀",
-    name = "woman getting massage: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "💆🏼‍♀️",
     name = "woman getting massage: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "💆🏼‍♀",
-    name = "woman getting massage: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "💆🏽‍♀️",
     name = "woman getting massage: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "💆🏽‍♀",
-    name = "woman getting massage: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "💆🏾‍♀️",
     name = "woman getting massage: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "💆🏾‍♀",
-    name = "woman getting massage: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "💆🏿‍♀️",
     name = "woman getting massage: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F486 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "💆🏿‍♀",
-    name = "woman getting massage: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F486 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "💇",
     name = "person getting haircut",
     group = "People & Body",
@@ -13439,168 +10597,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F487 200D 2642 FE0F",
   },
-  {
-    emoji = "💇‍♂",
-    name = "man getting haircut",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 200D 2642",
-  },
-  {
+    {
     emoji = "💇🏻‍♂️",
     name = "man getting haircut: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "💇🏻‍♂",
-    name = "man getting haircut: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "💇🏼‍♂️",
     name = "man getting haircut: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "💇🏼‍♂",
-    name = "man getting haircut: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "💇🏽‍♂️",
     name = "man getting haircut: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "💇🏽‍♂",
-    name = "man getting haircut: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "💇🏾‍♂️",
     name = "man getting haircut: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "💇🏾‍♂",
-    name = "man getting haircut: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "💇🏿‍♂️",
     name = "man getting haircut: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "💇🏿‍♂",
-    name = "man getting haircut: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "💇‍♀️",
     name = "woman getting haircut",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 200D 2640 FE0F",
   },
-  {
-    emoji = "💇‍♀",
-    name = "woman getting haircut",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 200D 2640",
-  },
-  {
+    {
     emoji = "💇🏻‍♀️",
     name = "woman getting haircut: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "💇🏻‍♀",
-    name = "woman getting haircut: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "💇🏼‍♀️",
     name = "woman getting haircut: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "💇🏼‍♀",
-    name = "woman getting haircut: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "💇🏽‍♀️",
     name = "woman getting haircut: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "💇🏽‍♀",
-    name = "woman getting haircut: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "💇🏾‍♀️",
     name = "woman getting haircut: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "💇🏾‍♀",
-    name = "woman getting haircut: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "💇🏿‍♀️",
     name = "woman getting haircut: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F487 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "💇🏿‍♀",
-    name = "woman getting haircut: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F487 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🚶",
     name = "person walking",
     group = "People & Body",
@@ -13649,168 +10723,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F6B6 200D 2642 FE0F",
   },
-  {
-    emoji = "🚶‍♂",
-    name = "man walking",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 200D 2642",
-  },
-  {
+    {
     emoji = "🚶🏻‍♂️",
     name = "man walking: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🚶🏻‍♂",
-    name = "man walking: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🚶🏼‍♂️",
     name = "man walking: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🚶🏼‍♂",
-    name = "man walking: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🚶🏽‍♂️",
     name = "man walking: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🚶🏽‍♂",
-    name = "man walking: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🚶🏾‍♂️",
     name = "man walking: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🚶🏾‍♂",
-    name = "man walking: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🚶🏿‍♂️",
     name = "man walking: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🚶🏿‍♂",
-    name = "man walking: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🚶‍♀️",
     name = "woman walking",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 200D 2640 FE0F",
   },
-  {
-    emoji = "🚶‍♀",
-    name = "woman walking",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 200D 2640",
-  },
-  {
+    {
     emoji = "🚶🏻‍♀️",
     name = "woman walking: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🚶🏻‍♀",
-    name = "woman walking: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🚶🏼‍♀️",
     name = "woman walking: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🚶🏼‍♀",
-    name = "woman walking: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🚶🏽‍♀️",
     name = "woman walking: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🚶🏽‍♀",
-    name = "woman walking: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🚶🏾‍♀️",
     name = "woman walking: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🚶🏾‍♀",
-    name = "woman walking: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🚶🏿‍♀️",
     name = "woman walking: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F6B6 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🚶🏿‍♀",
-    name = "woman walking: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F6B6 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧍",
     name = "person standing",
     group = "People & Body",
@@ -13859,168 +10849,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F9CD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧍‍♂",
-    name = "man standing",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 200D 2642",
-  },
-  {
+    {
     emoji = "🧍🏻‍♂️",
     name = "man standing: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧍🏻‍♂",
-    name = "man standing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧍🏼‍♂️",
     name = "man standing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧍🏼‍♂",
-    name = "man standing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧍🏽‍♂️",
     name = "man standing: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧍🏽‍♂",
-    name = "man standing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧍🏾‍♂️",
     name = "man standing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧍🏾‍♂",
-    name = "man standing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧍🏿‍♂️",
     name = "man standing: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧍🏿‍♂",
-    name = "man standing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧍‍♀️",
     name = "woman standing",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧍‍♀",
-    name = "woman standing",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 200D 2640",
-  },
-  {
+    {
     emoji = "🧍🏻‍♀️",
     name = "woman standing: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧍🏻‍♀",
-    name = "woman standing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧍🏼‍♀️",
     name = "woman standing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧍🏼‍♀",
-    name = "woman standing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧍🏽‍♀️",
     name = "woman standing: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧍🏽‍♀",
-    name = "woman standing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧍🏾‍♀️",
     name = "woman standing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧍🏾‍♀",
-    name = "woman standing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧍🏿‍♀️",
     name = "woman standing: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CD 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧍🏿‍♀",
-    name = "woman standing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CD 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧎",
     name = "person kneeling",
     group = "People & Body",
@@ -14069,168 +10975,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F9CE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧎‍♂",
-    name = "man kneeling",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 200D 2642",
-  },
-  {
+    {
     emoji = "🧎🏻‍♂️",
     name = "man kneeling: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧎🏻‍♂",
-    name = "man kneeling: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧎🏼‍♂️",
     name = "man kneeling: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧎🏼‍♂",
-    name = "man kneeling: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧎🏽‍♂️",
     name = "man kneeling: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧎🏽‍♂",
-    name = "man kneeling: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧎🏾‍♂️",
     name = "man kneeling: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧎🏾‍♂",
-    name = "man kneeling: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧎🏿‍♂️",
     name = "man kneeling: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧎🏿‍♂",
-    name = "man kneeling: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧎‍♀️",
     name = "woman kneeling",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧎‍♀",
-    name = "woman kneeling",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 200D 2640",
-  },
-  {
+    {
     emoji = "🧎🏻‍♀️",
     name = "woman kneeling: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧎🏻‍♀",
-    name = "woman kneeling: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧎🏼‍♀️",
     name = "woman kneeling: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧎🏼‍♀",
-    name = "woman kneeling: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧎🏽‍♀️",
     name = "woman kneeling: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧎🏽‍♀",
-    name = "woman kneeling: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧎🏾‍♀️",
     name = "woman kneeling: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧎🏾‍♀",
-    name = "woman kneeling: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧎🏿‍♀️",
     name = "woman kneeling: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9CE 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧎🏿‍♀",
-    name = "woman kneeling: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9CE 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧑‍🦯",
     name = "person with white cane",
     group = "People & Body",
@@ -14657,168 +11479,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F3C3 200D 2642 FE0F",
   },
-  {
-    emoji = "🏃‍♂",
-    name = "man running",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 200D 2642",
-  },
-  {
+    {
     emoji = "🏃🏻‍♂️",
     name = "man running: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🏃🏻‍♂",
-    name = "man running: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🏃🏼‍♂️",
     name = "man running: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🏃🏼‍♂",
-    name = "man running: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🏃🏽‍♂️",
     name = "man running: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🏃🏽‍♂",
-    name = "man running: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🏃🏾‍♂️",
     name = "man running: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🏃🏾‍♂",
-    name = "man running: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🏃🏿‍♂️",
     name = "man running: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🏃🏿‍♂",
-    name = "man running: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🏃‍♀️",
     name = "woman running",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 200D 2640 FE0F",
   },
-  {
-    emoji = "🏃‍♀",
-    name = "woman running",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 200D 2640",
-  },
-  {
+    {
     emoji = "🏃🏻‍♀️",
     name = "woman running: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🏃🏻‍♀",
-    name = "woman running: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🏃🏼‍♀️",
     name = "woman running: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🏃🏼‍♀",
-    name = "woman running: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🏃🏽‍♀️",
     name = "woman running: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🏃🏽‍♀",
-    name = "woman running: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🏃🏾‍♀️",
     name = "woman running: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🏃🏾‍♀",
-    name = "woman running: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🏃🏿‍♀️",
     name = "woman running: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F3C3 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🏃🏿‍♀",
-    name = "woman running: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F3C3 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "💃",
     name = "woman dancing",
     group = "People & Body",
@@ -14909,14 +11647,7 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F574 FE0F",
   },
-  {
-    emoji = "🕴",
-    name = "person in suit levitating",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F574",
-  },
-  {
+    {
     emoji = "🕴🏻",
     name = "person in suit levitating: light skin tone",
     group = "People & Body",
@@ -14965,28 +11696,14 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F46F 200D 2642 FE0F",
   },
-  {
-    emoji = "👯‍♂",
-    name = "men with bunny ears",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F46F 200D 2642",
-  },
-  {
+    {
     emoji = "👯‍♀️",
     name = "women with bunny ears",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F46F 200D 2640 FE0F",
   },
-  {
-    emoji = "👯‍♀",
-    name = "women with bunny ears",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F46F 200D 2640",
-  },
-  {
+    {
     emoji = "🧖",
     name = "person in steamy room",
     group = "People & Body",
@@ -15035,168 +11752,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F9D6 200D 2642 FE0F",
   },
-  {
-    emoji = "🧖‍♂",
-    name = "man in steamy room",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 200D 2642",
-  },
-  {
+    {
     emoji = "🧖🏻‍♂️",
     name = "man in steamy room: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧖🏻‍♂",
-    name = "man in steamy room: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧖🏼‍♂️",
     name = "man in steamy room: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧖🏼‍♂",
-    name = "man in steamy room: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧖🏽‍♂️",
     name = "man in steamy room: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧖🏽‍♂",
-    name = "man in steamy room: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧖🏾‍♂️",
     name = "man in steamy room: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧖🏾‍♂",
-    name = "man in steamy room: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧖🏿‍♂️",
     name = "man in steamy room: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧖🏿‍♂",
-    name = "man in steamy room: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧖‍♀️",
     name = "woman in steamy room",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 200D 2640 FE0F",
   },
-  {
-    emoji = "🧖‍♀",
-    name = "woman in steamy room",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 200D 2640",
-  },
-  {
+    {
     emoji = "🧖🏻‍♀️",
     name = "woman in steamy room: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧖🏻‍♀",
-    name = "woman in steamy room: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧖🏼‍♀️",
     name = "woman in steamy room: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧖🏼‍♀",
-    name = "woman in steamy room: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧖🏽‍♀️",
     name = "woman in steamy room: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧖🏽‍♀",
-    name = "woman in steamy room: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧖🏾‍♀️",
     name = "woman in steamy room: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧖🏾‍♀",
-    name = "woman in steamy room: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧖🏿‍♀️",
     name = "woman in steamy room: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D6 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧖🏿‍♀",
-    name = "woman in steamy room: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D6 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧗",
     name = "person climbing",
     group = "People & Body",
@@ -15245,168 +11878,84 @@ local emojis = {
     sub_group = "person-activity",
     codepoints = "1F9D7 200D 2642 FE0F",
   },
-  {
-    emoji = "🧗‍♂",
-    name = "man climbing",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 200D 2642",
-  },
-  {
+    {
     emoji = "🧗🏻‍♂️",
     name = "man climbing: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧗🏻‍♂",
-    name = "man climbing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧗🏼‍♂️",
     name = "man climbing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧗🏼‍♂",
-    name = "man climbing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧗🏽‍♂️",
     name = "man climbing: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧗🏽‍♂",
-    name = "man climbing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧗🏾‍♂️",
     name = "man climbing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧗🏾‍♂",
-    name = "man climbing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧗🏿‍♂️",
     name = "man climbing: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧗🏿‍♂",
-    name = "man climbing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧗‍♀️",
     name = "woman climbing",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 200D 2640 FE0F",
   },
-  {
-    emoji = "🧗‍♀",
-    name = "woman climbing",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 200D 2640",
-  },
-  {
+    {
     emoji = "🧗🏻‍♀️",
     name = "woman climbing: light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧗🏻‍♀",
-    name = "woman climbing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧗🏼‍♀️",
     name = "woman climbing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧗🏼‍♀",
-    name = "woman climbing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧗🏽‍♀️",
     name = "woman climbing: medium skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧗🏽‍♀",
-    name = "woman climbing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧗🏾‍♀️",
     name = "woman climbing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧗🏾‍♀",
-    name = "woman climbing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧗🏿‍♀️",
     name = "woman climbing: dark skin tone",
     group = "People & Body",
     sub_group = "person-activity",
     codepoints = "1F9D7 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧗🏿‍♀",
-    name = "woman climbing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-activity",
-    codepoints = "1F9D7 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤺",
     name = "person fencing",
     group = "People & Body",
@@ -15462,14 +12011,7 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "26F7 FE0F",
   },
-  {
-    emoji = "⛷",
-    name = "skier",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F7",
-  },
-  {
+    {
     emoji = "🏂",
     name = "snowboarder",
     group = "People & Body",
@@ -15518,14 +12060,7 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F3CC FE0F",
   },
-  {
-    emoji = "🏌",
-    name = "person golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC",
-  },
-  {
+    {
     emoji = "🏌🏻",
     name = "person golfing: light skin tone",
     group = "People & Body",
@@ -15567,196 +12102,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F3CC FE0F 200D 2642 FE0F",
   },
-  {
-    emoji = "🏌‍♂️",
-    name = "man golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 200D 2642 FE0F",
-  },
-  {
-    emoji = "🏌️‍♂",
-    name = "man golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC FE0F 200D 2642",
-  },
-  {
-    emoji = "🏌‍♂",
-    name = "man golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 200D 2642",
-  },
-  {
+        {
     emoji = "🏌🏻‍♂️",
     name = "man golfing: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🏌🏻‍♂",
-    name = "man golfing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🏌🏼‍♂️",
     name = "man golfing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🏌🏼‍♂",
-    name = "man golfing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🏌🏽‍♂️",
     name = "man golfing: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🏌🏽‍♂",
-    name = "man golfing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🏌🏾‍♂️",
     name = "man golfing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🏌🏾‍♂",
-    name = "man golfing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🏌🏿‍♂️",
     name = "man golfing: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🏌🏿‍♂",
-    name = "man golfing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🏌️‍♀️",
     name = "woman golfing",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC FE0F 200D 2640 FE0F",
   },
-  {
-    emoji = "🏌‍♀️",
-    name = "woman golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 200D 2640 FE0F",
-  },
-  {
-    emoji = "🏌️‍♀",
-    name = "woman golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC FE0F 200D 2640",
-  },
-  {
-    emoji = "🏌‍♀",
-    name = "woman golfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 200D 2640",
-  },
-  {
+        {
     emoji = "🏌🏻‍♀️",
     name = "woman golfing: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🏌🏻‍♀",
-    name = "woman golfing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🏌🏼‍♀️",
     name = "woman golfing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🏌🏼‍♀",
-    name = "woman golfing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🏌🏽‍♀️",
     name = "woman golfing: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🏌🏽‍♀",
-    name = "woman golfing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🏌🏾‍♀️",
     name = "woman golfing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🏌🏾‍♀",
-    name = "woman golfing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🏌🏿‍♀️",
     name = "woman golfing: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CC 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🏌🏿‍♀",
-    name = "woman golfing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CC 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🏄",
     name = "person surfing",
     group = "People & Body",
@@ -15805,168 +12228,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F3C4 200D 2642 FE0F",
   },
-  {
-    emoji = "🏄‍♂",
-    name = "man surfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 200D 2642",
-  },
-  {
+    {
     emoji = "🏄🏻‍♂️",
     name = "man surfing: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🏄🏻‍♂",
-    name = "man surfing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🏄🏼‍♂️",
     name = "man surfing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🏄🏼‍♂",
-    name = "man surfing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🏄🏽‍♂️",
     name = "man surfing: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🏄🏽‍♂",
-    name = "man surfing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🏄🏾‍♂️",
     name = "man surfing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🏄🏾‍♂",
-    name = "man surfing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🏄🏿‍♂️",
     name = "man surfing: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🏄🏿‍♂",
-    name = "man surfing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🏄‍♀️",
     name = "woman surfing",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 200D 2640 FE0F",
   },
-  {
-    emoji = "🏄‍♀",
-    name = "woman surfing",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 200D 2640",
-  },
-  {
+    {
     emoji = "🏄🏻‍♀️",
     name = "woman surfing: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🏄🏻‍♀",
-    name = "woman surfing: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🏄🏼‍♀️",
     name = "woman surfing: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🏄🏼‍♀",
-    name = "woman surfing: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🏄🏽‍♀️",
     name = "woman surfing: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🏄🏽‍♀",
-    name = "woman surfing: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🏄🏾‍♀️",
     name = "woman surfing: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🏄🏾‍♀",
-    name = "woman surfing: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🏄🏿‍♀️",
     name = "woman surfing: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3C4 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🏄🏿‍♀",
-    name = "woman surfing: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3C4 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🚣",
     name = "person rowing boat",
     group = "People & Body",
@@ -16015,168 +12354,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F6A3 200D 2642 FE0F",
   },
-  {
-    emoji = "🚣‍♂",
-    name = "man rowing boat",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 200D 2642",
-  },
-  {
+    {
     emoji = "🚣🏻‍♂️",
     name = "man rowing boat: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🚣🏻‍♂",
-    name = "man rowing boat: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🚣🏼‍♂️",
     name = "man rowing boat: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🚣🏼‍♂",
-    name = "man rowing boat: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🚣🏽‍♂️",
     name = "man rowing boat: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🚣🏽‍♂",
-    name = "man rowing boat: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🚣🏾‍♂️",
     name = "man rowing boat: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🚣🏾‍♂",
-    name = "man rowing boat: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🚣🏿‍♂️",
     name = "man rowing boat: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🚣🏿‍♂",
-    name = "man rowing boat: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🚣‍♀️",
     name = "woman rowing boat",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 200D 2640 FE0F",
   },
-  {
-    emoji = "🚣‍♀",
-    name = "woman rowing boat",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 200D 2640",
-  },
-  {
+    {
     emoji = "🚣🏻‍♀️",
     name = "woman rowing boat: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🚣🏻‍♀",
-    name = "woman rowing boat: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🚣🏼‍♀️",
     name = "woman rowing boat: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🚣🏼‍♀",
-    name = "woman rowing boat: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🚣🏽‍♀️",
     name = "woman rowing boat: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🚣🏽‍♀",
-    name = "woman rowing boat: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🚣🏾‍♀️",
     name = "woman rowing boat: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🚣🏾‍♀",
-    name = "woman rowing boat: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🚣🏿‍♀️",
     name = "woman rowing boat: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6A3 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🚣🏿‍♀",
-    name = "woman rowing boat: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6A3 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🏊",
     name = "person swimming",
     group = "People & Body",
@@ -16225,182 +12480,91 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F3CA 200D 2642 FE0F",
   },
-  {
-    emoji = "🏊‍♂",
-    name = "man swimming",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 200D 2642",
-  },
-  {
+    {
     emoji = "🏊🏻‍♂️",
     name = "man swimming: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🏊🏻‍♂",
-    name = "man swimming: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🏊🏼‍♂️",
     name = "man swimming: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🏊🏼‍♂",
-    name = "man swimming: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🏊🏽‍♂️",
     name = "man swimming: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🏊🏽‍♂",
-    name = "man swimming: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🏊🏾‍♂️",
     name = "man swimming: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🏊🏾‍♂",
-    name = "man swimming: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🏊🏿‍♂️",
     name = "man swimming: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🏊🏿‍♂",
-    name = "man swimming: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🏊‍♀️",
     name = "woman swimming",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 200D 2640 FE0F",
   },
-  {
-    emoji = "🏊‍♀",
-    name = "woman swimming",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 200D 2640",
-  },
-  {
+    {
     emoji = "🏊🏻‍♀️",
     name = "woman swimming: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🏊🏻‍♀",
-    name = "woman swimming: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🏊🏼‍♀️",
     name = "woman swimming: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🏊🏼‍♀",
-    name = "woman swimming: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🏊🏽‍♀️",
     name = "woman swimming: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🏊🏽‍♀",
-    name = "woman swimming: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🏊🏾‍♀️",
     name = "woman swimming: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🏊🏾‍♀",
-    name = "woman swimming: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🏊🏿‍♀️",
     name = "woman swimming: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CA 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🏊🏿‍♀",
-    name = "woman swimming: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CA 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "⛹️",
     name = "person bouncing ball",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 FE0F",
   },
-  {
-    emoji = "⛹",
-    name = "person bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9",
-  },
-  {
+    {
     emoji = "⛹🏻",
     name = "person bouncing ball: light skin tone",
     group = "People & Body",
@@ -16442,210 +12606,91 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "26F9 FE0F 200D 2642 FE0F",
   },
-  {
-    emoji = "⛹‍♂️",
-    name = "man bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 200D 2642 FE0F",
-  },
-  {
-    emoji = "⛹️‍♂",
-    name = "man bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 FE0F 200D 2642",
-  },
-  {
-    emoji = "⛹‍♂",
-    name = "man bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 200D 2642",
-  },
-  {
+        {
     emoji = "⛹🏻‍♂️",
     name = "man bouncing ball: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "⛹🏻‍♂",
-    name = "man bouncing ball: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "⛹🏼‍♂️",
     name = "man bouncing ball: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "⛹🏼‍♂",
-    name = "man bouncing ball: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "⛹🏽‍♂️",
     name = "man bouncing ball: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "⛹🏽‍♂",
-    name = "man bouncing ball: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "⛹🏾‍♂️",
     name = "man bouncing ball: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "⛹🏾‍♂",
-    name = "man bouncing ball: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "⛹🏿‍♂️",
     name = "man bouncing ball: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "⛹🏿‍♂",
-    name = "man bouncing ball: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "⛹️‍♀️",
     name = "woman bouncing ball",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 FE0F 200D 2640 FE0F",
   },
-  {
-    emoji = "⛹‍♀️",
-    name = "woman bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 200D 2640 FE0F",
-  },
-  {
-    emoji = "⛹️‍♀",
-    name = "woman bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 FE0F 200D 2640",
-  },
-  {
-    emoji = "⛹‍♀",
-    name = "woman bouncing ball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 200D 2640",
-  },
-  {
+        {
     emoji = "⛹🏻‍♀️",
     name = "woman bouncing ball: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "⛹🏻‍♀",
-    name = "woman bouncing ball: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "⛹🏼‍♀️",
     name = "woman bouncing ball: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "⛹🏼‍♀",
-    name = "woman bouncing ball: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "⛹🏽‍♀️",
     name = "woman bouncing ball: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "⛹🏽‍♀",
-    name = "woman bouncing ball: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "⛹🏾‍♀️",
     name = "woman bouncing ball: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "⛹🏾‍♀",
-    name = "woman bouncing ball: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "⛹🏿‍♀️",
     name = "woman bouncing ball: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "26F9 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "⛹🏿‍♀",
-    name = "woman bouncing ball: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "26F9 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🏋️",
     name = "person lifting weights",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB FE0F",
   },
-  {
-    emoji = "🏋",
-    name = "person lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB",
-  },
-  {
+    {
     emoji = "🏋🏻",
     name = "person lifting weights: light skin tone",
     group = "People & Body",
@@ -16687,196 +12732,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F3CB FE0F 200D 2642 FE0F",
   },
-  {
-    emoji = "🏋‍♂️",
-    name = "man lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 200D 2642 FE0F",
-  },
-  {
-    emoji = "🏋️‍♂",
-    name = "man lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB FE0F 200D 2642",
-  },
-  {
-    emoji = "🏋‍♂",
-    name = "man lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 200D 2642",
-  },
-  {
+        {
     emoji = "🏋🏻‍♂️",
     name = "man lifting weights: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🏋🏻‍♂",
-    name = "man lifting weights: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🏋🏼‍♂️",
     name = "man lifting weights: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🏋🏼‍♂",
-    name = "man lifting weights: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🏋🏽‍♂️",
     name = "man lifting weights: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🏋🏽‍♂",
-    name = "man lifting weights: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🏋🏾‍♂️",
     name = "man lifting weights: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🏋🏾‍♂",
-    name = "man lifting weights: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🏋🏿‍♂️",
     name = "man lifting weights: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🏋🏿‍♂",
-    name = "man lifting weights: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🏋️‍♀️",
     name = "woman lifting weights",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB FE0F 200D 2640 FE0F",
   },
-  {
-    emoji = "🏋‍♀️",
-    name = "woman lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 200D 2640 FE0F",
-  },
-  {
-    emoji = "🏋️‍♀",
-    name = "woman lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB FE0F 200D 2640",
-  },
-  {
-    emoji = "🏋‍♀",
-    name = "woman lifting weights",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 200D 2640",
-  },
-  {
+        {
     emoji = "🏋🏻‍♀️",
     name = "woman lifting weights: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🏋🏻‍♀",
-    name = "woman lifting weights: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🏋🏼‍♀️",
     name = "woman lifting weights: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🏋🏼‍♀",
-    name = "woman lifting weights: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🏋🏽‍♀️",
     name = "woman lifting weights: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🏋🏽‍♀",
-    name = "woman lifting weights: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🏋🏾‍♀️",
     name = "woman lifting weights: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🏋🏾‍♀",
-    name = "woman lifting weights: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🏋🏿‍♀️",
     name = "woman lifting weights: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F3CB 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🏋🏿‍♀",
-    name = "woman lifting weights: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F3CB 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🚴",
     name = "person biking",
     group = "People & Body",
@@ -16925,168 +12858,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F6B4 200D 2642 FE0F",
   },
-  {
-    emoji = "🚴‍♂",
-    name = "man biking",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 200D 2642",
-  },
-  {
+    {
     emoji = "🚴🏻‍♂️",
     name = "man biking: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🚴🏻‍♂",
-    name = "man biking: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🚴🏼‍♂️",
     name = "man biking: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🚴🏼‍♂",
-    name = "man biking: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🚴🏽‍♂️",
     name = "man biking: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🚴🏽‍♂",
-    name = "man biking: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🚴🏾‍♂️",
     name = "man biking: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🚴🏾‍♂",
-    name = "man biking: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🚴🏿‍♂️",
     name = "man biking: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🚴🏿‍♂",
-    name = "man biking: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🚴‍♀️",
     name = "woman biking",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 200D 2640 FE0F",
   },
-  {
-    emoji = "🚴‍♀",
-    name = "woman biking",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 200D 2640",
-  },
-  {
+    {
     emoji = "🚴🏻‍♀️",
     name = "woman biking: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🚴🏻‍♀",
-    name = "woman biking: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🚴🏼‍♀️",
     name = "woman biking: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🚴🏼‍♀",
-    name = "woman biking: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🚴🏽‍♀️",
     name = "woman biking: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🚴🏽‍♀",
-    name = "woman biking: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🚴🏾‍♀️",
     name = "woman biking: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🚴🏾‍♀",
-    name = "woman biking: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🚴🏿‍♀️",
     name = "woman biking: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B4 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🚴🏿‍♀",
-    name = "woman biking: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B4 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🚵",
     name = "person mountain biking",
     group = "People & Body",
@@ -17135,168 +12984,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F6B5 200D 2642 FE0F",
   },
-  {
-    emoji = "🚵‍♂",
-    name = "man mountain biking",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 200D 2642",
-  },
-  {
+    {
     emoji = "🚵🏻‍♂️",
     name = "man mountain biking: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🚵🏻‍♂",
-    name = "man mountain biking: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🚵🏼‍♂️",
     name = "man mountain biking: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🚵🏼‍♂",
-    name = "man mountain biking: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🚵🏽‍♂️",
     name = "man mountain biking: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🚵🏽‍♂",
-    name = "man mountain biking: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🚵🏾‍♂️",
     name = "man mountain biking: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🚵🏾‍♂",
-    name = "man mountain biking: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🚵🏿‍♂️",
     name = "man mountain biking: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🚵🏿‍♂",
-    name = "man mountain biking: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🚵‍♀️",
     name = "woman mountain biking",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 200D 2640 FE0F",
   },
-  {
-    emoji = "🚵‍♀",
-    name = "woman mountain biking",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 200D 2640",
-  },
-  {
+    {
     emoji = "🚵🏻‍♀️",
     name = "woman mountain biking: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🚵🏻‍♀",
-    name = "woman mountain biking: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🚵🏼‍♀️",
     name = "woman mountain biking: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🚵🏼‍♀",
-    name = "woman mountain biking: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🚵🏽‍♀️",
     name = "woman mountain biking: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🚵🏽‍♀",
-    name = "woman mountain biking: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🚵🏾‍♀️",
     name = "woman mountain biking: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🚵🏾‍♀",
-    name = "woman mountain biking: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🚵🏿‍♀️",
     name = "woman mountain biking: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F6B5 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🚵🏿‍♀",
-    name = "woman mountain biking: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F6B5 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤸",
     name = "person cartwheeling",
     group = "People & Body",
@@ -17345,168 +13110,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F938 200D 2642 FE0F",
   },
-  {
-    emoji = "🤸‍♂",
-    name = "man cartwheeling",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 200D 2642",
-  },
-  {
+    {
     emoji = "🤸🏻‍♂️",
     name = "man cartwheeling: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤸🏻‍♂",
-    name = "man cartwheeling: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤸🏼‍♂️",
     name = "man cartwheeling: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤸🏼‍♂",
-    name = "man cartwheeling: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤸🏽‍♂️",
     name = "man cartwheeling: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤸🏽‍♂",
-    name = "man cartwheeling: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤸🏾‍♂️",
     name = "man cartwheeling: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤸🏾‍♂",
-    name = "man cartwheeling: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤸🏿‍♂️",
     name = "man cartwheeling: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤸🏿‍♂",
-    name = "man cartwheeling: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤸‍♀️",
     name = "woman cartwheeling",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 200D 2640 FE0F",
   },
-  {
-    emoji = "🤸‍♀",
-    name = "woman cartwheeling",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 200D 2640",
-  },
-  {
+    {
     emoji = "🤸🏻‍♀️",
     name = "woman cartwheeling: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤸🏻‍♀",
-    name = "woman cartwheeling: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤸🏼‍♀️",
     name = "woman cartwheeling: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤸🏼‍♀",
-    name = "woman cartwheeling: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤸🏽‍♀️",
     name = "woman cartwheeling: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤸🏽‍♀",
-    name = "woman cartwheeling: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤸🏾‍♀️",
     name = "woman cartwheeling: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤸🏾‍♀",
-    name = "woman cartwheeling: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤸🏿‍♀️",
     name = "woman cartwheeling: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F938 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤸🏿‍♀",
-    name = "woman cartwheeling: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F938 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤼",
     name = "people wrestling",
     group = "People & Body",
@@ -17520,28 +13201,14 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F93C 200D 2642 FE0F",
   },
-  {
-    emoji = "🤼‍♂",
-    name = "men wrestling",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93C 200D 2642",
-  },
-  {
+    {
     emoji = "🤼‍♀️",
     name = "women wrestling",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93C 200D 2640 FE0F",
   },
-  {
-    emoji = "🤼‍♀",
-    name = "women wrestling",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93C 200D 2640",
-  },
-  {
+    {
     emoji = "🤽",
     name = "person playing water polo",
     group = "People & Body",
@@ -17590,168 +13257,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F93D 200D 2642 FE0F",
   },
-  {
-    emoji = "🤽‍♂",
-    name = "man playing water polo",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 200D 2642",
-  },
-  {
+    {
     emoji = "🤽🏻‍♂️",
     name = "man playing water polo: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤽🏻‍♂",
-    name = "man playing water polo: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤽🏼‍♂️",
     name = "man playing water polo: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤽🏼‍♂",
-    name = "man playing water polo: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤽🏽‍♂️",
     name = "man playing water polo: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤽🏽‍♂",
-    name = "man playing water polo: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤽🏾‍♂️",
     name = "man playing water polo: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤽🏾‍♂",
-    name = "man playing water polo: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤽🏿‍♂️",
     name = "man playing water polo: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤽🏿‍♂",
-    name = "man playing water polo: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤽‍♀️",
     name = "woman playing water polo",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 200D 2640 FE0F",
   },
-  {
-    emoji = "🤽‍♀",
-    name = "woman playing water polo",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 200D 2640",
-  },
-  {
+    {
     emoji = "🤽🏻‍♀️",
     name = "woman playing water polo: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤽🏻‍♀",
-    name = "woman playing water polo: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤽🏼‍♀️",
     name = "woman playing water polo: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤽🏼‍♀",
-    name = "woman playing water polo: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤽🏽‍♀️",
     name = "woman playing water polo: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤽🏽‍♀",
-    name = "woman playing water polo: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤽🏾‍♀️",
     name = "woman playing water polo: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤽🏾‍♀",
-    name = "woman playing water polo: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤽🏿‍♀️",
     name = "woman playing water polo: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93D 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤽🏿‍♀",
-    name = "woman playing water polo: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93D 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤾",
     name = "person playing handball",
     group = "People & Body",
@@ -17800,168 +13383,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F93E 200D 2642 FE0F",
   },
-  {
-    emoji = "🤾‍♂",
-    name = "man playing handball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 200D 2642",
-  },
-  {
+    {
     emoji = "🤾🏻‍♂️",
     name = "man playing handball: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤾🏻‍♂",
-    name = "man playing handball: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤾🏼‍♂️",
     name = "man playing handball: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤾🏼‍♂",
-    name = "man playing handball: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤾🏽‍♂️",
     name = "man playing handball: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤾🏽‍♂",
-    name = "man playing handball: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤾🏾‍♂️",
     name = "man playing handball: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤾🏾‍♂",
-    name = "man playing handball: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤾🏿‍♂️",
     name = "man playing handball: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤾🏿‍♂",
-    name = "man playing handball: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤾‍♀️",
     name = "woman playing handball",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 200D 2640 FE0F",
   },
-  {
-    emoji = "🤾‍♀",
-    name = "woman playing handball",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 200D 2640",
-  },
-  {
+    {
     emoji = "🤾🏻‍♀️",
     name = "woman playing handball: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤾🏻‍♀",
-    name = "woman playing handball: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤾🏼‍♀️",
     name = "woman playing handball: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤾🏼‍♀",
-    name = "woman playing handball: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤾🏽‍♀️",
     name = "woman playing handball: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤾🏽‍♀",
-    name = "woman playing handball: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤾🏾‍♀️",
     name = "woman playing handball: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤾🏾‍♀",
-    name = "woman playing handball: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤾🏿‍♀️",
     name = "woman playing handball: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F93E 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤾🏿‍♀",
-    name = "woman playing handball: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F93E 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🤹",
     name = "person juggling",
     group = "People & Body",
@@ -18010,168 +13509,84 @@ local emojis = {
     sub_group = "person-sport",
     codepoints = "1F939 200D 2642 FE0F",
   },
-  {
-    emoji = "🤹‍♂",
-    name = "man juggling",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 200D 2642",
-  },
-  {
+    {
     emoji = "🤹🏻‍♂️",
     name = "man juggling: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🤹🏻‍♂",
-    name = "man juggling: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🤹🏼‍♂️",
     name = "man juggling: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🤹🏼‍♂",
-    name = "man juggling: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🤹🏽‍♂️",
     name = "man juggling: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🤹🏽‍♂",
-    name = "man juggling: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🤹🏾‍♂️",
     name = "man juggling: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🤹🏾‍♂",
-    name = "man juggling: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🤹🏿‍♂️",
     name = "man juggling: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🤹🏿‍♂",
-    name = "man juggling: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🤹‍♀️",
     name = "woman juggling",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 200D 2640 FE0F",
   },
-  {
-    emoji = "🤹‍♀",
-    name = "woman juggling",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 200D 2640",
-  },
-  {
+    {
     emoji = "🤹🏻‍♀️",
     name = "woman juggling: light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🤹🏻‍♀",
-    name = "woman juggling: light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🤹🏼‍♀️",
     name = "woman juggling: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🤹🏼‍♀",
-    name = "woman juggling: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🤹🏽‍♀️",
     name = "woman juggling: medium skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🤹🏽‍♀",
-    name = "woman juggling: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🤹🏾‍♀️",
     name = "woman juggling: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🤹🏾‍♀",
-    name = "woman juggling: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🤹🏿‍♀️",
     name = "woman juggling: dark skin tone",
     group = "People & Body",
     sub_group = "person-sport",
     codepoints = "1F939 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🤹🏿‍♀",
-    name = "woman juggling: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-sport",
-    codepoints = "1F939 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🧘",
     name = "person in lotus position",
     group = "People & Body",
@@ -18220,168 +13635,84 @@ local emojis = {
     sub_group = "person-resting",
     codepoints = "1F9D8 200D 2642 FE0F",
   },
-  {
-    emoji = "🧘‍♂",
-    name = "man in lotus position",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 200D 2642",
-  },
-  {
+    {
     emoji = "🧘🏻‍♂️",
     name = "man in lotus position: light skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FB 200D 2642 FE0F",
   },
-  {
-    emoji = "🧘🏻‍♂",
-    name = "man in lotus position: light skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FB 200D 2642",
-  },
-  {
+    {
     emoji = "🧘🏼‍♂️",
     name = "man in lotus position: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FC 200D 2642 FE0F",
   },
-  {
-    emoji = "🧘🏼‍♂",
-    name = "man in lotus position: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FC 200D 2642",
-  },
-  {
+    {
     emoji = "🧘🏽‍♂️",
     name = "man in lotus position: medium skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FD 200D 2642 FE0F",
   },
-  {
-    emoji = "🧘🏽‍♂",
-    name = "man in lotus position: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FD 200D 2642",
-  },
-  {
+    {
     emoji = "🧘🏾‍♂️",
     name = "man in lotus position: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FE 200D 2642 FE0F",
   },
-  {
-    emoji = "🧘🏾‍♂",
-    name = "man in lotus position: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FE 200D 2642",
-  },
-  {
+    {
     emoji = "🧘🏿‍♂️",
     name = "man in lotus position: dark skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FF 200D 2642 FE0F",
   },
-  {
-    emoji = "🧘🏿‍♂",
-    name = "man in lotus position: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FF 200D 2642",
-  },
-  {
+    {
     emoji = "🧘‍♀️",
     name = "woman in lotus position",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 200D 2640 FE0F",
   },
-  {
-    emoji = "🧘‍♀",
-    name = "woman in lotus position",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 200D 2640",
-  },
-  {
+    {
     emoji = "🧘🏻‍♀️",
     name = "woman in lotus position: light skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FB 200D 2640 FE0F",
   },
-  {
-    emoji = "🧘🏻‍♀",
-    name = "woman in lotus position: light skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FB 200D 2640",
-  },
-  {
+    {
     emoji = "🧘🏼‍♀️",
     name = "woman in lotus position: medium-light skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FC 200D 2640 FE0F",
   },
-  {
-    emoji = "🧘🏼‍♀",
-    name = "woman in lotus position: medium-light skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FC 200D 2640",
-  },
-  {
+    {
     emoji = "🧘🏽‍♀️",
     name = "woman in lotus position: medium skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FD 200D 2640 FE0F",
   },
-  {
-    emoji = "🧘🏽‍♀",
-    name = "woman in lotus position: medium skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FD 200D 2640",
-  },
-  {
+    {
     emoji = "🧘🏾‍♀️",
     name = "woman in lotus position: medium-dark skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FE 200D 2640 FE0F",
   },
-  {
-    emoji = "🧘🏾‍♀",
-    name = "woman in lotus position: medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FE 200D 2640",
-  },
-  {
+    {
     emoji = "🧘🏿‍♀️",
     name = "woman in lotus position: dark skin tone",
     group = "People & Body",
     sub_group = "person-resting",
     codepoints = "1F9D8 1F3FF 200D 2640 FE0F",
   },
-  {
-    emoji = "🧘🏿‍♀",
-    name = "woman in lotus position: dark skin tone",
-    group = "People & Body",
-    sub_group = "person-resting",
-    codepoints = "1F9D8 1F3FF 200D 2640",
-  },
-  {
+    {
     emoji = "🛀",
     name = "person taking bath",
     group = "People & Body",
@@ -19242,1372 +14573,686 @@ local emojis = {
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏻‍❤‍💋‍🧑🏼",
-    name = "kiss: person, person, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F48B 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏻‍❤️‍💋‍🧑🏽",
     name = "kiss: person, person, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏻‍❤‍💋‍🧑🏽",
-    name = "kiss: person, person, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F48B 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏻‍❤️‍💋‍🧑🏾",
     name = "kiss: person, person, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏻‍❤‍💋‍🧑🏾",
-    name = "kiss: person, person, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F48B 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "🧑🏻‍❤️‍💋‍🧑🏿",
     name = "kiss: person, person, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏻‍❤‍💋‍🧑🏿",
-    name = "kiss: person, person, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F48B 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍💋‍🧑🏻",
     name = "kiss: person, person, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏼‍❤‍💋‍🧑🏻",
-    name = "kiss: person, person, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F48B 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍💋‍🧑🏽",
     name = "kiss: person, person, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏼‍❤‍💋‍🧑🏽",
-    name = "kiss: person, person, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F48B 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍💋‍🧑🏾",
     name = "kiss: person, person, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏼‍❤‍💋‍🧑🏾",
-    name = "kiss: person, person, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F48B 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍💋‍🧑🏿",
     name = "kiss: person, person, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏼‍❤‍💋‍🧑🏿",
-    name = "kiss: person, person, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F48B 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍💋‍🧑🏻",
     name = "kiss: person, person, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏽‍❤‍💋‍🧑🏻",
-    name = "kiss: person, person, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F48B 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍💋‍🧑🏼",
     name = "kiss: person, person, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏽‍❤‍💋‍🧑🏼",
-    name = "kiss: person, person, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F48B 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍💋‍🧑🏾",
     name = "kiss: person, person, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏽‍❤‍💋‍🧑🏾",
-    name = "kiss: person, person, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F48B 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍💋‍🧑🏿",
     name = "kiss: person, person, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏽‍❤‍💋‍🧑🏿",
-    name = "kiss: person, person, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F48B 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍💋‍🧑🏻",
     name = "kiss: person, person, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏾‍❤‍💋‍🧑🏻",
-    name = "kiss: person, person, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F48B 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍💋‍🧑🏼",
     name = "kiss: person, person, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏾‍❤‍💋‍🧑🏼",
-    name = "kiss: person, person, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F48B 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍💋‍🧑🏽",
     name = "kiss: person, person, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏾‍❤‍💋‍🧑🏽",
-    name = "kiss: person, person, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F48B 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍💋‍🧑🏿",
     name = "kiss: person, person, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏾‍❤‍💋‍🧑🏿",
-    name = "kiss: person, person, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F48B 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍💋‍🧑🏻",
     name = "kiss: person, person, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏿‍❤‍💋‍🧑🏻",
-    name = "kiss: person, person, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F48B 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍💋‍🧑🏼",
     name = "kiss: person, person, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏿‍❤‍💋‍🧑🏼",
-    name = "kiss: person, person, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F48B 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍💋‍🧑🏽",
     name = "kiss: person, person, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏿‍❤‍💋‍🧑🏽",
-    name = "kiss: person, person, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F48B 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍💋‍🧑🏾",
     name = "kiss: person, person, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏿‍❤‍💋‍🧑🏾",
-    name = "kiss: person, person, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F48B 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "👩‍❤️‍💋‍👨",
     name = "kiss: woman, man",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 200D 2764 FE0F 200D 1F48B 200D 1F468",
   },
-  {
-    emoji = "👩‍❤‍💋‍👨",
-    name = "kiss: woman, man",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 200D 2764 200D 1F48B 200D 1F468",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👨🏻",
     name = "kiss: woman, man, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👨🏻",
-    name = "kiss: woman, man, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👨🏼",
     name = "kiss: woman, man, light skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👨🏼",
-    name = "kiss: woman, man, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👨🏽",
     name = "kiss: woman, man, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👨🏽",
-    name = "kiss: woman, man, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👨🏾",
     name = "kiss: woman, man, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👨🏾",
-    name = "kiss: woman, man, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👨🏿",
     name = "kiss: woman, man, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👨🏿",
-    name = "kiss: woman, man, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👨🏻",
     name = "kiss: woman, man, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👨🏻",
-    name = "kiss: woman, man, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👨🏼",
     name = "kiss: woman, man, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👨🏼",
-    name = "kiss: woman, man, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👨🏽",
     name = "kiss: woman, man, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👨🏽",
-    name = "kiss: woman, man, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👨🏾",
     name = "kiss: woman, man, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👨🏾",
-    name = "kiss: woman, man, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👨🏿",
     name = "kiss: woman, man, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👨🏿",
-    name = "kiss: woman, man, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👨🏻",
     name = "kiss: woman, man, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👨🏻",
-    name = "kiss: woman, man, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👨🏼",
     name = "kiss: woman, man, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👨🏼",
-    name = "kiss: woman, man, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👨🏽",
     name = "kiss: woman, man, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👨🏽",
-    name = "kiss: woman, man, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👨🏾",
     name = "kiss: woman, man, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👨🏾",
-    name = "kiss: woman, man, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👨🏿",
     name = "kiss: woman, man, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👨🏿",
-    name = "kiss: woman, man, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👨🏻",
     name = "kiss: woman, man, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👨🏻",
-    name = "kiss: woman, man, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👨🏼",
     name = "kiss: woman, man, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👨🏼",
-    name = "kiss: woman, man, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👨🏽",
     name = "kiss: woman, man, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👨🏽",
-    name = "kiss: woman, man, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👨🏾",
     name = "kiss: woman, man, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👨🏾",
-    name = "kiss: woman, man, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👨🏿",
     name = "kiss: woman, man, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👨🏿",
-    name = "kiss: woman, man, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👨🏻",
     name = "kiss: woman, man, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👨🏻",
-    name = "kiss: woman, man, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👨🏼",
     name = "kiss: woman, man, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👨🏼",
-    name = "kiss: woman, man, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👨🏽",
     name = "kiss: woman, man, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👨🏽",
-    name = "kiss: woman, man, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👨🏾",
     name = "kiss: woman, man, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👨🏾",
-    name = "kiss: woman, man, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👨🏿",
     name = "kiss: woman, man, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👨🏿",
-    name = "kiss: woman, man, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨‍❤️‍💋‍👨",
     name = "kiss: man, man",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 200D 2764 FE0F 200D 1F48B 200D 1F468",
   },
-  {
-    emoji = "👨‍❤‍💋‍👨",
-    name = "kiss: man, man",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 200D 2764 200D 1F48B 200D 1F468",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍💋‍👨🏻",
     name = "kiss: man, man, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏻‍❤‍💋‍👨🏻",
-    name = "kiss: man, man, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍💋‍👨🏼",
     name = "kiss: man, man, light skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏻‍❤‍💋‍👨🏼",
-    name = "kiss: man, man, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍💋‍👨🏽",
     name = "kiss: man, man, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏻‍❤‍💋‍👨🏽",
-    name = "kiss: man, man, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍💋‍👨🏾",
     name = "kiss: man, man, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏻‍❤‍💋‍👨🏾",
-    name = "kiss: man, man, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍💋‍👨🏿",
     name = "kiss: man, man, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏻‍❤‍💋‍👨🏿",
-    name = "kiss: man, man, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍💋‍👨🏻",
     name = "kiss: man, man, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏼‍❤‍💋‍👨🏻",
-    name = "kiss: man, man, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍💋‍👨🏼",
     name = "kiss: man, man, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏼‍❤‍💋‍👨🏼",
-    name = "kiss: man, man, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍💋‍👨🏽",
     name = "kiss: man, man, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏼‍❤‍💋‍👨🏽",
-    name = "kiss: man, man, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍💋‍👨🏾",
     name = "kiss: man, man, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏼‍❤‍💋‍👨🏾",
-    name = "kiss: man, man, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍💋‍👨🏿",
     name = "kiss: man, man, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏼‍❤‍💋‍👨🏿",
-    name = "kiss: man, man, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍💋‍👨🏻",
     name = "kiss: man, man, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏽‍❤‍💋‍👨🏻",
-    name = "kiss: man, man, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍💋‍👨🏼",
     name = "kiss: man, man, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏽‍❤‍💋‍👨🏼",
-    name = "kiss: man, man, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍💋‍👨🏽",
     name = "kiss: man, man, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏽‍❤‍💋‍👨🏽",
-    name = "kiss: man, man, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍💋‍👨🏾",
     name = "kiss: man, man, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏽‍❤‍💋‍👨🏾",
-    name = "kiss: man, man, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍💋‍👨🏿",
     name = "kiss: man, man, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏽‍❤‍💋‍👨🏿",
-    name = "kiss: man, man, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍💋‍👨🏻",
     name = "kiss: man, man, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏾‍❤‍💋‍👨🏻",
-    name = "kiss: man, man, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍💋‍👨🏼",
     name = "kiss: man, man, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏾‍❤‍💋‍👨🏼",
-    name = "kiss: man, man, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍💋‍👨🏽",
     name = "kiss: man, man, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏾‍❤‍💋‍👨🏽",
-    name = "kiss: man, man, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍💋‍👨🏾",
     name = "kiss: man, man, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏾‍❤‍💋‍👨🏾",
-    name = "kiss: man, man, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍💋‍👨🏿",
     name = "kiss: man, man, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏾‍❤‍💋‍👨🏿",
-    name = "kiss: man, man, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍💋‍👨🏻",
     name = "kiss: man, man, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏿‍❤‍💋‍👨🏻",
-    name = "kiss: man, man, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍💋‍👨🏼",
     name = "kiss: man, man, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏿‍❤‍💋‍👨🏼",
-    name = "kiss: man, man, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍💋‍👨🏽",
     name = "kiss: man, man, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏿‍❤‍💋‍👨🏽",
-    name = "kiss: man, man, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍💋‍👨🏾",
     name = "kiss: man, man, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏿‍❤‍💋‍👨🏾",
-    name = "kiss: man, man, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍💋‍👨🏿",
     name = "kiss: man, man, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏿‍❤‍💋‍👨🏿",
-    name = "kiss: man, man, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F48B 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩‍❤️‍💋‍👩",
     name = "kiss: woman, woman",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 200D 2764 FE0F 200D 1F48B 200D 1F469",
   },
-  {
-    emoji = "👩‍❤‍💋‍👩",
-    name = "kiss: woman, woman",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 200D 2764 200D 1F48B 200D 1F469",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👩🏻",
     name = "kiss: woman, woman, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👩🏻",
-    name = "kiss: woman, woman, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👩🏼",
     name = "kiss: woman, woman, light skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👩🏼",
-    name = "kiss: woman, woman, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👩🏽",
     name = "kiss: woman, woman, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👩🏽",
-    name = "kiss: woman, woman, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👩🏾",
     name = "kiss: woman, woman, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👩🏾",
-    name = "kiss: woman, woman, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍💋‍👩🏿",
     name = "kiss: woman, woman, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏻‍❤‍💋‍👩🏿",
-    name = "kiss: woman, woman, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F48B 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👩🏻",
     name = "kiss: woman, woman, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👩🏻",
-    name = "kiss: woman, woman, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👩🏼",
     name = "kiss: woman, woman, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👩🏼",
-    name = "kiss: woman, woman, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👩🏽",
     name = "kiss: woman, woman, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👩🏽",
-    name = "kiss: woman, woman, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👩🏾",
     name = "kiss: woman, woman, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👩🏾",
-    name = "kiss: woman, woman, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍💋‍👩🏿",
     name = "kiss: woman, woman, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏼‍❤‍💋‍👩🏿",
-    name = "kiss: woman, woman, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F48B 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👩🏻",
     name = "kiss: woman, woman, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👩🏻",
-    name = "kiss: woman, woman, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👩🏼",
     name = "kiss: woman, woman, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👩🏼",
-    name = "kiss: woman, woman, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👩🏽",
     name = "kiss: woman, woman, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👩🏽",
-    name = "kiss: woman, woman, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👩🏾",
     name = "kiss: woman, woman, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👩🏾",
-    name = "kiss: woman, woman, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍💋‍👩🏿",
     name = "kiss: woman, woman, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏽‍❤‍💋‍👩🏿",
-    name = "kiss: woman, woman, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F48B 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👩🏻",
     name = "kiss: woman, woman, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👩🏻",
-    name = "kiss: woman, woman, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👩🏼",
     name = "kiss: woman, woman, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👩🏼",
-    name = "kiss: woman, woman, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👩🏽",
     name = "kiss: woman, woman, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👩🏽",
-    name = "kiss: woman, woman, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👩🏾",
     name = "kiss: woman, woman, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👩🏾",
-    name = "kiss: woman, woman, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍💋‍👩🏿",
     name = "kiss: woman, woman, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏾‍❤‍💋‍👩🏿",
-    name = "kiss: woman, woman, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F48B 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👩🏻",
     name = "kiss: woman, woman, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👩🏻",
-    name = "kiss: woman, woman, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👩🏼",
     name = "kiss: woman, woman, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👩🏼",
-    name = "kiss: woman, woman, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👩🏽",
     name = "kiss: woman, woman, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👩🏽",
-    name = "kiss: woman, woman, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👩🏾",
     name = "kiss: woman, woman, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👩🏾",
-    name = "kiss: woman, woman, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍💋‍👩🏿",
     name = "kiss: woman, woman, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏿‍❤‍💋‍👩🏿",
-    name = "kiss: woman, woman, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F48B 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "💑",
     name = "couple with heart",
     group = "People & Body",
@@ -20656,1372 +15301,686 @@ local emojis = {
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏻‍❤‍🧑🏼",
-    name = "couple with heart: person, person, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏻‍❤️‍🧑🏽",
     name = "couple with heart: person, person, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏻‍❤‍🧑🏽",
-    name = "couple with heart: person, person, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏻‍❤️‍🧑🏾",
     name = "couple with heart: person, person, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏻‍❤‍🧑🏾",
-    name = "couple with heart: person, person, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "🧑🏻‍❤️‍🧑🏿",
     name = "couple with heart: person, person, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏻‍❤‍🧑🏿",
-    name = "couple with heart: person, person, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FB 200D 2764 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍🧑🏻",
     name = "couple with heart: person, person, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏼‍❤‍🧑🏻",
-    name = "couple with heart: person, person, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍🧑🏽",
     name = "couple with heart: person, person, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏼‍❤‍🧑🏽",
-    name = "couple with heart: person, person, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍🧑🏾",
     name = "couple with heart: person, person, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏼‍❤‍🧑🏾",
-    name = "couple with heart: person, person, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "🧑🏼‍❤️‍🧑🏿",
     name = "couple with heart: person, person, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏼‍❤‍🧑🏿",
-    name = "couple with heart: person, person, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FC 200D 2764 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍🧑🏻",
     name = "couple with heart: person, person, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏽‍❤‍🧑🏻",
-    name = "couple with heart: person, person, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍🧑🏼",
     name = "couple with heart: person, person, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏽‍❤‍🧑🏼",
-    name = "couple with heart: person, person, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍🧑🏾",
     name = "couple with heart: person, person, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏽‍❤‍🧑🏾",
-    name = "couple with heart: person, person, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "🧑🏽‍❤️‍🧑🏿",
     name = "couple with heart: person, person, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏽‍❤‍🧑🏿",
-    name = "couple with heart: person, person, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FD 200D 2764 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍🧑🏻",
     name = "couple with heart: person, person, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏾‍❤‍🧑🏻",
-    name = "couple with heart: person, person, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍🧑🏼",
     name = "couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏾‍❤‍🧑🏼",
-    name = "couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍🧑🏽",
     name = "couple with heart: person, person, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏾‍❤‍🧑🏽",
-    name = "couple with heart: person, person, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏾‍❤️‍🧑🏿",
     name = "couple with heart: person, person, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FF",
   },
-  {
-    emoji = "🧑🏾‍❤‍🧑🏿",
-    name = "couple with heart: person, person, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FE 200D 2764 200D 1F9D1 1F3FF",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍🧑🏻",
     name = "couple with heart: person, person, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FB",
   },
-  {
-    emoji = "🧑🏿‍❤‍🧑🏻",
-    name = "couple with heart: person, person, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F9D1 1F3FB",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍🧑🏼",
     name = "couple with heart: person, person, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FC",
   },
-  {
-    emoji = "🧑🏿‍❤‍🧑🏼",
-    name = "couple with heart: person, person, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F9D1 1F3FC",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍🧑🏽",
     name = "couple with heart: person, person, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FD",
   },
-  {
-    emoji = "🧑🏿‍❤‍🧑🏽",
-    name = "couple with heart: person, person, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F9D1 1F3FD",
-  },
-  {
+    {
     emoji = "🧑🏿‍❤️‍🧑🏾",
     name = "couple with heart: person, person, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FE",
   },
-  {
-    emoji = "🧑🏿‍❤‍🧑🏾",
-    name = "couple with heart: person, person, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F9D1 1F3FF 200D 2764 200D 1F9D1 1F3FE",
-  },
-  {
+    {
     emoji = "👩‍❤️‍👨",
     name = "couple with heart: woman, man",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 200D 2764 FE0F 200D 1F468",
   },
-  {
-    emoji = "👩‍❤‍👨",
-    name = "couple with heart: woman, man",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 200D 2764 200D 1F468",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👨🏻",
     name = "couple with heart: woman, man, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏻‍❤‍👨🏻",
-    name = "couple with heart: woman, man, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👨🏼",
     name = "couple with heart: woman, man, light skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏻‍❤‍👨🏼",
-    name = "couple with heart: woman, man, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👨🏽",
     name = "couple with heart: woman, man, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏻‍❤‍👨🏽",
-    name = "couple with heart: woman, man, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👨🏾",
     name = "couple with heart: woman, man, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏻‍❤‍👨🏾",
-    name = "couple with heart: woman, man, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👨🏿",
     name = "couple with heart: woman, man, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏻‍❤‍👨🏿",
-    name = "couple with heart: woman, man, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👨🏻",
     name = "couple with heart: woman, man, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏼‍❤‍👨🏻",
-    name = "couple with heart: woman, man, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👨🏼",
     name = "couple with heart: woman, man, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏼‍❤‍👨🏼",
-    name = "couple with heart: woman, man, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👨🏽",
     name = "couple with heart: woman, man, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏼‍❤‍👨🏽",
-    name = "couple with heart: woman, man, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👨🏾",
     name = "couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏼‍❤‍👨🏾",
-    name = "couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👨🏿",
     name = "couple with heart: woman, man, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏼‍❤‍👨🏿",
-    name = "couple with heart: woman, man, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👨🏻",
     name = "couple with heart: woman, man, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏽‍❤‍👨🏻",
-    name = "couple with heart: woman, man, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👨🏼",
     name = "couple with heart: woman, man, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏽‍❤‍👨🏼",
-    name = "couple with heart: woman, man, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👨🏽",
     name = "couple with heart: woman, man, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏽‍❤‍👨🏽",
-    name = "couple with heart: woman, man, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👨🏾",
     name = "couple with heart: woman, man, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏽‍❤‍👨🏾",
-    name = "couple with heart: woman, man, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👨🏿",
     name = "couple with heart: woman, man, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏽‍❤‍👨🏿",
-    name = "couple with heart: woman, man, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👨🏻",
     name = "couple with heart: woman, man, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏾‍❤‍👨🏻",
-    name = "couple with heart: woman, man, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👨🏼",
     name = "couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏾‍❤‍👨🏼",
-    name = "couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👨🏽",
     name = "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏾‍❤‍👨🏽",
-    name = "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👨🏾",
     name = "couple with heart: woman, man, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏾‍❤‍👨🏾",
-    name = "couple with heart: woman, man, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👨🏿",
     name = "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏾‍❤‍👨🏿",
-    name = "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👨🏻",
     name = "couple with heart: woman, man, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👩🏿‍❤‍👨🏻",
-    name = "couple with heart: woman, man, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👨🏼",
     name = "couple with heart: woman, man, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👩🏿‍❤‍👨🏼",
-    name = "couple with heart: woman, man, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👨🏽",
     name = "couple with heart: woman, man, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👩🏿‍❤‍👨🏽",
-    name = "couple with heart: woman, man, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👨🏾",
     name = "couple with heart: woman, man, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👩🏿‍❤‍👨🏾",
-    name = "couple with heart: woman, man, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👨🏿",
     name = "couple with heart: woman, man, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👩🏿‍❤‍👨🏿",
-    name = "couple with heart: woman, man, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨‍❤️‍👨",
     name = "couple with heart: man, man",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 200D 2764 FE0F 200D 1F468",
   },
-  {
-    emoji = "👨‍❤‍👨",
-    name = "couple with heart: man, man",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 200D 2764 200D 1F468",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍👨🏻",
     name = "couple with heart: man, man, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏻‍❤‍👨🏻",
-    name = "couple with heart: man, man, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍👨🏼",
     name = "couple with heart: man, man, light skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏻‍❤‍👨🏼",
-    name = "couple with heart: man, man, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍👨🏽",
     name = "couple with heart: man, man, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏻‍❤‍👨🏽",
-    name = "couple with heart: man, man, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍👨🏾",
     name = "couple with heart: man, man, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏻‍❤‍👨🏾",
-    name = "couple with heart: man, man, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏻‍❤️‍👨🏿",
     name = "couple with heart: man, man, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏻‍❤‍👨🏿",
-    name = "couple with heart: man, man, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FB 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍👨🏻",
     name = "couple with heart: man, man, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏼‍❤‍👨🏻",
-    name = "couple with heart: man, man, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍👨🏼",
     name = "couple with heart: man, man, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏼‍❤‍👨🏼",
-    name = "couple with heart: man, man, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍👨🏽",
     name = "couple with heart: man, man, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏼‍❤‍👨🏽",
-    name = "couple with heart: man, man, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍👨🏾",
     name = "couple with heart: man, man, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏼‍❤‍👨🏾",
-    name = "couple with heart: man, man, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏼‍❤️‍👨🏿",
     name = "couple with heart: man, man, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏼‍❤‍👨🏿",
-    name = "couple with heart: man, man, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FC 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍👨🏻",
     name = "couple with heart: man, man, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏽‍❤‍👨🏻",
-    name = "couple with heart: man, man, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍👨🏼",
     name = "couple with heart: man, man, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏽‍❤‍👨🏼",
-    name = "couple with heart: man, man, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍👨🏽",
     name = "couple with heart: man, man, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏽‍❤‍👨🏽",
-    name = "couple with heart: man, man, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍👨🏾",
     name = "couple with heart: man, man, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏽‍❤‍👨🏾",
-    name = "couple with heart: man, man, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏽‍❤️‍👨🏿",
     name = "couple with heart: man, man, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏽‍❤‍👨🏿",
-    name = "couple with heart: man, man, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FD 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍👨🏻",
     name = "couple with heart: man, man, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏾‍❤‍👨🏻",
-    name = "couple with heart: man, man, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍👨🏼",
     name = "couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏾‍❤‍👨🏼",
-    name = "couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍👨🏽",
     name = "couple with heart: man, man, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏾‍❤‍👨🏽",
-    name = "couple with heart: man, man, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍👨🏾",
     name = "couple with heart: man, man, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏾‍❤‍👨🏾",
-    name = "couple with heart: man, man, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏾‍❤️‍👨🏿",
     name = "couple with heart: man, man, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏾‍❤‍👨🏿",
-    name = "couple with heart: man, man, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FE 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍👨🏻",
     name = "couple with heart: man, man, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB",
   },
-  {
-    emoji = "👨🏿‍❤‍👨🏻",
-    name = "couple with heart: man, man, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F468 1F3FB",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍👨🏼",
     name = "couple with heart: man, man, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC",
   },
-  {
-    emoji = "👨🏿‍❤‍👨🏼",
-    name = "couple with heart: man, man, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F468 1F3FC",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍👨🏽",
     name = "couple with heart: man, man, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD",
   },
-  {
-    emoji = "👨🏿‍❤‍👨🏽",
-    name = "couple with heart: man, man, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F468 1F3FD",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍👨🏾",
     name = "couple with heart: man, man, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE",
   },
-  {
-    emoji = "👨🏿‍❤‍👨🏾",
-    name = "couple with heart: man, man, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F468 1F3FE",
-  },
-  {
+    {
     emoji = "👨🏿‍❤️‍👨🏿",
     name = "couple with heart: man, man, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF",
   },
-  {
-    emoji = "👨🏿‍❤‍👨🏿",
-    name = "couple with heart: man, man, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F468 1F3FF 200D 2764 200D 1F468 1F3FF",
-  },
-  {
+    {
     emoji = "👩‍❤️‍👩",
     name = "couple with heart: woman, woman",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 200D 2764 FE0F 200D 1F469",
   },
-  {
-    emoji = "👩‍❤‍👩",
-    name = "couple with heart: woman, woman",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 200D 2764 200D 1F469",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👩🏻",
     name = "couple with heart: woman, woman, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏻‍❤‍👩🏻",
-    name = "couple with heart: woman, woman, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👩🏼",
     name = "couple with heart: woman, woman, light skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏻‍❤‍👩🏼",
-    name = "couple with heart: woman, woman, light skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👩🏽",
     name = "couple with heart: woman, woman, light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏻‍❤‍👩🏽",
-    name = "couple with heart: woman, woman, light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👩🏾",
     name = "couple with heart: woman, woman, light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏻‍❤‍👩🏾",
-    name = "couple with heart: woman, woman, light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏻‍❤️‍👩🏿",
     name = "couple with heart: woman, woman, light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏻‍❤‍👩🏿",
-    name = "couple with heart: woman, woman, light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FB 200D 2764 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👩🏻",
     name = "couple with heart: woman, woman, medium-light skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏼‍❤‍👩🏻",
-    name = "couple with heart: woman, woman, medium-light skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👩🏼",
     name = "couple with heart: woman, woman, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏼‍❤‍👩🏼",
-    name = "couple with heart: woman, woman, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👩🏽",
     name = "couple with heart: woman, woman, medium-light skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏼‍❤‍👩🏽",
-    name = "couple with heart: woman, woman, medium-light skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👩🏾",
     name = "couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏼‍❤‍👩🏾",
-    name = "couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏼‍❤️‍👩🏿",
     name = "couple with heart: woman, woman, medium-light skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏼‍❤‍👩🏿",
-    name = "couple with heart: woman, woman, medium-light skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FC 200D 2764 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👩🏻",
     name = "couple with heart: woman, woman, medium skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏽‍❤‍👩🏻",
-    name = "couple with heart: woman, woman, medium skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👩🏼",
     name = "couple with heart: woman, woman, medium skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏽‍❤‍👩🏼",
-    name = "couple with heart: woman, woman, medium skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👩🏽",
     name = "couple with heart: woman, woman, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏽‍❤‍👩🏽",
-    name = "couple with heart: woman, woman, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👩🏾",
     name = "couple with heart: woman, woman, medium skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏽‍❤‍👩🏾",
-    name = "couple with heart: woman, woman, medium skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏽‍❤️‍👩🏿",
     name = "couple with heart: woman, woman, medium skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏽‍❤‍👩🏿",
-    name = "couple with heart: woman, woman, medium skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FD 200D 2764 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👩🏻",
     name = "couple with heart: woman, woman, medium-dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏾‍❤‍👩🏻",
-    name = "couple with heart: woman, woman, medium-dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👩🏼",
     name = "couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏾‍❤‍👩🏼",
-    name = "couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👩🏽",
     name = "couple with heart: woman, woman, medium-dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏾‍❤‍👩🏽",
-    name = "couple with heart: woman, woman, medium-dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👩🏾",
     name = "couple with heart: woman, woman, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏾‍❤‍👩🏾",
-    name = "couple with heart: woman, woman, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏾‍❤️‍👩🏿",
     name = "couple with heart: woman, woman, medium-dark skin tone, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏾‍❤‍👩🏿",
-    name = "couple with heart: woman, woman, medium-dark skin tone, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FE 200D 2764 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👩🏻",
     name = "couple with heart: woman, woman, dark skin tone, light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FB",
   },
-  {
-    emoji = "👩🏿‍❤‍👩🏻",
-    name = "couple with heart: woman, woman, dark skin tone, light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F469 1F3FB",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👩🏼",
     name = "couple with heart: woman, woman, dark skin tone, medium-light skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FC",
   },
-  {
-    emoji = "👩🏿‍❤‍👩🏼",
-    name = "couple with heart: woman, woman, dark skin tone, medium-light skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F469 1F3FC",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👩🏽",
     name = "couple with heart: woman, woman, dark skin tone, medium skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FD",
   },
-  {
-    emoji = "👩🏿‍❤‍👩🏽",
-    name = "couple with heart: woman, woman, dark skin tone, medium skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F469 1F3FD",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👩🏾",
     name = "couple with heart: woman, woman, dark skin tone, medium-dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FE",
   },
-  {
-    emoji = "👩🏿‍❤‍👩🏾",
-    name = "couple with heart: woman, woman, dark skin tone, medium-dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F469 1F3FE",
-  },
-  {
+    {
     emoji = "👩🏿‍❤️‍👩🏿",
     name = "couple with heart: woman, woman, dark skin tone",
     group = "People & Body",
     sub_group = "family",
     codepoints = "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FF",
   },
-  {
-    emoji = "👩🏿‍❤‍👩🏿",
-    name = "couple with heart: woman, woman, dark skin tone",
-    group = "People & Body",
-    sub_group = "family",
-    codepoints = "1F469 1F3FF 200D 2764 200D 1F469 1F3FF",
-  },
-  {
+    {
     emoji = "👪",
     name = "family",
     group = "People & Body",
@@ -22210,14 +16169,7 @@ local emojis = {
     sub_group = "person-symbol",
     codepoints = "1F5E3 FE0F",
   },
-  {
-    emoji = "🗣",
-    name = "speaking head",
-    group = "People & Body",
-    sub_group = "person-symbol",
-    codepoints = "1F5E3",
-  },
-  {
+    {
     emoji = "👤",
     name = "bust in silhouette",
     group = "People & Body",
@@ -22616,14 +16568,7 @@ local emojis = {
     sub_group = "animal-mammal",
     codepoints = "1F43F FE0F",
   },
-  {
-    emoji = "🐿",
-    name = "chipmunk",
-    group = "Animals & Nature",
-    sub_group = "animal-mammal",
-    codepoints = "1F43F",
-  },
-  {
+    {
     emoji = "🦫",
     name = "beaver",
     group = "Animals & Nature",
@@ -22658,14 +16603,7 @@ local emojis = {
     sub_group = "animal-mammal",
     codepoints = "1F43B 200D 2744 FE0F",
   },
-  {
-    emoji = "🐻‍❄",
-    name = "polar bear",
-    group = "Animals & Nature",
-    sub_group = "animal-mammal",
-    codepoints = "1F43B 200D 2744",
-  },
-  {
+    {
     emoji = "🐨",
     name = "koala",
     group = "Animals & Nature",
@@ -22784,14 +16722,7 @@ local emojis = {
     sub_group = "animal-bird",
     codepoints = "1F54A FE0F",
   },
-  {
-    emoji = "🕊",
-    name = "dove",
-    group = "Animals & Nature",
-    sub_group = "animal-bird",
-    codepoints = "1F54A",
-  },
-  {
+    {
     emoji = "🦅",
     name = "eagle",
     group = "Animals & Nature",
@@ -23092,28 +17023,14 @@ local emojis = {
     sub_group = "animal-bug",
     codepoints = "1F577 FE0F",
   },
-  {
-    emoji = "🕷",
-    name = "spider",
-    group = "Animals & Nature",
-    sub_group = "animal-bug",
-    codepoints = "1F577",
-  },
-  {
+    {
     emoji = "🕸️",
     name = "spider web",
     group = "Animals & Nature",
     sub_group = "animal-bug",
     codepoints = "1F578 FE0F",
   },
-  {
-    emoji = "🕸",
-    name = "spider web",
-    group = "Animals & Nature",
-    sub_group = "animal-bug",
-    codepoints = "1F578",
-  },
-  {
+    {
     emoji = "🦂",
     name = "scorpion",
     group = "Animals & Nature",
@@ -23183,14 +17100,7 @@ local emojis = {
     sub_group = "plant-flower",
     codepoints = "1F3F5 FE0F",
   },
-  {
-    emoji = "🏵",
-    name = "rosette",
-    group = "Animals & Nature",
-    sub_group = "plant-flower",
-    codepoints = "1F3F5",
-  },
-  {
+    {
     emoji = "🌹",
     name = "rose",
     group = "Animals & Nature",
@@ -23302,14 +17212,7 @@ local emojis = {
     sub_group = "plant-other",
     codepoints = "2618 FE0F",
   },
-  {
-    emoji = "☘",
-    name = "shamrock",
-    group = "Animals & Nature",
-    sub_group = "plant-other",
-    codepoints = "2618",
-  },
-  {
+    {
     emoji = "🍀",
     name = "four leaf clover",
     group = "Animals & Nature",
@@ -23533,14 +17436,7 @@ local emojis = {
     sub_group = "food-vegetable",
     codepoints = "1F336 FE0F",
   },
-  {
-    emoji = "🌶",
-    name = "hot pepper",
-    group = "Food & Drink",
-    sub_group = "food-vegetable",
-    codepoints = "1F336",
-  },
-  {
+    {
     emoji = "🫑",
     name = "bell pepper",
     group = "Food & Drink",
@@ -24261,14 +18157,7 @@ local emojis = {
     sub_group = "dishware",
     codepoints = "1F37D FE0F",
   },
-  {
-    emoji = "🍽",
-    name = "fork and knife with plate",
-    group = "Food & Drink",
-    sub_group = "dishware",
-    codepoints = "1F37D",
-  },
-  {
+    {
     emoji = "🍴",
     name = "fork and knife",
     group = "Food & Drink",
@@ -24338,14 +18227,7 @@ local emojis = {
     sub_group = "place-map",
     codepoints = "1F5FA FE0F",
   },
-  {
-    emoji = "🗺",
-    name = "world map",
-    group = "Travel & Places",
-    sub_group = "place-map",
-    codepoints = "1F5FA",
-  },
-  {
+    {
     emoji = "🗾",
     name = "map of Japan",
     group = "Travel & Places",
@@ -24366,28 +18248,14 @@ local emojis = {
     sub_group = "place-geographic",
     codepoints = "1F3D4 FE0F",
   },
-  {
-    emoji = "🏔",
-    name = "snow-capped mountain",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "1F3D4",
-  },
-  {
+    {
     emoji = "⛰️",
     name = "mountain",
     group = "Travel & Places",
     sub_group = "place-geographic",
     codepoints = "26F0 FE0F",
   },
-  {
-    emoji = "⛰",
-    name = "mountain",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "26F0",
-  },
-  {
+    {
     emoji = "🌋",
     name = "volcano",
     group = "Travel & Places",
@@ -24408,112 +18276,56 @@ local emojis = {
     sub_group = "place-geographic",
     codepoints = "1F3D5 FE0F",
   },
-  {
-    emoji = "🏕",
-    name = "camping",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "1F3D5",
-  },
-  {
+    {
     emoji = "🏖️",
     name = "beach with umbrella",
     group = "Travel & Places",
     sub_group = "place-geographic",
     codepoints = "1F3D6 FE0F",
   },
-  {
-    emoji = "🏖",
-    name = "beach with umbrella",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "1F3D6",
-  },
-  {
+    {
     emoji = "🏜️",
     name = "desert",
     group = "Travel & Places",
     sub_group = "place-geographic",
     codepoints = "1F3DC FE0F",
   },
-  {
-    emoji = "🏜",
-    name = "desert",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "1F3DC",
-  },
-  {
+    {
     emoji = "🏝️",
     name = "desert island",
     group = "Travel & Places",
     sub_group = "place-geographic",
     codepoints = "1F3DD FE0F",
   },
-  {
-    emoji = "🏝",
-    name = "desert island",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "1F3DD",
-  },
-  {
+    {
     emoji = "🏞️",
     name = "national park",
     group = "Travel & Places",
     sub_group = "place-geographic",
     codepoints = "1F3DE FE0F",
   },
-  {
-    emoji = "🏞",
-    name = "national park",
-    group = "Travel & Places",
-    sub_group = "place-geographic",
-    codepoints = "1F3DE",
-  },
-  {
+    {
     emoji = "🏟️",
     name = "stadium",
     group = "Travel & Places",
     sub_group = "place-building",
     codepoints = "1F3DF FE0F",
   },
-  {
-    emoji = "🏟",
-    name = "stadium",
-    group = "Travel & Places",
-    sub_group = "place-building",
-    codepoints = "1F3DF",
-  },
-  {
+    {
     emoji = "🏛️",
     name = "classical building",
     group = "Travel & Places",
     sub_group = "place-building",
     codepoints = "1F3DB FE0F",
   },
-  {
-    emoji = "🏛",
-    name = "classical building",
-    group = "Travel & Places",
-    sub_group = "place-building",
-    codepoints = "1F3DB",
-  },
-  {
+    {
     emoji = "🏗️",
     name = "building construction",
     group = "Travel & Places",
     sub_group = "place-building",
     codepoints = "1F3D7 FE0F",
   },
-  {
-    emoji = "🏗",
-    name = "building construction",
-    group = "Travel & Places",
-    sub_group = "place-building",
-    codepoints = "1F3D7",
-  },
-  {
+    {
     emoji = "🧱",
     name = "brick",
     group = "Travel & Places",
@@ -24548,28 +18360,14 @@ local emojis = {
     sub_group = "place-building",
     codepoints = "1F3D8 FE0F",
   },
-  {
-    emoji = "🏘",
-    name = "houses",
-    group = "Travel & Places",
-    sub_group = "place-building",
-    codepoints = "1F3D8",
-  },
-  {
+    {
     emoji = "🏚️",
     name = "derelict house",
     group = "Travel & Places",
     sub_group = "place-building",
     codepoints = "1F3DA FE0F",
   },
-  {
-    emoji = "🏚",
-    name = "derelict house",
-    group = "Travel & Places",
-    sub_group = "place-building",
-    codepoints = "1F3DA",
-  },
-  {
+    {
     emoji = "🏠",
     name = "house",
     group = "Travel & Places",
@@ -24730,14 +18528,7 @@ local emojis = {
     sub_group = "place-religious",
     codepoints = "26E9 FE0F",
   },
-  {
-    emoji = "⛩",
-    name = "shinto shrine",
-    group = "Travel & Places",
-    sub_group = "place-religious",
-    codepoints = "26E9",
-  },
-  {
+    {
     emoji = "🕋",
     name = "kaaba",
     group = "Travel & Places",
@@ -24779,14 +18570,7 @@ local emojis = {
     sub_group = "place-other",
     codepoints = "1F3D9 FE0F",
   },
-  {
-    emoji = "🏙",
-    name = "cityscape",
-    group = "Travel & Places",
-    sub_group = "place-other",
-    codepoints = "1F3D9",
-  },
-  {
+    {
     emoji = "🌄",
     name = "sunrise over mountains",
     group = "Travel & Places",
@@ -24828,14 +18612,7 @@ local emojis = {
     sub_group = "place-other",
     codepoints = "2668 FE0F",
   },
-  {
-    emoji = "♨",
-    name = "hot springs",
-    group = "Travel & Places",
-    sub_group = "place-other",
-    codepoints = "2668",
-  },
-  {
+    {
     emoji = "🎠",
     name = "carousel horse",
     group = "Travel & Places",
@@ -25087,28 +18864,14 @@ local emojis = {
     sub_group = "transport-ground",
     codepoints = "1F3CE FE0F",
   },
-  {
-    emoji = "🏎",
-    name = "racing car",
-    group = "Travel & Places",
-    sub_group = "transport-ground",
-    codepoints = "1F3CE",
-  },
-  {
+    {
     emoji = "🏍️",
     name = "motorcycle",
     group = "Travel & Places",
     sub_group = "transport-ground",
     codepoints = "1F3CD FE0F",
   },
-  {
-    emoji = "🏍",
-    name = "motorcycle",
-    group = "Travel & Places",
-    sub_group = "transport-ground",
-    codepoints = "1F3CD",
-  },
-  {
+    {
     emoji = "🛵",
     name = "motor scooter",
     group = "Travel & Places",
@@ -25178,42 +18941,21 @@ local emojis = {
     sub_group = "transport-ground",
     codepoints = "1F6E3 FE0F",
   },
-  {
-    emoji = "🛣",
-    name = "motorway",
-    group = "Travel & Places",
-    sub_group = "transport-ground",
-    codepoints = "1F6E3",
-  },
-  {
+    {
     emoji = "🛤️",
     name = "railway track",
     group = "Travel & Places",
     sub_group = "transport-ground",
     codepoints = "1F6E4 FE0F",
   },
-  {
-    emoji = "🛤",
-    name = "railway track",
-    group = "Travel & Places",
-    sub_group = "transport-ground",
-    codepoints = "1F6E4",
-  },
-  {
+    {
     emoji = "🛢️",
     name = "oil drum",
     group = "Travel & Places",
     sub_group = "transport-ground",
     codepoints = "1F6E2 FE0F",
   },
-  {
-    emoji = "🛢",
-    name = "oil drum",
-    group = "Travel & Places",
-    sub_group = "transport-ground",
-    codepoints = "1F6E2",
-  },
-  {
+    {
     emoji = "⛽",
     name = "fuel pump",
     group = "Travel & Places",
@@ -25304,42 +19046,21 @@ local emojis = {
     sub_group = "transport-water",
     codepoints = "1F6F3 FE0F",
   },
-  {
-    emoji = "🛳",
-    name = "passenger ship",
-    group = "Travel & Places",
-    sub_group = "transport-water",
-    codepoints = "1F6F3",
-  },
-  {
+    {
     emoji = "⛴️",
     name = "ferry",
     group = "Travel & Places",
     sub_group = "transport-water",
     codepoints = "26F4 FE0F",
   },
-  {
-    emoji = "⛴",
-    name = "ferry",
-    group = "Travel & Places",
-    sub_group = "transport-water",
-    codepoints = "26F4",
-  },
-  {
+    {
     emoji = "🛥️",
     name = "motor boat",
     group = "Travel & Places",
     sub_group = "transport-water",
     codepoints = "1F6E5 FE0F",
   },
-  {
-    emoji = "🛥",
-    name = "motor boat",
-    group = "Travel & Places",
-    sub_group = "transport-water",
-    codepoints = "1F6E5",
-  },
-  {
+    {
     emoji = "🚢",
     name = "ship",
     group = "Travel & Places",
@@ -25353,28 +19074,14 @@ local emojis = {
     sub_group = "transport-air",
     codepoints = "2708 FE0F",
   },
-  {
-    emoji = "✈",
-    name = "airplane",
-    group = "Travel & Places",
-    sub_group = "transport-air",
-    codepoints = "2708",
-  },
-  {
+    {
     emoji = "🛩️",
     name = "small airplane",
     group = "Travel & Places",
     sub_group = "transport-air",
     codepoints = "1F6E9 FE0F",
   },
-  {
-    emoji = "🛩",
-    name = "small airplane",
-    group = "Travel & Places",
-    sub_group = "transport-air",
-    codepoints = "1F6E9",
-  },
-  {
+    {
     emoji = "🛫",
     name = "airplane departure",
     group = "Travel & Places",
@@ -25437,14 +19144,7 @@ local emojis = {
     sub_group = "transport-air",
     codepoints = "1F6F0 FE0F",
   },
-  {
-    emoji = "🛰",
-    name = "satellite",
-    group = "Travel & Places",
-    sub_group = "transport-air",
-    codepoints = "1F6F0",
-  },
-  {
+    {
     emoji = "🚀",
     name = "rocket",
     group = "Travel & Places",
@@ -25465,14 +19165,7 @@ local emojis = {
     sub_group = "hotel",
     codepoints = "1F6CE FE0F",
   },
-  {
-    emoji = "🛎",
-    name = "bellhop bell",
-    group = "Travel & Places",
-    sub_group = "hotel",
-    codepoints = "1F6CE",
-  },
-  {
+    {
     emoji = "🧳",
     name = "luggage",
     group = "Travel & Places",
@@ -25514,42 +19207,21 @@ local emojis = {
     sub_group = "time",
     codepoints = "23F1 FE0F",
   },
-  {
-    emoji = "⏱",
-    name = "stopwatch",
-    group = "Travel & Places",
-    sub_group = "time",
-    codepoints = "23F1",
-  },
-  {
+    {
     emoji = "⏲️",
     name = "timer clock",
     group = "Travel & Places",
     sub_group = "time",
     codepoints = "23F2 FE0F",
   },
-  {
-    emoji = "⏲",
-    name = "timer clock",
-    group = "Travel & Places",
-    sub_group = "time",
-    codepoints = "23F2",
-  },
-  {
+    {
     emoji = "🕰️",
     name = "mantelpiece clock",
     group = "Travel & Places",
     sub_group = "time",
     codepoints = "1F570 FE0F",
   },
-  {
-    emoji = "🕰",
-    name = "mantelpiece clock",
-    group = "Travel & Places",
-    sub_group = "time",
-    codepoints = "1F570",
-  },
-  {
+    {
     emoji = "🕛",
     name = "twelve o’clock",
     group = "Travel & Places",
@@ -25808,28 +19480,14 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "1F321 FE0F",
   },
-  {
-    emoji = "🌡",
-    name = "thermometer",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F321",
-  },
-  {
+    {
     emoji = "☀️",
     name = "sun",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "2600 FE0F",
   },
-  {
-    emoji = "☀",
-    name = "sun",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "2600",
-  },
-  {
+    {
     emoji = "🌝",
     name = "full moon face",
     group = "Travel & Places",
@@ -25885,14 +19543,7 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "2601 FE0F",
   },
-  {
-    emoji = "☁",
-    name = "cloud",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "2601",
-  },
-  {
+    {
     emoji = "⛅",
     name = "sun behind cloud",
     group = "Travel & Places",
@@ -25906,140 +19557,70 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "26C8 FE0F",
   },
-  {
-    emoji = "⛈",
-    name = "cloud with lightning and rain",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "26C8",
-  },
-  {
+    {
     emoji = "🌤️",
     name = "sun behind small cloud",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F324 FE0F",
   },
-  {
-    emoji = "🌤",
-    name = "sun behind small cloud",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F324",
-  },
-  {
+    {
     emoji = "🌥️",
     name = "sun behind large cloud",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F325 FE0F",
   },
-  {
-    emoji = "🌥",
-    name = "sun behind large cloud",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F325",
-  },
-  {
+    {
     emoji = "🌦️",
     name = "sun behind rain cloud",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F326 FE0F",
   },
-  {
-    emoji = "🌦",
-    name = "sun behind rain cloud",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F326",
-  },
-  {
+    {
     emoji = "🌧️",
     name = "cloud with rain",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F327 FE0F",
   },
-  {
-    emoji = "🌧",
-    name = "cloud with rain",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F327",
-  },
-  {
+    {
     emoji = "🌨️",
     name = "cloud with snow",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F328 FE0F",
   },
-  {
-    emoji = "🌨",
-    name = "cloud with snow",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F328",
-  },
-  {
+    {
     emoji = "🌩️",
     name = "cloud with lightning",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F329 FE0F",
   },
-  {
-    emoji = "🌩",
-    name = "cloud with lightning",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F329",
-  },
-  {
+    {
     emoji = "🌪️",
     name = "tornado",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F32A FE0F",
   },
-  {
-    emoji = "🌪",
-    name = "tornado",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F32A",
-  },
-  {
+    {
     emoji = "🌫️",
     name = "fog",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F32B FE0F",
   },
-  {
-    emoji = "🌫",
-    name = "fog",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F32B",
-  },
-  {
+    {
     emoji = "🌬️",
     name = "wind face",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "1F32C FE0F",
   },
-  {
-    emoji = "🌬",
-    name = "wind face",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "1F32C",
-  },
-  {
+    {
     emoji = "🌀",
     name = "cyclone",
     group = "Travel & Places",
@@ -26067,14 +19648,7 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "2602 FE0F",
   },
-  {
-    emoji = "☂",
-    name = "umbrella",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "2602",
-  },
-  {
+    {
     emoji = "☔",
     name = "umbrella with rain drops",
     group = "Travel & Places",
@@ -26088,14 +19662,7 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "26F1 FE0F",
   },
-  {
-    emoji = "⛱",
-    name = "umbrella on ground",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "26F1",
-  },
-  {
+    {
     emoji = "⚡",
     name = "high voltage",
     group = "Travel & Places",
@@ -26109,28 +19676,14 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "2744 FE0F",
   },
-  {
-    emoji = "❄",
-    name = "snowflake",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "2744",
-  },
-  {
+    {
     emoji = "☃️",
     name = "snowman",
     group = "Travel & Places",
     sub_group = "sky & weather",
     codepoints = "2603 FE0F",
   },
-  {
-    emoji = "☃",
-    name = "snowman",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "2603",
-  },
-  {
+    {
     emoji = "⛄",
     name = "snowman without snow",
     group = "Travel & Places",
@@ -26144,14 +19697,7 @@ local emojis = {
     sub_group = "sky & weather",
     codepoints = "2604 FE0F",
   },
-  {
-    emoji = "☄",
-    name = "comet",
-    group = "Travel & Places",
-    sub_group = "sky & weather",
-    codepoints = "2604",
-  },
-  {
+    {
     emoji = "🔥",
     name = "fire",
     group = "Travel & Places",
@@ -26305,28 +19851,14 @@ local emojis = {
     sub_group = "event",
     codepoints = "1F397 FE0F",
   },
-  {
-    emoji = "🎗",
-    name = "reminder ribbon",
-    group = "Activities",
-    sub_group = "event",
-    codepoints = "1F397",
-  },
-  {
+    {
     emoji = "🎟️",
     name = "admission tickets",
     group = "Activities",
     sub_group = "event",
     codepoints = "1F39F FE0F",
   },
-  {
-    emoji = "🎟",
-    name = "admission tickets",
-    group = "Activities",
-    sub_group = "event",
-    codepoints = "1F39F",
-  },
-  {
+    {
     emoji = "🎫",
     name = "ticket",
     group = "Activities",
@@ -26340,14 +19872,7 @@ local emojis = {
     sub_group = "award-medal",
     codepoints = "1F396 FE0F",
   },
-  {
-    emoji = "🎖",
-    name = "military medal",
-    group = "Activities",
-    sub_group = "award-medal",
-    codepoints = "1F396",
-  },
-  {
+    {
     emoji = "🏆",
     name = "trophy",
     group = "Activities",
@@ -26529,14 +20054,7 @@ local emojis = {
     sub_group = "sport",
     codepoints = "26F8 FE0F",
   },
-  {
-    emoji = "⛸",
-    name = "ice skate",
-    group = "Activities",
-    sub_group = "sport",
-    codepoints = "26F8",
-  },
-  {
+    {
     emoji = "🎣",
     name = "fishing pole",
     group = "Activities",
@@ -26641,14 +20159,7 @@ local emojis = {
     sub_group = "game",
     codepoints = "1F579 FE0F",
   },
-  {
-    emoji = "🕹",
-    name = "joystick",
-    group = "Activities",
-    sub_group = "game",
-    codepoints = "1F579",
-  },
-  {
+    {
     emoji = "🎰",
     name = "slot machine",
     group = "Activities",
@@ -26704,70 +20215,35 @@ local emojis = {
     sub_group = "game",
     codepoints = "2660 FE0F",
   },
-  {
-    emoji = "♠",
-    name = "spade suit",
-    group = "Activities",
-    sub_group = "game",
-    codepoints = "2660",
-  },
-  {
+    {
     emoji = "♥️",
     name = "heart suit",
     group = "Activities",
     sub_group = "game",
     codepoints = "2665 FE0F",
   },
-  {
-    emoji = "♥",
-    name = "heart suit",
-    group = "Activities",
-    sub_group = "game",
-    codepoints = "2665",
-  },
-  {
+    {
     emoji = "♦️",
     name = "diamond suit",
     group = "Activities",
     sub_group = "game",
     codepoints = "2666 FE0F",
   },
-  {
-    emoji = "♦",
-    name = "diamond suit",
-    group = "Activities",
-    sub_group = "game",
-    codepoints = "2666",
-  },
-  {
+    {
     emoji = "♣️",
     name = "club suit",
     group = "Activities",
     sub_group = "game",
     codepoints = "2663 FE0F",
   },
-  {
-    emoji = "♣",
-    name = "club suit",
-    group = "Activities",
-    sub_group = "game",
-    codepoints = "2663",
-  },
-  {
+    {
     emoji = "♟️",
     name = "chess pawn",
     group = "Activities",
     sub_group = "game",
     codepoints = "265F FE0F",
   },
-  {
-    emoji = "♟",
-    name = "chess pawn",
-    group = "Activities",
-    sub_group = "game",
-    codepoints = "265F",
-  },
-  {
+    {
     emoji = "🃏",
     name = "joker",
     group = "Activities",
@@ -26802,14 +20278,7 @@ local emojis = {
     sub_group = "arts & crafts",
     codepoints = "1F5BC FE0F",
   },
-  {
-    emoji = "🖼",
-    name = "framed picture",
-    group = "Activities",
-    sub_group = "arts & crafts",
-    codepoints = "1F5BC",
-  },
-  {
+    {
     emoji = "🎨",
     name = "artist palette",
     group = "Activities",
@@ -26858,14 +20327,7 @@ local emojis = {
     sub_group = "clothing",
     codepoints = "1F576 FE0F",
   },
-  {
-    emoji = "🕶",
-    name = "sunglasses",
-    group = "Objects",
-    sub_group = "clothing",
-    codepoints = "1F576",
-  },
-  {
+    {
     emoji = "🥽",
     name = "goggles",
     group = "Objects",
@@ -27026,14 +20488,7 @@ local emojis = {
     sub_group = "clothing",
     codepoints = "1F6CD FE0F",
   },
-  {
-    emoji = "🛍",
-    name = "shopping bags",
-    group = "Objects",
-    sub_group = "clothing",
-    codepoints = "1F6CD",
-  },
-  {
+    {
     emoji = "🎒",
     name = "backpack",
     group = "Objects",
@@ -27159,14 +20614,7 @@ local emojis = {
     sub_group = "clothing",
     codepoints = "26D1 FE0F",
   },
-  {
-    emoji = "⛑",
-    name = "rescue worker’s helmet",
-    group = "Objects",
-    sub_group = "clothing",
-    codepoints = "26D1",
-  },
-  {
+    {
     emoji = "📿",
     name = "prayer beads",
     group = "Objects",
@@ -27285,42 +20733,21 @@ local emojis = {
     sub_group = "music",
     codepoints = "1F399 FE0F",
   },
-  {
-    emoji = "🎙",
-    name = "studio microphone",
-    group = "Objects",
-    sub_group = "music",
-    codepoints = "1F399",
-  },
-  {
+    {
     emoji = "🎚️",
     name = "level slider",
     group = "Objects",
     sub_group = "music",
     codepoints = "1F39A FE0F",
   },
-  {
-    emoji = "🎚",
-    name = "level slider",
-    group = "Objects",
-    sub_group = "music",
-    codepoints = "1F39A",
-  },
-  {
+    {
     emoji = "🎛️",
     name = "control knobs",
     group = "Objects",
     sub_group = "music",
     codepoints = "1F39B FE0F",
   },
-  {
-    emoji = "🎛",
-    name = "control knobs",
-    group = "Objects",
-    sub_group = "music",
-    codepoints = "1F39B",
-  },
-  {
+    {
     emoji = "🎤",
     name = "microphone",
     group = "Objects",
@@ -27439,14 +20866,7 @@ local emojis = {
     sub_group = "phone",
     codepoints = "260E FE0F",
   },
-  {
-    emoji = "☎",
-    name = "telephone",
-    group = "Objects",
-    sub_group = "phone",
-    codepoints = "260E",
-  },
-  {
+    {
     emoji = "📞",
     name = "telephone receiver",
     group = "Objects",
@@ -27502,70 +20922,35 @@ local emojis = {
     sub_group = "computer",
     codepoints = "1F5A5 FE0F",
   },
-  {
-    emoji = "🖥",
-    name = "desktop computer",
-    group = "Objects",
-    sub_group = "computer",
-    codepoints = "1F5A5",
-  },
-  {
+    {
     emoji = "🖨️",
     name = "printer",
     group = "Objects",
     sub_group = "computer",
     codepoints = "1F5A8 FE0F",
   },
-  {
-    emoji = "🖨",
-    name = "printer",
-    group = "Objects",
-    sub_group = "computer",
-    codepoints = "1F5A8",
-  },
-  {
+    {
     emoji = "⌨️",
     name = "keyboard",
     group = "Objects",
     sub_group = "computer",
     codepoints = "2328 FE0F",
   },
-  {
-    emoji = "⌨",
-    name = "keyboard",
-    group = "Objects",
-    sub_group = "computer",
-    codepoints = "2328",
-  },
-  {
+    {
     emoji = "🖱️",
     name = "computer mouse",
     group = "Objects",
     sub_group = "computer",
     codepoints = "1F5B1 FE0F",
   },
-  {
-    emoji = "🖱",
-    name = "computer mouse",
-    group = "Objects",
-    sub_group = "computer",
-    codepoints = "1F5B1",
-  },
-  {
+    {
     emoji = "🖲️",
     name = "trackball",
     group = "Objects",
     sub_group = "computer",
     codepoints = "1F5B2 FE0F",
   },
-  {
-    emoji = "🖲",
-    name = "trackball",
-    group = "Objects",
-    sub_group = "computer",
-    codepoints = "1F5B2",
-  },
-  {
+    {
     emoji = "💽",
     name = "computer disk",
     group = "Objects",
@@ -27614,28 +20999,14 @@ local emojis = {
     sub_group = "light & video",
     codepoints = "1F39E FE0F",
   },
-  {
-    emoji = "🎞",
-    name = "film frames",
-    group = "Objects",
-    sub_group = "light & video",
-    codepoints = "1F39E",
-  },
-  {
+    {
     emoji = "📽️",
     name = "film projector",
     group = "Objects",
     sub_group = "light & video",
     codepoints = "1F4FD FE0F",
   },
-  {
-    emoji = "📽",
-    name = "film projector",
-    group = "Objects",
-    sub_group = "light & video",
-    codepoints = "1F4FD",
-  },
-  {
+    {
     emoji = "🎬",
     name = "clapper board",
     group = "Objects",
@@ -27698,14 +21069,7 @@ local emojis = {
     sub_group = "light & video",
     codepoints = "1F56F FE0F",
   },
-  {
-    emoji = "🕯",
-    name = "candle",
-    group = "Objects",
-    sub_group = "light & video",
-    codepoints = "1F56F",
-  },
-  {
+    {
     emoji = "💡",
     name = "light bulb",
     group = "Objects",
@@ -27831,14 +21195,7 @@ local emojis = {
     sub_group = "book-paper",
     codepoints = "1F5DE FE0F",
   },
-  {
-    emoji = "🗞",
-    name = "rolled-up newspaper",
-    group = "Objects",
-    sub_group = "book-paper",
-    codepoints = "1F5DE",
-  },
-  {
+    {
     emoji = "📑",
     name = "bookmark tabs",
     group = "Objects",
@@ -27859,14 +21216,7 @@ local emojis = {
     sub_group = "book-paper",
     codepoints = "1F3F7 FE0F",
   },
-  {
-    emoji = "🏷",
-    name = "label",
-    group = "Objects",
-    sub_group = "book-paper",
-    codepoints = "1F3F7",
-  },
-  {
+    {
     emoji = "💰",
     name = "money bag",
     group = "Objects",
@@ -27943,14 +21293,7 @@ local emojis = {
     sub_group = "mail",
     codepoints = "2709 FE0F",
   },
-  {
-    emoji = "✉",
-    name = "envelope",
-    group = "Objects",
-    sub_group = "mail",
-    codepoints = "2709",
-  },
-  {
+    {
     emoji = "📧",
     name = "e-mail",
     group = "Objects",
@@ -28034,98 +21377,49 @@ local emojis = {
     sub_group = "mail",
     codepoints = "1F5F3 FE0F",
   },
-  {
-    emoji = "🗳",
-    name = "ballot box with ballot",
-    group = "Objects",
-    sub_group = "mail",
-    codepoints = "1F5F3",
-  },
-  {
+    {
     emoji = "✏️",
     name = "pencil",
     group = "Objects",
     sub_group = "writing",
     codepoints = "270F FE0F",
   },
-  {
-    emoji = "✏",
-    name = "pencil",
-    group = "Objects",
-    sub_group = "writing",
-    codepoints = "270F",
-  },
-  {
+    {
     emoji = "✒️",
     name = "black nib",
     group = "Objects",
     sub_group = "writing",
     codepoints = "2712 FE0F",
   },
-  {
-    emoji = "✒",
-    name = "black nib",
-    group = "Objects",
-    sub_group = "writing",
-    codepoints = "2712",
-  },
-  {
+    {
     emoji = "🖋️",
     name = "fountain pen",
     group = "Objects",
     sub_group = "writing",
     codepoints = "1F58B FE0F",
   },
-  {
-    emoji = "🖋",
-    name = "fountain pen",
-    group = "Objects",
-    sub_group = "writing",
-    codepoints = "1F58B",
-  },
-  {
+    {
     emoji = "🖊️",
     name = "pen",
     group = "Objects",
     sub_group = "writing",
     codepoints = "1F58A FE0F",
   },
-  {
-    emoji = "🖊",
-    name = "pen",
-    group = "Objects",
-    sub_group = "writing",
-    codepoints = "1F58A",
-  },
-  {
+    {
     emoji = "🖌️",
     name = "paintbrush",
     group = "Objects",
     sub_group = "writing",
     codepoints = "1F58C FE0F",
   },
-  {
-    emoji = "🖌",
-    name = "paintbrush",
-    group = "Objects",
-    sub_group = "writing",
-    codepoints = "1F58C",
-  },
-  {
+    {
     emoji = "🖍️",
     name = "crayon",
     group = "Objects",
     sub_group = "writing",
     codepoints = "1F58D FE0F",
   },
-  {
-    emoji = "🖍",
-    name = "crayon",
-    group = "Objects",
-    sub_group = "writing",
-    codepoints = "1F58D",
-  },
-  {
+    {
     emoji = "📝",
     name = "memo",
     group = "Objects",
@@ -28160,14 +21454,7 @@ local emojis = {
     sub_group = "office",
     codepoints = "1F5C2 FE0F",
   },
-  {
-    emoji = "🗂",
-    name = "card index dividers",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F5C2",
-  },
-  {
+    {
     emoji = "📅",
     name = "calendar",
     group = "Objects",
@@ -28188,28 +21475,14 @@ local emojis = {
     sub_group = "office",
     codepoints = "1F5D2 FE0F",
   },
-  {
-    emoji = "🗒",
-    name = "spiral notepad",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F5D2",
-  },
-  {
+    {
     emoji = "🗓️",
     name = "spiral calendar",
     group = "Objects",
     sub_group = "office",
     codepoints = "1F5D3 FE0F",
   },
-  {
-    emoji = "🗓",
-    name = "spiral calendar",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F5D3",
-  },
-  {
+    {
     emoji = "📇",
     name = "card index",
     group = "Objects",
@@ -28272,14 +21545,7 @@ local emojis = {
     sub_group = "office",
     codepoints = "1F587 FE0F",
   },
-  {
-    emoji = "🖇",
-    name = "linked paperclips",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F587",
-  },
-  {
+    {
     emoji = "📏",
     name = "straight ruler",
     group = "Objects",
@@ -28300,56 +21566,28 @@ local emojis = {
     sub_group = "office",
     codepoints = "2702 FE0F",
   },
-  {
-    emoji = "✂",
-    name = "scissors",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "2702",
-  },
-  {
+    {
     emoji = "🗃️",
     name = "card file box",
     group = "Objects",
     sub_group = "office",
     codepoints = "1F5C3 FE0F",
   },
-  {
-    emoji = "🗃",
-    name = "card file box",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F5C3",
-  },
-  {
+    {
     emoji = "🗄️",
     name = "file cabinet",
     group = "Objects",
     sub_group = "office",
     codepoints = "1F5C4 FE0F",
   },
-  {
-    emoji = "🗄",
-    name = "file cabinet",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F5C4",
-  },
-  {
+    {
     emoji = "🗑️",
     name = "wastebasket",
     group = "Objects",
     sub_group = "office",
     codepoints = "1F5D1 FE0F",
   },
-  {
-    emoji = "🗑",
-    name = "wastebasket",
-    group = "Objects",
-    sub_group = "office",
-    codepoints = "1F5D1",
-  },
-  {
+    {
     emoji = "🔒",
     name = "locked",
     group = "Objects",
@@ -28391,14 +21629,7 @@ local emojis = {
     sub_group = "lock",
     codepoints = "1F5DD FE0F",
   },
-  {
-    emoji = "🗝",
-    name = "old key",
-    group = "Objects",
-    sub_group = "lock",
-    codepoints = "1F5DD",
-  },
-  {
+    {
     emoji = "🔨",
     name = "hammer",
     group = "Objects",
@@ -28419,70 +21650,35 @@ local emojis = {
     sub_group = "tool",
     codepoints = "26CF FE0F",
   },
-  {
-    emoji = "⛏",
-    name = "pick",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "26CF",
-  },
-  {
+    {
     emoji = "⚒️",
     name = "hammer and pick",
     group = "Objects",
     sub_group = "tool",
     codepoints = "2692 FE0F",
   },
-  {
-    emoji = "⚒",
-    name = "hammer and pick",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "2692",
-  },
-  {
+    {
     emoji = "🛠️",
     name = "hammer and wrench",
     group = "Objects",
     sub_group = "tool",
     codepoints = "1F6E0 FE0F",
   },
-  {
-    emoji = "🛠",
-    name = "hammer and wrench",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "1F6E0",
-  },
-  {
+    {
     emoji = "🗡️",
     name = "dagger",
     group = "Objects",
     sub_group = "tool",
     codepoints = "1F5E1 FE0F",
   },
-  {
-    emoji = "🗡",
-    name = "dagger",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "1F5E1",
-  },
-  {
+    {
     emoji = "⚔️",
     name = "crossed swords",
     group = "Objects",
     sub_group = "tool",
     codepoints = "2694 FE0F",
   },
-  {
-    emoji = "⚔",
-    name = "crossed swords",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "2694",
-  },
-  {
+    {
     emoji = "💣",
     name = "bomb",
     group = "Objects",
@@ -28510,14 +21706,7 @@ local emojis = {
     sub_group = "tool",
     codepoints = "1F6E1 FE0F",
   },
-  {
-    emoji = "🛡",
-    name = "shield",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "1F6E1",
-  },
-  {
+    {
     emoji = "🪚",
     name = "carpentry saw",
     group = "Objects",
@@ -28552,42 +21741,21 @@ local emojis = {
     sub_group = "tool",
     codepoints = "2699 FE0F",
   },
-  {
-    emoji = "⚙",
-    name = "gear",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "2699",
-  },
-  {
+    {
     emoji = "🗜️",
     name = "clamp",
     group = "Objects",
     sub_group = "tool",
     codepoints = "1F5DC FE0F",
   },
-  {
-    emoji = "🗜",
-    name = "clamp",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "1F5DC",
-  },
-  {
+    {
     emoji = "⚖️",
     name = "balance scale",
     group = "Objects",
     sub_group = "tool",
     codepoints = "2696 FE0F",
   },
-  {
-    emoji = "⚖",
-    name = "balance scale",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "2696",
-  },
-  {
+    {
     emoji = "🦯",
     name = "white cane",
     group = "Objects",
@@ -28608,14 +21776,7 @@ local emojis = {
     sub_group = "tool",
     codepoints = "26D3 FE0F",
   },
-  {
-    emoji = "⛓",
-    name = "chains",
-    group = "Objects",
-    sub_group = "tool",
-    codepoints = "26D3",
-  },
-  {
+    {
     emoji = "🪝",
     name = "hook",
     group = "Objects",
@@ -28650,14 +21811,7 @@ local emojis = {
     sub_group = "science",
     codepoints = "2697 FE0F",
   },
-  {
-    emoji = "⚗",
-    name = "alembic",
-    group = "Objects",
-    sub_group = "science",
-    codepoints = "2697",
-  },
-  {
+    {
     emoji = "🧪",
     name = "test tube",
     group = "Objects",
@@ -28783,28 +21937,14 @@ local emojis = {
     sub_group = "household",
     codepoints = "1F6CF FE0F",
   },
-  {
-    emoji = "🛏",
-    name = "bed",
-    group = "Objects",
-    sub_group = "household",
-    codepoints = "1F6CF",
-  },
-  {
+    {
     emoji = "🛋️",
     name = "couch and lamp",
     group = "Objects",
     sub_group = "household",
     codepoints = "1F6CB FE0F",
   },
-  {
-    emoji = "🛋",
-    name = "couch and lamp",
-    group = "Objects",
-    sub_group = "household",
-    codepoints = "1F6CB",
-  },
-  {
+    {
     emoji = "🪑",
     name = "chair",
     group = "Objects",
@@ -28951,14 +22091,7 @@ local emojis = {
     sub_group = "other-object",
     codepoints = "26B0 FE0F",
   },
-  {
-    emoji = "⚰",
-    name = "coffin",
-    group = "Objects",
-    sub_group = "other-object",
-    codepoints = "26B0",
-  },
-  {
+    {
     emoji = "🪦",
     name = "headstone",
     group = "Objects",
@@ -28972,14 +22105,7 @@ local emojis = {
     sub_group = "other-object",
     codepoints = "26B1 FE0F",
   },
-  {
-    emoji = "⚱",
-    name = "funeral urn",
-    group = "Objects",
-    sub_group = "other-object",
-    codepoints = "26B1",
-  },
-  {
+    {
     emoji = "🧿",
     name = "nazar amulet",
     group = "Objects",
@@ -29112,14 +22238,7 @@ local emojis = {
     sub_group = "warning",
     codepoints = "26A0 FE0F",
   },
-  {
-    emoji = "⚠",
-    name = "warning",
-    group = "Symbols",
-    sub_group = "warning",
-    codepoints = "26A0",
-  },
-  {
+    {
     emoji = "🚸",
     name = "children crossing",
     group = "Symbols",
@@ -29196,224 +22315,112 @@ local emojis = {
     sub_group = "warning",
     codepoints = "2622 FE0F",
   },
-  {
-    emoji = "☢",
-    name = "radioactive",
-    group = "Symbols",
-    sub_group = "warning",
-    codepoints = "2622",
-  },
-  {
+    {
     emoji = "☣️",
     name = "biohazard",
     group = "Symbols",
     sub_group = "warning",
     codepoints = "2623 FE0F",
   },
-  {
-    emoji = "☣",
-    name = "biohazard",
-    group = "Symbols",
-    sub_group = "warning",
-    codepoints = "2623",
-  },
-  {
+    {
     emoji = "⬆️",
     name = "up arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2B06 FE0F",
   },
-  {
-    emoji = "⬆",
-    name = "up arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2B06",
-  },
-  {
+    {
     emoji = "↗️",
     name = "up-right arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2197 FE0F",
   },
-  {
-    emoji = "↗",
-    name = "up-right arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2197",
-  },
-  {
+    {
     emoji = "➡️",
     name = "right arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "27A1 FE0F",
   },
-  {
-    emoji = "➡",
-    name = "right arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "27A1",
-  },
-  {
+    {
     emoji = "↘️",
     name = "down-right arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2198 FE0F",
   },
-  {
-    emoji = "↘",
-    name = "down-right arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2198",
-  },
-  {
+    {
     emoji = "⬇️",
     name = "down arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2B07 FE0F",
   },
-  {
-    emoji = "⬇",
-    name = "down arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2B07",
-  },
-  {
+    {
     emoji = "↙️",
     name = "down-left arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2199 FE0F",
   },
-  {
-    emoji = "↙",
-    name = "down-left arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2199",
-  },
-  {
+    {
     emoji = "⬅️",
     name = "left arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2B05 FE0F",
   },
-  {
-    emoji = "⬅",
-    name = "left arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2B05",
-  },
-  {
+    {
     emoji = "↖️",
     name = "up-left arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2196 FE0F",
   },
-  {
-    emoji = "↖",
-    name = "up-left arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2196",
-  },
-  {
+    {
     emoji = "↕️",
     name = "up-down arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2195 FE0F",
   },
-  {
-    emoji = "↕",
-    name = "up-down arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2195",
-  },
-  {
+    {
     emoji = "↔️",
     name = "left-right arrow",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2194 FE0F",
   },
-  {
-    emoji = "↔",
-    name = "left-right arrow",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2194",
-  },
-  {
+    {
     emoji = "↩️",
     name = "right arrow curving left",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "21A9 FE0F",
   },
-  {
-    emoji = "↩",
-    name = "right arrow curving left",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "21A9",
-  },
-  {
+    {
     emoji = "↪️",
     name = "left arrow curving right",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "21AA FE0F",
   },
-  {
-    emoji = "↪",
-    name = "left arrow curving right",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "21AA",
-  },
-  {
+    {
     emoji = "⤴️",
     name = "right arrow curving up",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2934 FE0F",
   },
-  {
-    emoji = "⤴",
-    name = "right arrow curving up",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2934",
-  },
-  {
+    {
     emoji = "⤵️",
     name = "right arrow curving down",
     group = "Symbols",
     sub_group = "arrow",
     codepoints = "2935 FE0F",
   },
-  {
-    emoji = "⤵",
-    name = "right arrow curving down",
-    group = "Symbols",
-    sub_group = "arrow",
-    codepoints = "2935",
-  },
-  {
+    {
     emoji = "🔃",
     name = "clockwise vertical arrows",
     group = "Symbols",
@@ -29476,126 +22483,63 @@ local emojis = {
     sub_group = "religion",
     codepoints = "269B FE0F",
   },
-  {
-    emoji = "⚛",
-    name = "atom symbol",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "269B",
-  },
-  {
+    {
     emoji = "🕉️",
     name = "om",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "1F549 FE0F",
   },
-  {
-    emoji = "🕉",
-    name = "om",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "1F549",
-  },
-  {
+    {
     emoji = "✡️",
     name = "star of David",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "2721 FE0F",
   },
-  {
-    emoji = "✡",
-    name = "star of David",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "2721",
-  },
-  {
+    {
     emoji = "☸️",
     name = "wheel of dharma",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "2638 FE0F",
   },
-  {
-    emoji = "☸",
-    name = "wheel of dharma",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "2638",
-  },
-  {
+    {
     emoji = "☯️",
     name = "yin yang",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "262F FE0F",
   },
-  {
-    emoji = "☯",
-    name = "yin yang",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "262F",
-  },
-  {
+    {
     emoji = "✝️",
     name = "latin cross",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "271D FE0F",
   },
-  {
-    emoji = "✝",
-    name = "latin cross",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "271D",
-  },
-  {
+    {
     emoji = "☦️",
     name = "orthodox cross",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "2626 FE0F",
   },
-  {
-    emoji = "☦",
-    name = "orthodox cross",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "2626",
-  },
-  {
+    {
     emoji = "☪️",
     name = "star and crescent",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "262A FE0F",
   },
-  {
-    emoji = "☪",
-    name = "star and crescent",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "262A",
-  },
-  {
+    {
     emoji = "☮️",
     name = "peace symbol",
     group = "Symbols",
     sub_group = "religion",
     codepoints = "262E FE0F",
   },
-  {
-    emoji = "☮",
-    name = "peace symbol",
-    group = "Symbols",
-    sub_group = "religion",
-    codepoints = "262E",
-  },
-  {
+    {
     emoji = "🕎",
     name = "menorah",
     group = "Symbols",
@@ -29735,14 +22679,7 @@ local emojis = {
     sub_group = "av-symbol",
     codepoints = "25B6 FE0F",
   },
-  {
-    emoji = "▶",
-    name = "play button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "25B6",
-  },
-  {
+    {
     emoji = "⏩",
     name = "fast-forward button",
     group = "Symbols",
@@ -29756,42 +22693,21 @@ local emojis = {
     sub_group = "av-symbol",
     codepoints = "23ED FE0F",
   },
-  {
-    emoji = "⏭",
-    name = "next track button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23ED",
-  },
-  {
+    {
     emoji = "⏯️",
     name = "play or pause button",
     group = "Symbols",
     sub_group = "av-symbol",
     codepoints = "23EF FE0F",
   },
-  {
-    emoji = "⏯",
-    name = "play or pause button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23EF",
-  },
-  {
+    {
     emoji = "◀️",
     name = "reverse button",
     group = "Symbols",
     sub_group = "av-symbol",
     codepoints = "25C0 FE0F",
   },
-  {
-    emoji = "◀",
-    name = "reverse button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "25C0",
-  },
-  {
+    {
     emoji = "⏪",
     name = "fast reverse button",
     group = "Symbols",
@@ -29805,14 +22721,7 @@ local emojis = {
     sub_group = "av-symbol",
     codepoints = "23EE FE0F",
   },
-  {
-    emoji = "⏮",
-    name = "last track button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23EE",
-  },
-  {
+    {
     emoji = "🔼",
     name = "upwards button",
     group = "Symbols",
@@ -29847,56 +22756,28 @@ local emojis = {
     sub_group = "av-symbol",
     codepoints = "23F8 FE0F",
   },
-  {
-    emoji = "⏸",
-    name = "pause button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23F8",
-  },
-  {
+    {
     emoji = "⏹️",
     name = "stop button",
     group = "Symbols",
     sub_group = "av-symbol",
     codepoints = "23F9 FE0F",
   },
-  {
-    emoji = "⏹",
-    name = "stop button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23F9",
-  },
-  {
+    {
     emoji = "⏺️",
     name = "record button",
     group = "Symbols",
     sub_group = "av-symbol",
     codepoints = "23FA FE0F",
   },
-  {
-    emoji = "⏺",
-    name = "record button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23FA",
-  },
-  {
+    {
     emoji = "⏏️",
     name = "eject button",
     group = "Symbols",
     sub_group = "av-symbol",
     codepoints = "23CF FE0F",
   },
-  {
-    emoji = "⏏",
-    name = "eject button",
-    group = "Symbols",
-    sub_group = "av-symbol",
-    codepoints = "23CF",
-  },
-  {
+    {
     emoji = "🎦",
     name = "cinema",
     group = "Symbols",
@@ -29952,56 +22833,28 @@ local emojis = {
     sub_group = "gender",
     codepoints = "2640 FE0F",
   },
-  {
-    emoji = "♀",
-    name = "female sign",
-    group = "Symbols",
-    sub_group = "gender",
-    codepoints = "2640",
-  },
-  {
+    {
     emoji = "♂️",
     name = "male sign",
     group = "Symbols",
     sub_group = "gender",
     codepoints = "2642 FE0F",
   },
-  {
-    emoji = "♂",
-    name = "male sign",
-    group = "Symbols",
-    sub_group = "gender",
-    codepoints = "2642",
-  },
-  {
+    {
     emoji = "⚧️",
     name = "transgender symbol",
     group = "Symbols",
     sub_group = "gender",
     codepoints = "26A7 FE0F",
   },
-  {
-    emoji = "⚧",
-    name = "transgender symbol",
-    group = "Symbols",
-    sub_group = "gender",
-    codepoints = "26A7",
-  },
-  {
+    {
     emoji = "✖️",
     name = "multiply",
     group = "Symbols",
     sub_group = "math",
     codepoints = "2716 FE0F",
   },
-  {
-    emoji = "✖",
-    name = "multiply",
-    group = "Symbols",
-    sub_group = "math",
-    codepoints = "2716",
-  },
-  {
+    {
     emoji = "➕",
     name = "plus",
     group = "Symbols",
@@ -30036,42 +22889,21 @@ local emojis = {
     sub_group = "math",
     codepoints = "267E FE0F",
   },
-  {
-    emoji = "♾",
-    name = "infinity",
-    group = "Symbols",
-    sub_group = "math",
-    codepoints = "267E",
-  },
-  {
+    {
     emoji = "‼️",
     name = "double exclamation mark",
     group = "Symbols",
     sub_group = "punctuation",
     codepoints = "203C FE0F",
   },
-  {
-    emoji = "‼",
-    name = "double exclamation mark",
-    group = "Symbols",
-    sub_group = "punctuation",
-    codepoints = "203C",
-  },
-  {
+    {
     emoji = "⁉️",
     name = "exclamation question mark",
     group = "Symbols",
     sub_group = "punctuation",
     codepoints = "2049 FE0F",
   },
-  {
-    emoji = "⁉",
-    name = "exclamation question mark",
-    group = "Symbols",
-    sub_group = "punctuation",
-    codepoints = "2049",
-  },
-  {
+    {
     emoji = "❓",
     name = "red question mark",
     group = "Symbols",
@@ -30106,14 +22938,7 @@ local emojis = {
     sub_group = "punctuation",
     codepoints = "3030 FE0F",
   },
-  {
-    emoji = "〰",
-    name = "wavy dash",
-    group = "Symbols",
-    sub_group = "punctuation",
-    codepoints = "3030",
-  },
-  {
+    {
     emoji = "💱",
     name = "currency exchange",
     group = "Symbols",
@@ -30134,42 +22959,21 @@ local emojis = {
     sub_group = "other-symbol",
     codepoints = "2695 FE0F",
   },
-  {
-    emoji = "⚕",
-    name = "medical symbol",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2695",
-  },
-  {
+    {
     emoji = "♻️",
     name = "recycling symbol",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "267B FE0F",
   },
-  {
-    emoji = "♻",
-    name = "recycling symbol",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "267B",
-  },
-  {
+    {
     emoji = "⚜️",
     name = "fleur-de-lis",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "269C FE0F",
   },
-  {
-    emoji = "⚜",
-    name = "fleur-de-lis",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "269C",
-  },
-  {
+    {
     emoji = "🔱",
     name = "trident emblem",
     group = "Symbols",
@@ -30211,28 +23015,14 @@ local emojis = {
     sub_group = "other-symbol",
     codepoints = "2611 FE0F",
   },
-  {
-    emoji = "☑",
-    name = "check box with check",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2611",
-  },
-  {
+    {
     emoji = "✔️",
     name = "check mark",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "2714 FE0F",
   },
-  {
-    emoji = "✔",
-    name = "check mark",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2714",
-  },
-  {
+    {
     emoji = "❌",
     name = "cross mark",
     group = "Symbols",
@@ -30267,266 +23057,133 @@ local emojis = {
     sub_group = "other-symbol",
     codepoints = "303D FE0F",
   },
-  {
-    emoji = "〽",
-    name = "part alternation mark",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "303D",
-  },
-  {
+    {
     emoji = "✳️",
     name = "eight-spoked asterisk",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "2733 FE0F",
   },
-  {
-    emoji = "✳",
-    name = "eight-spoked asterisk",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2733",
-  },
-  {
+    {
     emoji = "✴️",
     name = "eight-pointed star",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "2734 FE0F",
   },
-  {
-    emoji = "✴",
-    name = "eight-pointed star",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2734",
-  },
-  {
+    {
     emoji = "❇️",
     name = "sparkle",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "2747 FE0F",
   },
-  {
-    emoji = "❇",
-    name = "sparkle",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2747",
-  },
-  {
+    {
     emoji = "©️",
     name = "copyright",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "00A9 FE0F",
   },
-  {
-    emoji = "©",
-    name = "copyright",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "00A9",
-  },
-  {
+    {
     emoji = "®️",
     name = "registered",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "00AE FE0F",
   },
-  {
-    emoji = "®",
-    name = "registered",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "00AE",
-  },
-  {
+    {
     emoji = "™️",
     name = "trade mark",
     group = "Symbols",
     sub_group = "other-symbol",
     codepoints = "2122 FE0F",
   },
-  {
-    emoji = "™",
-    name = "trade mark",
-    group = "Symbols",
-    sub_group = "other-symbol",
-    codepoints = "2122",
-  },
-  {
+    {
     emoji = "#️⃣",
     name = "#",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0023 FE0F 20E3",
   },
-  {
-    emoji = "#⃣",
-    name = "#",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0023 20E3",
-  },
-  {
+    {
     emoji = "*️⃣",
     name = "keycap: *",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "002A FE0F 20E3",
   },
-  {
-    emoji = "*⃣",
-    name = "keycap: *",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "002A 20E3",
-  },
-  {
+    {
     emoji = "0️⃣",
     name = "keycap: 0",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0030 FE0F 20E3",
   },
-  {
-    emoji = "0⃣",
-    name = "keycap: 0",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0030 20E3",
-  },
-  {
+    {
     emoji = "1️⃣",
     name = "keycap: 1",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0031 FE0F 20E3",
   },
-  {
-    emoji = "1⃣",
-    name = "keycap: 1",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0031 20E3",
-  },
-  {
+    {
     emoji = "2️⃣",
     name = "keycap: 2",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0032 FE0F 20E3",
   },
-  {
-    emoji = "2⃣",
-    name = "keycap: 2",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0032 20E3",
-  },
-  {
+    {
     emoji = "3️⃣",
     name = "keycap: 3",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0033 FE0F 20E3",
   },
-  {
-    emoji = "3⃣",
-    name = "keycap: 3",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0033 20E3",
-  },
-  {
+    {
     emoji = "4️⃣",
     name = "keycap: 4",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0034 FE0F 20E3",
   },
-  {
-    emoji = "4⃣",
-    name = "keycap: 4",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0034 20E3",
-  },
-  {
+    {
     emoji = "5️⃣",
     name = "keycap: 5",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0035 FE0F 20E3",
   },
-  {
-    emoji = "5⃣",
-    name = "keycap: 5",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0035 20E3",
-  },
-  {
+    {
     emoji = "6️⃣",
     name = "keycap: 6",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0036 FE0F 20E3",
   },
-  {
-    emoji = "6⃣",
-    name = "keycap: 6",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0036 20E3",
-  },
-  {
+    {
     emoji = "7️⃣",
     name = "keycap: 7",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0037 FE0F 20E3",
   },
-  {
-    emoji = "7⃣",
-    name = "keycap: 7",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0037 20E3",
-  },
-  {
+    {
     emoji = "8️⃣",
     name = "keycap: 8",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0038 FE0F 20E3",
   },
-  {
-    emoji = "8⃣",
-    name = "keycap: 8",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0038 20E3",
-  },
-  {
+    {
     emoji = "9️⃣",
     name = "keycap: 9",
     group = "Symbols",
     sub_group = "keycap",
     codepoints = "0039 FE0F 20E3",
   },
-  {
-    emoji = "9⃣",
-    name = "keycap: 9",
-    group = "Symbols",
-    sub_group = "keycap",
-    codepoints = "0039 20E3",
-  },
-  {
+    {
     emoji = "🔟",
     name = "keycap: 10",
     group = "Symbols",
@@ -30575,14 +23232,7 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "1F170 FE0F",
   },
-  {
-    emoji = "🅰",
-    name = "A button (blood type)",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "1F170",
-  },
-  {
+    {
     emoji = "🆎",
     name = "AB button (blood type)",
     group = "Symbols",
@@ -30596,14 +23246,7 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "1F171 FE0F",
   },
-  {
-    emoji = "🅱",
-    name = "B button (blood type)",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "1F171",
-  },
-  {
+    {
     emoji = "🆑",
     name = "CL button",
     group = "Symbols",
@@ -30631,14 +23274,7 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "2139 FE0F",
   },
-  {
-    emoji = "ℹ",
-    name = "information",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "2139",
-  },
-  {
+    {
     emoji = "🆔",
     name = "ID button",
     group = "Symbols",
@@ -30652,14 +23288,7 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "24C2 FE0F",
   },
-  {
-    emoji = "Ⓜ",
-    name = "circled M",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "24C2",
-  },
-  {
+    {
     emoji = "🆕",
     name = "NEW button",
     group = "Symbols",
@@ -30680,14 +23309,7 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "1F17E FE0F",
   },
-  {
-    emoji = "🅾",
-    name = "O button (blood type)",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "1F17E",
-  },
-  {
+    {
     emoji = "🆗",
     name = "OK button",
     group = "Symbols",
@@ -30701,14 +23323,7 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "1F17F FE0F",
   },
-  {
-    emoji = "🅿",
-    name = "P button",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "1F17F",
-  },
-  {
+    {
     emoji = "🆘",
     name = "SOS button",
     group = "Symbols",
@@ -30743,28 +23358,14 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "1F202 FE0F",
   },
-  {
-    emoji = "🈂",
-    name = "Japanese “service charge” button",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "1F202",
-  },
-  {
+    {
     emoji = "🈷️",
     name = "Japanese “monthly amount” button",
     group = "Symbols",
     sub_group = "alphanum",
     codepoints = "1F237 FE0F",
   },
-  {
-    emoji = "🈷",
-    name = "Japanese “monthly amount” button",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "1F237",
-  },
-  {
+    {
     emoji = "🈶",
     name = "Japanese “not free of charge” button",
     group = "Symbols",
@@ -30841,28 +23442,14 @@ local emojis = {
     sub_group = "alphanum",
     codepoints = "3297 FE0F",
   },
-  {
-    emoji = "㊗",
-    name = "Japanese “congratulations” button",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "3297",
-  },
-  {
+    {
     emoji = "㊙️",
     name = "Japanese “secret” button",
     group = "Symbols",
     sub_group = "alphanum",
     codepoints = "3299 FE0F",
   },
-  {
-    emoji = "㊙",
-    name = "Japanese “secret” button",
-    group = "Symbols",
-    sub_group = "alphanum",
-    codepoints = "3299",
-  },
-  {
+    {
     emoji = "🈺",
     name = "Japanese “open for business” button",
     group = "Symbols",
@@ -31009,28 +23596,14 @@ local emojis = {
     sub_group = "geometric",
     codepoints = "25FC FE0F",
   },
-  {
-    emoji = "◼",
-    name = "black medium square",
-    group = "Symbols",
-    sub_group = "geometric",
-    codepoints = "25FC",
-  },
-  {
+    {
     emoji = "◻️",
     name = "white medium square",
     group = "Symbols",
     sub_group = "geometric",
     codepoints = "25FB FE0F",
   },
-  {
-    emoji = "◻",
-    name = "white medium square",
-    group = "Symbols",
-    sub_group = "geometric",
-    codepoints = "25FB",
-  },
-  {
+    {
     emoji = "◾",
     name = "black medium-small square",
     group = "Symbols",
@@ -31051,28 +23624,14 @@ local emojis = {
     sub_group = "geometric",
     codepoints = "25AA FE0F",
   },
-  {
-    emoji = "▪",
-    name = "black small square",
-    group = "Symbols",
-    sub_group = "geometric",
-    codepoints = "25AA",
-  },
-  {
+    {
     emoji = "▫️",
     name = "white small square",
     group = "Symbols",
     sub_group = "geometric",
     codepoints = "25AB FE0F",
   },
-  {
-    emoji = "▫",
-    name = "white small square",
-    group = "Symbols",
-    sub_group = "geometric",
-    codepoints = "25AB",
-  },
-  {
+    {
     emoji = "🔶",
     name = "large orange diamond",
     group = "Symbols",
@@ -31177,70 +23736,28 @@ local emojis = {
     sub_group = "flag",
     codepoints = "1F3F3 FE0F",
   },
-  {
-    emoji = "🏳",
-    name = "white flag",
-    group = "Flags",
-    sub_group = "flag",
-    codepoints = "1F3F3",
-  },
-  {
+    {
     emoji = "🏳️‍🌈",
     name = "rainbow flag",
     group = "Flags",
     sub_group = "flag",
     codepoints = "1F3F3 FE0F 200D 1F308",
   },
-  {
-    emoji = "🏳‍🌈",
-    name = "rainbow flag",
-    group = "Flags",
-    sub_group = "flag",
-    codepoints = "1F3F3 200D 1F308",
-  },
-  {
+    {
     emoji = "🏳️‍⚧️",
     name = "transgender flag",
     group = "Flags",
     sub_group = "flag",
     codepoints = "1F3F3 FE0F 200D 26A7 FE0F",
   },
-  {
-    emoji = "🏳‍⚧️",
-    name = "transgender flag",
-    group = "Flags",
-    sub_group = "flag",
-    codepoints = "1F3F3 200D 26A7 FE0F",
-  },
-  {
-    emoji = "🏳️‍⚧",
-    name = "transgender flag",
-    group = "Flags",
-    sub_group = "flag",
-    codepoints = "1F3F3 FE0F 200D 26A7",
-  },
-  {
-    emoji = "🏳‍⚧",
-    name = "transgender flag",
-    group = "Flags",
-    sub_group = "flag",
-    codepoints = "1F3F3 200D 26A7",
-  },
-  {
+        {
     emoji = "🏴‍☠️",
     name = "pirate flag",
     group = "Flags",
     sub_group = "flag",
     codepoints = "1F3F4 200D 2620 FE0F",
   },
-  {
-    emoji = "🏴‍☠",
-    name = "pirate flag",
-    group = "Flags",
-    sub_group = "flag",
-    codepoints = "1F3F4 200D 2620",
-  },
-  {
+    {
     emoji = "🇦🇨",
     name = "flag: Ascension Island",
     group = "Flags",
