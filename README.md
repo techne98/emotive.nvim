@@ -7,4 +7,4 @@ current buffer.
 
 # Contributing
 
-If you notice that an emoji is missing, please consider adding it to the [lua/emotive/emoji_db.lua](https://github.com/techne98/emotive/lua/emotive/emoji_db) file. 
+If you notice that an emoji is missing, please consider adding it to the [emoji_db.lua](https://github.com/techne98/emotive/blob/main/lua/emotive/emoji_db.lua) file.
