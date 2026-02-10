@@ -35,4 +35,4 @@ local emojis = function(opts)
 
   end
 
-emojis()
+return { emojis = emojis }
