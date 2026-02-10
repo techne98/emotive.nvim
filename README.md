@@ -22,7 +22,11 @@ Add the following code to your [Lazy](https://github.com/folke/lazy.nvim) plugin
 
 You can open the emoji picker in command-line mode, for example with `:Telescope emotive emojis`. 
 
-You can create a keybind for this too. 
+Example custom keybind:
+
+```lua
+vim.keymap.set('n', '<leader>fe', require('telescope').extensions.emotive.emojis)
+```
 
 # Contributing
 
