@@ -3,7 +3,7 @@ local finders = require "telescope.finders"
 local conf = require("telescope.config").values
 local actions = require "telescope.actions"
 local action_state = require "telescope.actions.state"
-local emoji_db = require("emojis")
+local emoji_db = require("emoji_db")
 
 local function get_formatted_emojis()
     local results = {}
