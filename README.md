@@ -32,7 +32,7 @@ vim.keymap.set('n', '<leader>fe', require('telescope').extensions.emotive.emojis
 
 # Contributing
 
-If you notice that an emoji is missing, please consider adding it to the [emoji_db.lua](https://github.com/techne98/emotive/blob/main/lua/emotive/emoji_db.lua) file.
+If you notice that an emoji is missing, please consider adding it to the [emoji_db.lua](https://github.com/techne98/emotive.nvim/blob/main/lua/emotive/emoji_db.lua) file.
 
 Please do the following:
 
