@@ -5,6 +5,8 @@ Emotive is an emoji picker extension for [Telescope](https://github.com/nvim-tel
 Users can use the Telescope UI to find emojis by name and copy them into their
 current buffer.
 
+https://github.com/user-attachments/assets/b5ef4112-19d5-4fc4-a3c7-6f1bb85be67a
+
 # Installation
 
 This plugin requires you to have Telescope and its required dependencies installed.
