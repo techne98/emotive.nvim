@@ -385,6 +385,12 @@ local emojis = {
     codepoints = "1F634",
   },
   {
+    emoji = "🫩",
+    name = "face with bags under eyes",
+    group = "Smileys & Emotion",
+    codepoints = "1FAE9",
+  },
+  {
     emoji = "😷",
     name = "face with medical mask",
     group = "Smileys & Emotion",
@@ -1160,6 +1166,12 @@ local emojis = {
     group = "Smileys & Emotion",
     sub_group = "emotion",
     codepoints = "1F4A4",
+  },
+  {
+    emoji = "🫟",
+    name = "splatter",
+    group = "Smileys & Emotion",
+    codepoints = "1FADF",
   },
   {
     emoji = "👋",
@@ -16198,6 +16210,12 @@ local emojis = {
     codepoints = "1F463",
   },
   {
+    emoji = "🫆",
+    name = "fingerprint",
+    group = "People & Body",
+    codepoints = "1FAC6",
+  },
+  {
     emoji = "🐵",
     name = "monkey face",
     group = "Animals & Nature",
@@ -17262,6 +17280,12 @@ local emojis = {
     codepoints = "1F344",
   },
   {
+    emoji = "🪾",
+    name = "leafless tree",
+    group = "Animals & Nature",
+    codepoint = "1FABE",
+  },
+  {
     emoji = "🍇",
     name = "grapes",
     group = "Food & Drink",
@@ -17512,6 +17536,12 @@ local emojis = {
     group = "Food & Drink",
     sub_group = "food-vegetable",
     codepoints = "1FADB",
+  },
+  {
+    emoji = "🫜",
+    name = "root vegetable",
+    group = "Food & Drink",
+    codepoints = "1FADC",
   },
   {
     emoji = "🍞",
@@ -20846,6 +20876,13 @@ local emojis = {
     codepoints = "1FA88",
   },
   {
+    emoji = "🪉",
+    name = "harp",
+    group = "Objects",
+    sub_group = "musical-instrument",
+    codepoints = "1FA89",
+  },
+  {
     emoji = "📱",
     name = "mobile phone",
     group = "Objects",
@@ -21803,6 +21840,13 @@ local emojis = {
     group = "Objects",
     sub_group = "tool",
     codepoints = "1FA9C",
+  },
+  {
+    emoji = "🪏",
+    name = "shovel",
+    group = "Objects",
+    sub_group = "tool",
+    codepoints = "1FA8F",
   },
   {
     emoji = "⚗️",
