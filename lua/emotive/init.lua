@@ -5,12 +5,21 @@ local actions = require "telescope.actions"
 local action_state = require "telescope.actions.state"
 local emoji_db = require("emotive.emoji_db")
 
+local emoji_cache = nil
+
 local function get_formatted_emojis()
+    if emoji_cache then
+        vim.notify("Using cache, did not generate new table", vim.log.levels.INFO)
+        return emoji_cache
+    end
+
     local results = {}
     for _, emoji in ipairs(emoji_db) do
         local emoji_str = emoji.emoji .. " " .. emoji.name
         table.insert(results, emoji_str)
     end
+    vim.notify("Emoji table created", vim.log.levels.INFO)
+    emoji_cache = results
     return results
 end
 
