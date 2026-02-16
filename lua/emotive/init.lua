@@ -23,9 +23,9 @@ local emojis = function(opts)
     sorter = conf.generic_sorter(opts),
     attach_mappings = function(prompt_bufnr, map)
       actions.select_default:replace(function()
-      actions.close(prompt_bufnr)
-      local selection = action_state.get_selected_entry()
-      vim.api.nvim_put({ selection.value.emoji }, "", false, true)
+        actions.close(prompt_bufnr)
+        local selection = action_state.get_selected_entry()
+        vim.api.nvim_put({ selection.value.emoji }, "", false, true)
       end)
       return true
     end,
