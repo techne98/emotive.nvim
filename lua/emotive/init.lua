@@ -30,6 +30,6 @@ local emojis = function(opts)
       return true
     end,
   }):find()
-  end
+end
 
 return { emojis = emojis }
