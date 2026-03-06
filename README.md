@@ -15,7 +15,7 @@ Add the following code to your [Lazy](https://github.com/folke/lazy.nvim) plugin
 
 ```lua
 {
-  "techne98/emotive.nvim",
+  "jackwsmth/emotive.nvim",
   config = false
 }
 ```
